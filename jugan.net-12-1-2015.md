@@ -5,7 +5,7 @@
 
 ### 금주의 패키지
 
-<script src="https://gist.github.com/bleroy/c5e8f2ebdbd694e0913f.js"></script>
+<script src="https://gist.github.com/bleroy/c5e8f2ebdbd694e0913f.js" \></script \>
 
 ### 금주의 커뮤니티
 
