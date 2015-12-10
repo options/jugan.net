@@ -42,7 +42,7 @@ Marc Gravell이 기존 작성된 닷넷 라이브러리를 .NET Core 용으로 �
 
 * [Why Microsoft's .NET Core is the future of its development platform]
 
-Nate Barbettini는 맥 운영체제에서 부트 캠프와 패러렐즈를 이용해 어떻게 비주얼 스튜디오 개발 환경을 구성할 수 있는지에 대해 글을 작성했습니다.
+Nate Barbettini는 맥 운영체제에서 부트 캠프(BootCamp)와 패러렐즈(Parallels)를 이용해 어떻게 비주얼 스튜디오 개발 환경을 구성할 수 있는지에 대해 글을 작성했습니다.
 * [The Ultimate Guide to Using Visual Studio on a Mac]
 
 Mahmut Jomaa와 Shawn Wildermuth는 기존에 ASP.NET 5 베타 8으로 작성된 응용 프로그램을 RC1 버전으로 마이그레이션 하는 방법을 자신들의 블로그를 통해 공유 해 주었습니다.
@@ -66,7 +66,7 @@ Mahmut Jomaa와 Shawn Wildermuth는 기존에 ASP.NET 5 베타 8으로 작성된
 [Gist]: <https://gist.github.com/options/e9fc443b8c882157fe4a>
 [팀 블로그]: <http://blogs.msdn.com/b/dotnet>
 [F#/Analytics + IoT + Azure]: <http://www.meetup.com/TRINUG/events/225097782/>
-[Announcing .NET Core and ASP.NET 5 RC]: <https://github.com/joemccann/dillinger>
+
 [Announcing ASP.NET 5 RC]: <http://blogs.msdn.com/b/webdev/archive/2015/11/18/announcing-asp-net-5-release-candidate-1.aspx>
 [Connect(); // 2015]: <https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/>
 
