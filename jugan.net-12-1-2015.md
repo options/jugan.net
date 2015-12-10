@@ -28,34 +28,32 @@
 
 ### 금주의 커뮤니티 소식
 
-TRINUG는 Releigh(NC, USA)에 있는 개발자 모임으로 매월 둘째 주 수요일에 모임을 가집니다.
-
-12월 1일 저녁 6시에는 Raspberry Pi 2에 윈도우 10을 설치하는 Hands On Lab 시간을 가졌습니다. 
-
-[F#/Analytics + IoT + Azure]
+12월14일 ASP.NET 개발자 모임인 [ASP.NET Korea User Group]에서 연말 모임을 개최할 예정입니다. 자세한 내용은 [ASP.NET Korea 2015 연말 모임]을 확인 하세요.
 
 ### 금주의 블로그 글
 
-“Marc Gravell”님이 기존 작성된 닷넷 라이브러리를 .NET Core 용으로 어떻게 변환할 수 있는지를 소개하는 글을 3부에 걸쳐 공개했습니다.
-The road to DNX – part 1 (http://blog.marcgravell.com/2015/11/the-road-to-dnx-part-1.html)
-The road to DNX - part 2 (http://blog.marcgravell.com/2015/11/the-road-to-dnx-part-2.html)
-The road to DNX – part 3 (http://blog.marcgravell.com/2015/11/the-road-to-dnxpart-3.html)
+Marc Gravell이 기존 작성된 닷넷 라이브러리를 .NET Core 용으로 어떻게 변환할 수 있는지를 소개하는 글을 3부에 걸쳐 공개했습니다.
 
-“The Register” IT 뉴스 사이트에서 .NET Core가 마이크로소프트의 향후 개발 플랫폼에서 어떤 의미를 지니는지 전하고 있습니다.
-Why Microsoft's .NET Core is the future of its development platform (http://www.theregister.co.uk/2015/11/20/microsoft_net_core_development_platform_fork/)
+* [The road to DNX – part 1]
+* [The road to DNX - part 2]
+* [The road to DNX – part 3]
 
-“Nate Barbettini”님이 맥 운영체제에서 부트 캠프와 패러렐즈를 이용해 어떻게 비주얼 스튜디오 개발 환경을 구성할 수 있는지에 대해 글을 작성했습니다.
-The Ultimate Guide to Using Visual Studio on a Mac (https://stormpath.com/blog/ultimate-guide-to-using-visual-studio-on-a-mac/)
+영국의 IT 소식지인 The Register는 .NET Core가 마이크로소프트의 향후 개발 플랫폼에서 어떤 의미를 지니는지 전하는 글을 게재하였습니다.
 
-“Mahmut Jomaa”님과 “Shawn Wildermuth”님이 기존 작성된 ASP.NET 5 베타 8 응용 프로그램을 RC1 버전으로 마이그레이션할 수 있는 방법을 자신들의 블로그에서 개별적으로 작성해 공유해 주었습니다.
-Upgrading your ASP.NET 5 application from beta8 to RC1 (http://mjomaa.com/computer-science/frameworks/asp-net-mvc/157-upgrading-your-asp-net-5-application-from-beta8-to-rc1)
-Upgrading ASP.NET 5 Beta 8 to RC1 (http://wildermuth.com/2015/11/18/Upgrading_ASP_NET_5_Beta_8_to_RC1)
+* [Why Microsoft's .NET Core is the future of its development platform]
 
-심지어 “Armen Shimoon”님은 ASP.NET 5 베타 8과 RC1의 차이점을 “Diff” 기능을 이용해 소스코드 수준에서 분석한 글을 공개했습니다.
-ASP.NET 5 Beta 8 to RC1 Annotated Diff (http://dotnetliberty.com/index.php/2015/11/23/asp-net-5-beta-8-to-rc1-annotated-diff/)
+Nate Barbettini는 맥 운영체제에서 부트 캠프와 패러렐즈를 이용해 어떻게 비주얼 스튜디오 개발 환경을 구성할 수 있는지에 대해 글을 작성했습니다.
+* [The Ultimate Guide to Using Visual Studio on a Mac]
 
-마지막으로 “Shayne Boyer”님은 .NET Core의 CLI(명령행 인터페이스)와 관련된 사용법을 설명하는 글을 공개했습니다.
-Preparing for dotnet cli (http://tattoocoder.com/preparing-for-dotnet-cli/)
+Mahmut Jomaa와 Shawn Wildermuth는 기존에 ASP.NET 5 베타 8으로 작성된 응용 프로그램을 RC1 버전으로 마이그레이션 하는 방법을 자신들의 블로그를 통해 공유 해 주었습니다.
+* [Upgrading your ASP.NET 5 application from beta8 to RC1]
+* [Upgrading ASP.NET 5 Beta 8 to RC1]
+
+심지어 Armen Shimoon은 ASP.NET 5 베타 8과 RC1의 차이점을 “Diff” 기능을 이용해 소스코드 수준에서 분석한 글을 공개 했습니다.
+* [ASP.NET 5 Beta 8 to RC1 Annotated Diff]
+
+마지막으로 Shayne Boyer는 .NET Core의 CLI(명령행 인터페이스)와 관련된 사용법을 설명하는 글을 공개했습니다.
+* [Preparing for dotnet cli]
 
 [What’s New in Visual Studio Update 1 for .NET Managed Languages]: <http://blogs.msdn.com/b/dotnet/archive/2015/11/30/what-s-new-in-visual-studio-update-1-for-net-managed-languages.aspx>
 
@@ -73,4 +71,23 @@ Preparing for dotnet cli (http://tattoocoder.com/preparing-for-dotnet-cli/)
 [Connect(); // 2015]: <https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/>
 
 
-[HtmlAgilityPack]:<https://www.nuget.org/packages/HtmlAgilityPack/>
+[HtmlAgilityPack]: <https://www.nuget.org/packages/HtmlAgilityPack/>
+
+[ASP.NET Korea 2015 연말 모임]:<https://www.facebook.com/groups/AspxKorea/events/>
+
+[ASP.NET Korea User Group]:<https://www.facebook.com/groups/AspxKorea/>
+
+[The road to DNX – part 1]:<http://blog.marcgravell.com/2015/11/the-road-to-dnx-part-1.html>
+[The road to DNX - part 2]:<http://blog.marcgravell.com/2015/11/the-road-to-dnx-part-2.html>
+[The road to DNX – part 3]:<http://blog.marcgravell.com/2015/11/the-road-to-dnxpart-3.html>
+
+[Why Microsoft's .NET Core is the future of its development platform]: <http://www.theregister.co.uk/2015/11/20/microsoft_net_core_development_platform_fork/>
+
+[The Ultimate Guide to Using Visual Studio on a Mac]:<https://stormpath.com/blog/ultimate-guide-to-using-visual-studio-on-a-mac/>
+
+[Upgrading your ASP.NET 5 application from beta8 to RC1]: <http://mjomaa.com/computer-science/frameworks/asp-net-mvc/157-upgrading-your-asp-net-5-application-from-beta8-to-rc1>
+[Upgrading ASP.NET 5 Beta 8 to RC1]: <http://wildermuth.com/2015/11/18/Upgrading_ASP_NET_5_Beta_8_to_RC1>
+
+[ASP.NET 5 Beta 8 to RC1 Annotated Diff]: <http://dotnetliberty.com/index.php/2015/11/23/asp-net-5-beta-8-to-rc1-annotated-diff/>
+
+[Preparing for dotnet cli]: <http://tattoocoder.com/preparing-for-dotnet-cli/>
