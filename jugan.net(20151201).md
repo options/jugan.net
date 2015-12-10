@@ -45,7 +45,7 @@ Marc Gravell이 기존 작성된 닷넷 라이브러리를 .NET Core 용으로 �
 Nate Barbettini는 맥 운영체제에서 부트 캠프(BootCamp)와 패러렐즈(Parallels)를 이용해 어떻게 비주얼 스튜디오 개발 환경을 구성할 수 있는지에 대해 글을 작성했습니다.
 * [The Ultimate Guide to Using Visual Studio on a Mac]
 
-Mahmut Jomaa와 Shawn Wildermuth는 기존에 ASP.NET 5 베타 8으로 작성된 응용 프로그램을 RC1 버전으로 마이그레이션 하는 방법을 자신들의 블로그를 통해 공유 해 주었습니다.
+Mahmut Jomaa와 Shawn Wildermuth는 기존에 ASP.NET 5 베타 8으로 작성된 응용 프로그램을 RC1 버전으로 마이그레이션 하는 방법을 자신들의 블로그를 통해 공유 했습니다.
 * [Upgrading your ASP.NET 5 application from beta8 to RC1]
 * [Upgrading ASP.NET 5 Beta 8 to RC1]
 
