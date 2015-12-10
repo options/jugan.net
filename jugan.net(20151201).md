@@ -64,12 +64,14 @@ Mahmut Jomaa와 Shawn Wildermuth는 기존에 ASP.NET 5 베타 8으로 작성된
 [Announcing .NET Core and ASP.NET 5 RC]: <http://blogs.msdn.com/b/dotnet/archive/2015/11/18/announcing-net-core-and-asp-net-5-rc.aspx>
 
 [Gist]: <https://gist.github.com/options/e9fc443b8c882157fe4a>
+
 [팀 블로그]: <http://blogs.msdn.com/b/dotnet>
+
 [F#/Analytics + IoT + Azure]: <http://www.meetup.com/TRINUG/events/225097782/>
 
 [Announcing ASP.NET 5 RC]: <http://blogs.msdn.com/b/webdev/archive/2015/11/18/announcing-asp-net-5-release-candidate-1.aspx>
-[Connect(); // 2015]: <https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/>
 
+[Connect(); // 2015]: <https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/>
 
 [HtmlAgilityPack]: <https://www.nuget.org/packages/HtmlAgilityPack/>
 
@@ -78,7 +80,9 @@ Mahmut Jomaa와 Shawn Wildermuth는 기존에 ASP.NET 5 베타 8으로 작성된
 [ASP.NET Korea User Group]:<https://www.facebook.com/groups/AspxKorea/>
 
 [The road to DNX – part 1]:<http://blog.marcgravell.com/2015/11/the-road-to-dnx-part-1.html>
+
 [The road to DNX - part 2]:<http://blog.marcgravell.com/2015/11/the-road-to-dnx-part-2.html>
+
 [The road to DNX – part 3]:<http://blog.marcgravell.com/2015/11/the-road-to-dnxpart-3.html>
 
 [Why Microsoft's .NET Core is the future of its development platform]: <http://www.theregister.co.uk/2015/11/20/microsoft_net_core_development_platform_fork/>
@@ -86,6 +90,7 @@ Mahmut Jomaa와 Shawn Wildermuth는 기존에 ASP.NET 5 베타 8으로 작성된
 [The Ultimate Guide to Using Visual Studio on a Mac]:<https://stormpath.com/blog/ultimate-guide-to-using-visual-studio-on-a-mac/>
 
 [Upgrading your ASP.NET 5 application from beta8 to RC1]: <http://mjomaa.com/computer-science/frameworks/asp-net-mvc/157-upgrading-your-asp-net-5-application-from-beta8-to-rc1>
+
 [Upgrading ASP.NET 5 Beta 8 to RC1]: <http://wildermuth.com/2015/11/18/Upgrading_ASP_NET_5_Beta_8_to_RC1>
 
 [ASP.NET 5 Beta 8 to RC1 Annotated Diff]: <http://dotnetliberty.com/index.php/2015/11/23/asp-net-5-beta-8-to-rc1-annotated-diff/>
