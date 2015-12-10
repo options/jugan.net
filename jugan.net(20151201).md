@@ -22,7 +22,7 @@
 
 간혹 HTML 문서로부터 정보를 추출해야 할 때가 있습니다. XML 형식을 따르는 HTML 문서이기 때문에 이런 경우 가볍게 직접 파서(Parser)를 작성하거나 정규 표현식을 사용할 수 있는데 그보다는 역시 전문적인 HTML 파서로 DOM 쿼리를 이용해 추출하는 것이 더 나은 선택일 것입니다. 바로 이럴 때 선택할 수 있는 라이브러리가 HtmlAgilityPack입니다.
 
-[HtmlAgilityPack]
+* [HtmlAgilityPack]
 
 <script src="https://gist.github.com/bleroy/c5e8f2ebdbd694e0913f.js"></script>
 
