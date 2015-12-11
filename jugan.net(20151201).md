@@ -55,29 +55,29 @@ Mahmut Jomaa와 Shawn Wildermuth는 기존에 ASP.NET 5 베타 8으로 작성된
 마지막으로 Shayne Boyer는 .NET Core의 CLI(명령행 인터페이스)와 관련된 사용법을 설명하는 글을 공개했습니다.
 * [Preparing for dotnet cli]
 
-[What’s New in Visual Studio Update 1 for .NET Managed Languages]: <http://blogs.msdn.com/b/dotnet/archive/2015/11/30/what-s-new-in-visual-studio-update-1-for-net-managed-languages.aspx>
-
-[.NET Framework 4.6.1 is now available]: <http://blogs.msdn.com/b/dotnet/archive/2015/11/30/net-framework-4-6-1-is-now-available.aspx>
-
-[Announcing ASP.NET 5 Release Candidate 1]: <http://blogs.msdn.com/b/dotnet/archive/2015/11/18/announcing-net-core-and-asp-net-5-rc.aspx>
-
-[Announcing .NET Core and ASP.NET 5 RC]: <http://blogs.msdn.com/b/dotnet/archive/2015/11/18/announcing-net-core-and-asp-net-5-rc.aspx>
+[팀 블로그]: <http://blogs.msdn.com/b/dotnet>
 
 [Gist]: <https://gist.github.com/options/e9fc443b8c882157fe4a>
 
-[팀 블로그]: <http://blogs.msdn.com/b/dotnet>
+[Connect(); // 2015]: <https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/>
+
+[Announcing .NET Core and ASP.NET 5 RC]: <http://blogs.msdn.com/b/dotnet/archive/2015/11/18/announcing-net-core-and-asp-net-5-rc.aspx>
+
+[Announcing ASP.NET 5 Release Candidate 1]: <http://blogs.msdn.com/b/webdev/archive/2015/11/18/announcing-asp-net-5-release-candidate-1.aspx>
+
+[.NET Framework 4.6.1 is now available]: <http://blogs.msdn.com/b/dotnet/archive/2015/11/30/net-framework-4-6-1-is-now-available.aspx>
+
+[What’s New in Visual Studio Update 1 for .NET Managed Languages]: <http://blogs.msdn.com/b/dotnet/archive/2015/11/30/what-s-new-in-visual-studio-update-1-for-net-managed-languages.aspx>
+
+[HtmlAgilityPack]: <https://www.nuget.org/packages/HtmlAgilityPack/>
+
+[ASP.NET Korea User Group]:<https://www.facebook.com/groups/AspxKorea/>
+
+[ASP.NET Korea 2015 연말 모임]:<https://www.facebook.com/groups/AspxKorea/events/>
 
 [F#/Analytics + IoT + Azure]: <http://www.meetup.com/TRINUG/events/225097782/>
 
 [Announcing ASP.NET 5 RC]: <http://blogs.msdn.com/b/webdev/archive/2015/11/18/announcing-asp-net-5-release-candidate-1.aspx>
-
-[Connect(); // 2015]: <https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/>
-
-[HtmlAgilityPack]: <https://www.nuget.org/packages/HtmlAgilityPack/>
-
-[ASP.NET Korea 2015 연말 모임]:<https://www.facebook.com/groups/AspxKorea/events/>
-
-[ASP.NET Korea User Group]:<https://www.facebook.com/groups/AspxKorea/>
 
 [The road to DNX – part 1]:<http://blog.marcgravell.com/2015/11/the-road-to-dnx-part-1.html>
 
