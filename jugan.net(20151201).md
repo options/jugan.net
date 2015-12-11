@@ -34,7 +34,7 @@
 
 ### 금주의 블로그 글
 
-Marc Gravell이 기존 작성된 닷넷 라이브러리를 .NET Core 용으로 어떻게 변환할 수 있는지를 소개하는 글을 3부에 걸쳐 공개했습니다.
+Marc Gravell이 기존에 작성된 닷넷 라이브러리를 .NET Core 용으로 어떻게 변환할 수 있는지를 소개하는 글을 3부에 걸쳐 공개했습니다.
 
 * [The road to DNX – part 1](http://blog.marcgravell.com/2015/11/the-road-to-dnx-part-1.html)
 * [The road to DNX – part 2](http://blog.marcgravell.com/2015/11/the-road-to-dnx-part-2.html)
