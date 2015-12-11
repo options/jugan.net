@@ -37,7 +37,7 @@
 Marc Gravell이 기존 작성된 닷넷 라이브러리를 .NET Core 용으로 어떻게 변환할 수 있는지를 소개하는 글을 3부에 걸쳐 공개했습니다.
 
 * [The road to DNX – part 1](http://blog.marcgravell.com/2015/11/the-road-to-dnx-part-1.html)
-* [The road to DNX - part 2](http://blog.marcgravell.com/2015/11/the-road-to-dnx-part-2.html)
+* [The road to DNX – part 2](http://blog.marcgravell.com/2015/11/the-road-to-dnx-part-2.html)
 * [The road to DNX – part 3](http://blog.marcgravell.com/2015/11/the-road-to-dnxpart-3.html)
 
 영국의 IT 소식지인 The Register는 .NET Core가 마이크로소프트의 향후 개발 플랫폼에서 어떤 의미를 지니는지 전하는 글을 게재하였습니다.
@@ -45,7 +45,7 @@ Marc Gravell이 기존 작성된 닷넷 라이브러리를 .NET Core 용으로 �
 * [Why Microsoft's .NET Core is the future of its development platform](http://www.theregister.co.uk/2015/11/20/microsoft_net_core_development_platform_fork/)
 
 Nate Barbettini는 맥 운영체제에서 부트 캠프(BootCamp)와 패러렐즈(Parallels)를 이용해 어떻게 비주얼 스튜디오 개발 환경을 구성할 수 있는지에 대해 글을 작성했습니다.
- [The Ultimate Guide to Using Visual Studio on a Mac](https://stormpath.com/blog/ultimate-guide-to-using-visual-studio-on-a-mac/)
+* [The Ultimate Guide to Using Visual Studio on a Mac](https://stormpath.com/blog/ultimate-guide-to-using-visual-studio-on-a-mac/)
 
 Mahmut Jomaa와 Shawn Wildermuth는 기존에 ASP.NET 5 베타 8으로 작성된 응용 프로그램을 RC1 버전으로 마이그레이션 하는 방법을 자신들의 블로그를 통해 공유 했습니다.
 * [Upgrading your ASP.NET 5 application from beta8 to RC1](http://mjomaa.com/computer-science/frameworks/asp-net-mvc/157-upgrading-your-asp-net-5-application-from-beta8-to-rc1)
