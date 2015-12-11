@@ -57,24 +57,3 @@ Mahmut Jomaa와 Shawn Wildermuth는 기존에 ASP.NET 5 베타 8으로 작성된
 마지막으로 Shayne Boyer는 .NET Core의 CLI(명령행 인터페이스)와 관련된 사용법을 설명하는 글을 공개했습니다.
 * [Preparing for dotnet cli](http://tattoocoder.com/preparing-for-dotnet-cli/)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[ASP.NET 5 Beta 8 to RC1 Annotated Diff]: <http://dotnetliberty.com/index.php/2015/11/23/asp-net-5-beta-8-to-rc1-annotated-diff/>
-
-[Preparing for dotnet cli]: <http://tattoocoder.com/preparing-for-dotnet-cli/>
