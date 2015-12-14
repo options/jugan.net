@@ -26,8 +26,6 @@
 
 <script type="text/javascript" src="https://gist.github.com/bleroy/c5e8f2ebdbd694e0913f.js"></script>
 
-
-
 ### 금주의 커뮤니티 소식
 
 12월14일 ASP.NET 개발자 모임인 [ASP.NET Korea User Group](https://www.facebook.com/groups/AspxKorea/)에서 연말 모임을 개최할 예정입니다. 자세한 내용은 [ASP.NET Korea 2015 연말 모임](https://www.facebook.com/groups/AspxKorea/events/)을 확인 하세요.
