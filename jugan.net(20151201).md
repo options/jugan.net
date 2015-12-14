@@ -24,9 +24,7 @@
 
 * [HtmlAgilityPack](https://www.nuget.org/packages/HtmlAgilityPack/)
 
-<section>
-{{gist}} <script src="https://gist.github.com/bleroy/c5e8f2ebdbd694e0913f.js"></script>
-</section>
+<script type="text/javascript" src="https://gist.github.com/bleroy/c5e8f2ebdbd694e0913f.js"></script>
 
 ### 금주의 커뮤니티 소식
 
