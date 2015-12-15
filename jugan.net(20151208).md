@@ -55,7 +55,14 @@ F# 커뮤니티에서는 한해 동안의 포스팅 계획을 담은 [F# Advent 
 
 ### 금주의 커뮤니티 소식
 
+<<<<<<< HEAD
 12월16일 ASP.NET 개발자 모임인 [TAEYO.NET](http://taeyo.net/)에서 송년 번개를  개최할 예정입니다. 자세한 내용은 [2015 굿바이 송년벙개 예고:12월 16일](http://taeyo.net/Forum/Content.aspx?SEQ=36672&TBL=TALK)을 확인 하세요.### 금주의 블로그 글
+=======
+12월16일 ASP.NET 개발자 모임인 [TAEYO.NET](http://taeyo.net/)에서 송년 번개를  개최할 예정입니다. 자세한 내용은 [2015 굿바이 송년벙개 예고:12월 16일](http://taeyo.net/Forum/Content.aspx?SEQ=36672&TBL=TALK)을 확인 하세요.
+
+
+### 금주의 블로그 글
+>>>>>>> f83af1b892a8fc517d71a32e8af8b327c92b4eae
 
 * [Support Ending for .NET Framework 4, 4.5 and 4.5.1](http://blogs.msdn.com/b/dotnet/archive/2015/12/09/support-ending-for-the-net-framework-4-4-5-and-4-5-1.aspx) : 2016년 1월 12일 부터 .NET Framework 4, 4.5, 4.5.1에 대한 보안 업데이트, 기술 지원, 핫픽스 등의 지원이 종료 된다는 내용을 담은 글입니다. 이 글은 2015년 8월 7일에 공지한 [Moving to the .NET Framework 4.5.2](http://blogs.msdn.com/b/dotnet/archive/2014/08/07/moving-to-the-net-framework-4-5-2.aspx)를 재확인 하는 내용입니다.
 * [ASYNC-AWAIT - On The Efficiency Of ValueTask](http://blog.i3arnon.com/2015/11/30/valuetask/) : Bar Arnon이 CoreFX 라이브러리에 새롭게 추가된 ValueTask&lt;T&gt; 타입에 대해 설명하고 있습니다.
