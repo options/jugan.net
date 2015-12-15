@@ -44,7 +44,7 @@ Bogus는 [Brian Chavez](https://github.com/bchavez)가 만든 것으로 클래�
 Krzysztof Cieślak이 비주얼 스튜디오 코드에서 F# 언어를 지원하는 [Ionide 확장 패키지](http://blogs.msdn.com/b/dotnet/archive/2015/12/03/guest-post-announcing-f-support-in-visual-studio-code-with-ionide.aspx)를 발표했습니다.
 
 
-F# 커뮤니티에서는 한해 동안의 포스팅 계획을 담은 “F# Advent Calendar”를 제공하고 있는데요. 그 중에서 몇 가지를 소개해드립니다.
+F# 커뮤니티에서는 한해 동안의 포스팅 계획을 담은 [“F# Advent Calendar”](https://sergeytihon.wordpress.com/2015/10/25/f-advent-calendar-in-english-2015/)를 제공하고 있는데요. 그 중에서 몇 가지를 소개해드립니다.
 
 * Scott Wlaschin의 [Thirteen ways of looking at a turtle 1부](http://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle/)와 [2부](http://fsharpforfunandprofit.com/posts/13-ways-of-looking-at-a-turtle-2/)
 * Sean Trelford의 [No 1 at Christmas](https://seantrelfordblog.wordpress.com/2015/12/05/no1s/)
