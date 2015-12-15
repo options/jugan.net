@@ -30,7 +30,7 @@ Bogus는 [Brian Chavez](https://github.com/bchavez)가 만든 라이브러리로
 
 ### 금주의 .NET Core 소식
 
-[Joe Audette](https://github.com/joeaudette)는 IMAP, POP3, SMTP 등의 기능을 구현한 오픈 소스 라이브러리인 MailKit이 .NET Core를 지원한다는 소식을 전해 주었습니다. 자세한 내용은 [Mailkit now supports .NET Core](https://github.com/jstedfast/MailKit/issues/212)를 확인 하세요. 
+[Joe Audette](https://github.com/joeaudette)는 IMAP, POP3, SMTP 등의 기능을 구현한 오픈 소스 라이브러리인 MailKit이 .NET Core를 지원한다는 소식을 전해 주셨습니다. 자세한 내용은 [Mailkit now supports .NET Core](https://github.com/jstedfast/MailKit/issues/212)를 확인 하세요. 
 
 이 라이브러리를 이용하면 .NET Core를 이용하여 메일 송수신과 같은 기능을 쉽게 구현할 수 있습니다.
 
