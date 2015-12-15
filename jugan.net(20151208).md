@@ -39,7 +39,7 @@ Bogus는 [Brian Chavez](https://github.com/bchavez)가 만든 라이브러리로
 ### F# 소식
 
 이번 주부터는 F# 커뮤니티의 소식도 함께 전달해 드리겠습니다. 그 첫번째로 Sergey Tihon과 David Stephens이 아래의 링크들을 소개해 주셨습니다.
-Krzysztof Cieślak이 비주얼 스튜디오 코드에서 F# 언어를 지원하는 [Ionide 확장 패키지](http://blogs.msdn.com/b/dotnet/archive/2015/12/03/guest-post-announcing-f-support-in-visual-studio-code-with-ionide.aspx)를 발표했습니다.
+Krzysztof Cieślak은 비주얼 스튜디오 코드에서 F# 언어를 지원하는 [Ionide 확장 패키지](http://blogs.msdn.com/b/dotnet/archive/2015/12/03/guest-post-announcing-f-support-in-visual-studio-code-with-ionide.aspx)를 발표했습니다.
 
 
 F# 커뮤니티에서는 한해 동안의 포스팅 계획을 담은 [F# Advent Calendar](https://sergeytihon.wordpress.com/2015/10/25/f-advent-calendar-in-english-2015/)를 제공하고 있는데요. 그 중에서 몇 가지를 소개해드립니다.
@@ -59,5 +59,5 @@ F# 커뮤니티에서는 한해 동안의 포스팅 계획을 담은 [F# Advent 
 
 * [Support Ending for .NET Framework 4, 4.5 and 4.5.1](http://blogs.msdn.com/b/dotnet/archive/2015/12/09/support-ending-for-the-net-framework-4-4-5-and-4-5-1.aspx) : 2016년 1월 12일 부터 .NET Framework 4, 4.5, 4.5.1에 대한 보안 업데이트, 기술 지원, 핫픽스 등의 지원이 종료 된다는 내용을 담은 글입니다. 이 글은 2015년 8월 7일에 공지한 [Moving to the .NET Framework 4.5.2](http://blogs.msdn.com/b/dotnet/archive/2014/08/07/moving-to-the-net-framework-4-5-2.aspx)를 재확인 하는 내용입니다.
 * [ASYNC-AWAIT - On The Efficiency Of ValueTask](http://blog.i3arnon.com/2015/11/30/valuetask/) : Bar Arnon이 CoreFX 라이브러리에 새롭게 추가된 ValueTask&lt;T&gt; 타입에 대해 설명하고 있습니다.
-* [Functional Monadic Parsers ported to C#](http://blog.leifbattermann.de/2015/11/23/functional-monadic-parsers-ported-to-c/) : 함수형 프로그래밍의 대가인 Erik Meijer가 온라인 강의 사이트인 eDX를 통해서  연재한 [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)를 보면 모나드를 이용하여 파서를 제작하는 방법을 설명하고 있는 부분이 있습니다. Leif Battermann은 이를 C#으로 어떻게 포팅할 수 있는지에 대해 소개하고 그 소스코드를 GitHub를 통해  공개했습니다.
+* [Functional Monadic Parsers ported to C#](http://blog.leifbattermann.de/2015/11/23/functional-monadic-parsers-ported-to-c/) : 함수형 프로그래밍의 대가인 Erik Meijer가 온라인 강의 사이트인 eDX를 통해서  연재한 [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)를 보면 모나드를 이용하여 파서를 제작하는 방법을 설명하고 있는 부분이 있습니다. Leif Battermann은 이를 C#으로 어떻게 포팅할 수 있는지에 대해 소개하고 그 소스코드를 GitHub를 통해 공개했습니다.
 * [Six Essential Tips for Async](https://channel9.msdn.com/Series/Three-Essential-Tips-for-Async) : 비록 2년 전에 작성된 오래된 동영상이긴 하지만 Lucian Wischik 만큼 Async에 대해 멋지게 설명한 동영상을 쉽게 찾으실 수는 없을 겁니다. (아쉽게도 한글 자막은 제공되지 않습니다.)
