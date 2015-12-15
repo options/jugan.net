@@ -11,7 +11,9 @@
 
 다음의 코드는 지난 주에 HtmlAgilityPack 라이브러리를 이용해 작성했던 기능을 AngleSharp으로 동등하게 구현해 본 것입니다.
 
-<script src="https://gist.github.com/bleroy/ca1499fee30581358e9e.js"></script>
+<section>
+{{gist}} <script src="https://gist.github.com/bleroy/ca1499fee30581358e9e.js"></script>
+</section>
 
 ### 금주의 패키지 #2 - Bogus
 
@@ -21,7 +23,9 @@ TDD(Test Driven Development)로 인해 테스트 케이스를 만들다 보면 �
 
 Brian Chavez가 만든 것으로 클래스의 인스턴스 생성 시 텍스트, 이미지와 같은 다양한 데이터 타입의 값을 실제와 유사한 정보로 채우는 기능을 갖고 있습니다. 다음은 Bogus 라이브러리를 이용해 임의의 사용자 데이터를 생성하는 예제 코드입니다.
 
-<script src="https://gist.github.com/bleroy/d596de64caeeab352795.js"></script>
+<section>
+{{gist}} <script src="https://gist.github.com/bleroy/d596de64caeeab352795.js"></script>
+</section>
 
 ### .NET Core 소식
 
