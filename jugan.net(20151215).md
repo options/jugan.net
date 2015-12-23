@@ -1,7 +1,7 @@
 이번 주 .NET 팀의 [팀 블로그](http://blogs.msdn.com/b/dotnet/archive/2015/12/15/the-week-in-net-12-15-2015.aspx)에 한국에서 진행 중인 주간닷넷이 소개되었습니다. 
 여러분의 많은 관심과 성원 덕분이라고 생각합니다. 감사합니다.
 
-닷넷 관련 이벤트 와 토픽을 매주 생생하게 전해드릴 수 있도록 [유튜브](https://www.youtube.com/)에 [On.NET](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw) 채널을 새롭게 개설했습니다. 첫번째 초대 손님으로 [Miguel de Icaza](https://en.wikipedia.org/wiki/Miguel_de_Icaza)를 모셨는데요. 국내에도 이미 모노 플랫폼의 창시자, [Xamarin](https://xamarin.com/) 회사의 창립자로 잘 알려진 분이기도 합니다. 이 분은 또한 Gnome의 창시자이며 MIT에서 1999년 올해의 혁신(Innovator of the Year 1999)상과 프리 소프트웨어 재단(Free Software)의 FSF 상을 수상하였으며, 심지어 타임(Time)지가 선정한 21세기 100 대 혁신가에 뽑히기도 했습니다. 알고 보니 정말 대단한 분이군요.
+닷넷 관련 이벤트와 토픽을 매주 생생하게 전해드릴 수 있도록 [유튜브](https://www.youtube.com/)에 [On.NET](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw) 채널을 새롭게 개설했습니다. 첫번째 초대 손님으로 [Miguel de Icaza](https://en.wikipedia.org/wiki/Miguel_de_Icaza)를 모셨는데요. 국내에도 이미 모노 플랫폼의 창시자, [Xamarin](https://xamarin.com/) 회사의 창립자로 잘 알려진 분이기도 합니다. 이 분은 또한 Gnome의 창시자이며 MIT에서 1999년 올해의 혁신(Innovator of the Year 1999)상과 프리 소프트웨어 재단(Free Software)의 FSF 상을 수상하였으며, 심지어 타임(Time)지가 선정한 21세기 100 대 혁신가에 뽑히기도 했습니다. 알고 보니 정말 대단한 분이군요.
 
 매주 나오게 될 On.NET 비디오에 관심 있다면 [채널 가입](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw)을 통해 향후 새로운 동영상이 업데이트될 때마다 알림을 받을 수 있습니다.
 
