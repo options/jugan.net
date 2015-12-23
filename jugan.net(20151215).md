@@ -1,7 +1,7 @@
-이번 주 .NET 팀의 [팀 블로그](http://blogs.msdn.com/b/dotnet/archive/2015/12/15/the-week-in-net-12-15-2015.aspx)에 주간닷넷이 소개되었습니다. 
+이번 주 .NET 팀의 [팀 블로그](http://blogs.msdn.com/b/dotnet/archive/2015/12/15/the-week-in-net-12-15-2015.aspx)에 한국에서 진행중인 주간닷넷이 소개되었습니다. 
 여러분의 많은 관심과 성원 덕분이라고 생각합니다. 감사합니다.
 
-닷넷 관련 이벤트 및 토픽을 매주 생생하게 전해드릴 수 있도록 [유튜브](https://www.youtube.com/)에 [On.NET](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw) 채널을 개설했습니다. 첫번째 방영에서 그 유명한 [Miguel de Icaza](https://en.wikipedia.org/wiki/Miguel_de_Icaza)를 만날 수 있는데요. 국내에도 이미 모노 플랫폼의 창시자, [Xamarin](https://xamarin.com/) 회사의 창립자로써 잘 알려진 분입니다. 그 외에 좀더 소개를 하자면 Gnome의 창시자이기도 하며 MIT에서 1999년 올해의 혁신(Innovator of the Year 1999)상과 프리 소프트웨어 재단(Free Software)의 FSF 상까지 받은 적이 있고, 심지어 타임(Time)지의 21세기 100 대 혁신가에 뽑히기도 했습니다. 알고 보니 정말 대단한 분이군요.
+닷넷 관련 이벤트 와 토픽을 매주 생생하게 전해드릴 수 있도록 [유튜브](https://www.youtube.com/)에 [On.NET](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw) 채널을 새롭게 개설했습니다. 첫번째 초대 손님으로 [Miguel de Icaza](https://en.wikipedia.org/wiki/Miguel_de_Icaza)를 모셨는데요. 국내에도 이미 모노 플랫폼의 창시자, [Xamarin](https://xamarin.com/) 회사의 창립자로 잘 알려진 분이기도 합니다. 이 분은 또한 Gnome의 창시자이며 MIT에서 1999년 올해의 혁신(Innovator of the Year 1999)상과 프리 소프트웨어 재단(Free Software)의 FSF 상을 수상하였으며, 심지어 타임(Time)지가 선정한 21세기 100 대 혁신가에 뽑히기도 했습니다. 알고 보니 정말 대단한 분이군요.
 
 매주 나오게 될 On.NET 비디오에 관심 있다면 [채널 가입](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw)을 통해 향후 새로운 동영상이 업데이트될 때마다 알림을 받을 수 있습니다.
 
@@ -9,31 +9,33 @@
 
 ### 금주의 패키지 #1 - MBrace
 
-MBrace 패키지는 일반적인 라이브러리 이상의 특징을 가지고 있습니다. 바로 F#을 위한 DSL(Domain-Specific Language: 도메인 특정 언어)라는 점인데요. 언어 자체에 클라우드를 위한 프로그래밍 환경을 통합하고 있어서 이름 자체도 "클라우드를 포용한다."라는 의미의 "{em} brace the cloud"에서 기인하고 있습니다.
+MBrace 패키지는 일반적인 라이브러리 이상의 특징을 가지고 있습니다. 바로 F#을 위한 DSL(Domain-Specific Language: 도메인 특정 언어)라는 점인데요. 언어 자체에 클라우드를 위한 프로그래밍 환경을 통합하고 있다는 의미에서 패키지의 이름을 "클라우드를 포용한다."라는 의미의 "{em} brace the cloud"에서 따왔다고 합니다.
 
 * [MBrace](http://mbrace.io/)
 
-다음은 MBrace를 이용해 클라우드 환경에 있는 큐(Queue)로부터 데이터를 꺼내는 예제 코드입니다.
+다음은 MBrace를 이용해서 클라우드 환경에 있는 큐(Queue)로부터 데이터를 가져오는 예제 코드입니다.
 
 <section>
 {{MBraceQueue.fs}} <script src="https://gist.github.com/bleroy/926452c406d2fcff327a.js"></script>
 </section>
 
-[Using Could Queues](http://mbrace.io/starterkit/HandsOnTutorial/8-using-cloud-queues.html) 웹 페이지에서 이와 관련한 다양한 학습 예제를 볼 수 있습니다.
+[Using Could Queues](http://mbrace.io/starterkit/HandsOnTutorial/8-using-cloud-queues.html)를 통해 이와 관련된 다양한 예제를 살펴 보실 수 있습니다.
 
 ### 금주의 패키지 #2 - Humanizer
 
-이번엔 [Dannief](https://gist.github.com/dannief)가 보내준 Humanizer 패키지를 소개해 드리겠습니다.
+이번주에는 [Dannief](https://gist.github.com/dannief)가 알려주신 Humanizer 패키지를 소개해 드리겠습니다.
 
 * [Humanizer](https://github.com/Humanizr/Humanizer) 
 
-이 패키지는 문자열을 조작하는 메서드들에 대해 자연어 관점에서 통용되는 규칙을 따르는 버전을 제공하고 있습니다.
+이 패키지는 자연어 처리 시에 흔히 사용되는 기법들을 손쉽게 활용할 수 있도록 문자열 조작 메서드를 제공합니다. 
 
-예를 들어, 다음의 코드는 문자열을 단어까지 고려하면서 잘라내주는 Truncate 메서드의 사용법을 보여줍니다.
+예를 들어, 다음의 코드는 개별 단어의 구성을 고려하여 부분 문자열을 취하는 Truncate 메서드의 사용법을 보여줍니다.
 
 "Long text to truncate".Truncate(10)
 
-이 코드의 반환 결과는 "Long text…"입니다. 사람들의 표현 규칙에 알맞게 객체를 나열해주는 다음의 사용법까지 보시면 왜 이것이 Humanizer라는 이름을 갖게 되었는지 쉽게 짐작할 수 있을 것입니다.
+이 코드의 반환 결과는 "Long text…"입니다. 
+
+다음의 예제를 실행 해 보신다면, 이 패키지의 이름이 왜 Humanizer라는 이름을 갖게 되었는지 쉽게 짐작할 수 있을 것입니다.
 
 <section>
 {{HumanizerCollectionSample.cs}} <script src="https://gist.github.com/bleroy/66c03b69e5678376810c.js"></script>
@@ -41,10 +43,10 @@ MBrace 패키지는 일반적인 라이브러리 이상의 특징을 가지고 �
 
 ### .NET 소식
 
-* [Why .NET?](http://engineering.gopangea.com/2015/12/10/why-dot-net.html) : Pangea 사의 Omar Khudeira는 자사 개발 플랫폼으로 닷넷을 도입한 이유를 공유했습니다.
-* 며칠 전에 마이크로소프트 직원인 Ron Petrusha는 [The .NET Journey: Recapping the last year](http://blogs.msdn.com/b/visualstudio/archive/2015/12/10/the-net-journey-recapping-the-last-year.aspx) 글을 통해 닷넷의 오픈 소스 발표 후 1년이 지난 시점에서의 회고록을 블로그에 공개했습니다. 이에 대해 Matt Warren은 외부 개발자의 관점에서 바라본 변화를 [Open Source .NET – 1 year later](http://mattwarren.org/2015/12/08/open-source-net-1-year-later/)라는 글로 회답했습니다.
+* [Why .NET?](http://engineering.gopangea.com/2015/12/10/why-dot-net.html) : Pangea사의 Omar Khudeira는 이 글을 통해서 자사의 주요 개발 플랫폼으로 닷넷을 도입한 이유를 소개하였습니다.
+* 며칠 전에 마이크로소프트 직원인 Ron Petrusha는 [The .NET Journey: Recapping the last year](http://blogs.msdn.com/b/visualstudio/archive/2015/12/10/the-net-journey-recapping-the-last-year.aspx) 글을 통해서 닷넷의 오픈 소스화 발표 이후 지난 1년 간의 회고록을 공개했습니다. 이에 대해 Matt Warren은 외부 개발자의 관점에서 바라본 변화를 [Open Source .NET – 1 year later](http://mattwarren.org/2015/12/08/open-source-net-1-year-later/)라는 글로 회답했습니다.
 * [Support Ending for the .NET Framework 4, 4.5 and 4.5.1](http://blogs.msdn.com/b/dotnet/archive/2015/12/09/support-ending-for-the-net-framework-4-4-5-and-4-5-1.aspx) : Stacey Haffner는 닷넷 프레임워크 4, 4.5, 4.5.1 지원 종료가 가지는 의미에 대해 완벽히 정리했습니다. (참고로, 3.5, 4.5.2, 4.6, 4.6.1 버전은 계속 지원됩니다.)
-* [Calling the Azure ARM API using plain REST](http://blog.davidebbo.com/2015/12/calling-arm-using-plain-rest.html) : David Ebbo는 ARM(Azure Resource Manager) API를 REST 방식으로 어떻게 호출할 수 있는 지 설명한 글을 공유했습니다.
+* [Calling the Azure ARM API using plain REST](http://blog.davidebbo.com/2015/12/calling-arm-using-plain-rest.html) : David Ebbo는 ARM(Azure Resource Manager) API를 REST 방식으로 호출하는 방식에 대해 설명한 글을 공유했습니다.
 * [The dedoublifier 1부](http://ericlippert.com/2015/11/30/the-dedoublifier-part-one/), [2부](http://ericlippert.com/2015/12/03/the-dedoublifier-part-two/), [3부](http://ericlippert.com/2015/12/07/the-dedoublifier-part-three/), [4부](http://ericlippert.com/2015/12/10/the-dedoublifier-part-four/) : Eric Lippert는 임의 정밀도(arbitrary precision)를 가진 형식에 관한 글을 공유했습니다.
 
 ### ASP.NET 5 소식
