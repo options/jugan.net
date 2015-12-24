@@ -41,6 +41,8 @@ MBrace 패키지는 일반적인 라이브러리 이상의 특징을 가지고 �
 {{HumanizerCollectionSample.cs}} <script src="https://gist.github.com/bleroy/66c03b69e5678376810c.js"></script>
 </section>
 
+출력 결과 "1st, 2nd, or 3rd" 
+
 ### .NET 소식
 
 * [Why .NET?](http://engineering.gopangea.com/2015/12/10/why-dot-net.html) : Pangea사의 Omar Khudeira는 이 글을 통해서 자사의 주요 개발 플랫폼으로 닷넷을 도입한 이유를 소개하였습니다.
