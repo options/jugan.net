@@ -19,7 +19,7 @@
 
 ### .NET 소식
 
-* [WebCamp](https://channel9.msdn.com/Events/Speakers/yongjun-park) 동영상 : [데브랙](http://devlec.com)의 인기 강사이신 박용준 MVP는 Visual Studio, One ASP.NET, ASP.NET 5과 관련된 내용을 동영상으로 작성하여 공유 해 주셨습니다. 현재 12개의 동영상이 올라가 있고 추가적으로 업데이트 예정이라고 합니다.
+* [WebCamp](https://channel9.msdn.com/Events/Speakers/yongjun-park) 동영상 : [데브렉](http://devlec.com)의 인기 강사이신 박용준 MVP는 Visual Studio, One ASP.NET, ASP.NET 5과 관련된 내용을 동영상으로 작성하여 공유 해 주셨습니다. 현재 12개의 동영상이 올라가 있고 추가적으로 업데이트 예정이라고 합니다.
 * [Getting Started with .NET and Docker](https://blogs.msdn.microsoft.com/mvpawardprogram/2015/12/15/getting-started-with-net-and-docker/) : Elton Stoneman은 .NET Core 기반의 응용 프로그램을 리눅스 도커 컨테이너에 배포 하는 방법을 설명하고 있습니다.
 * [The Era of Portable .NET](http://developer.telerik.com/featured/the-era-of-portable-net/) : .NET이 다중 환경을 지원함에 따라 PCL(Portable Class Library) 프로젝트 타입이 더 한층 조명을 받게 되었습니다. 이에 대해 Sam Basu가 자세히 설명하고 있습니다.
 * [Raw .NET Data Access / ORM Fetch benchmarks](https://weblogs.asp.net/fbouma/raw-net-data-access-orm-fetch-benchmarks-of-16-dec-2015) : Frans Bouman는 다양한 ORM에 대한 성능 테스트 결과를 공유했습니다.
