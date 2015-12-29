@@ -15,7 +15,7 @@
 {{DapperDogSample.cs}} <script src="https://gist.github.com/bleroy/e45aa550b823c71514ef.js"></script>
 </section>
 
-겨우 이 정도냐고 하실 분들도 있을 것 같은데요. Dapper를 확장한 [Nuget의 부가 패키지](https://www.nuget.org/packages?q=dapper)들을 보시면 생각이 달라질 수도 있을 것 같습니다.
+겨우 이 정도냐고 하실 분들도 있을 것 같은데요. Dapper를 확장한 [Nuget의 확장 패키지](https://www.nuget.org/packages?q=dapper)들을 보시면 생각이 달라질 수도 있을 것 같습니다.
 
 ### .NET 소식
 
