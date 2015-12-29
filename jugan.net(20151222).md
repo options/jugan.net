@@ -1,13 +1,13 @@
-지난주 유튜브 [On.NET](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw) 채널의 첫 번째 손님인 Miguel de lcaza를 모시고 [첫 번째 방송](https://www.youtube.com/watch?v=6p6-FMZRiAc)을 즐겁게 촬영했습니다. 닷넷 커뮤니티의 여러 모습을 알고 계신 분들을 모시고 진행할 예정이니, 모시고 싶은 분이 계신다면 알려주세요. 크리스마스 연휴인 관계로 이번 주와 다음 주에는 방송이 없고, 1월 첫째 주부터 다시 시작할 예정입니다. 
+지난주 유튜브 [On.NET](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw) 채널의 첫 번째 손님인 Miguel de lcaza를 모시고 [첫 번째 방송](https://www.youtube.com/watch?v=6p6-FMZRiAc)을 즐겁게 촬영했습니다. 크리스마스 연휴인 관계로 이번 주와 다음 주에는 방송이 없고, 1월 첫째 주부터 다시 시작할 예정입니다. 
 
 [Unity](http://unity3d.com/kr/) 덕분에 최근 들어 게임 개발 커뮤니티에서 닷넷에 대한 관심이 꾸준히 증가하고 있어 이번 주부터는 새롭게 게임 관련 소식도 추가했습니다. 
-최신의 닷넷 개발기술을 이용하여 여러분이 선호하시는 플랫폼에서 수행가능한 게임을 개발하는 방법에 대해서 사례 위주로 소개 해 드릴 예정입니다.
+최신의 닷넷 개발기술을 이용하여 여러분이 선호하시는 플랫폼에서 수행 가능한 게임을 개발하는 방법에 대해서 사례 위주로 소개 해 드릴 예정입니다.
 
 이번 주에도 많은 분들께서 보내주신 링크와 팁을 포함하였습니다. 도움을 주신 모든 분께 감사의 말씀을 드립니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
 
 ### 금주의 패키지 – Dapper-dot-net
 
-.NET에서 사용할 수 있는 ORM(Object-Relational Mapper)는 제법 많습니다. 그중에서도 Stack Overflow 팀에서 유지 보수 하고 있는 Dapper는 단순한는 접근 방식을 취하고 있는 몇 안되는 ORM입니다. 그 덕분에 성능면에서도 SqlDataReader를 직접 이용해서 코드를 작성했을 때와 유사한 속도를 보일뿐 아니라 Strongly-types API를 제공하고 있습니다.
+.NET에서 사용할 수 있는 ORM(Object-Relational Mapper)는 제법 많습니다. 그 중에서도 Stack Overflow 팀에서 유지 보수 하고 있는 Dapper는 단순한는 접근 방식을 취하고 있는 몇 안되는 ORM입니다. 그 덕분에 성능면에서도 SqlDataReader를 직접 이용해서 코드를 작성했을 때와 유사한 속도를 보일 뿐 아니라 Strongly-types API를 제공하고 있습니다.
 
 * [Dapper-dot-net](http://stackexchange.github.io/dapper-dot-net/)
 
@@ -19,7 +19,7 @@
 
 ### .NET 소식
 
-* [WebCamp](https://channel9.msdn.com/Events/Speakers/yongjun-park) : [데브랙](http://devlec.com)의 인기 강사이신 박용준 MVP는 Visual Studio, One ASP.NET, ASP.NET 5과 관련된 내용을 동영상으로 작성하여 공유 해 주셨습니다. 현재 12개의 동영상이 올라가 있고 추가적으로 업데이트 예정이라고 합니다.
+* [WebCamp](https://channel9.msdn.com/Events/Speakers/yongjun-park) 동영상 : [데브랙](http://devlec.com)의 인기 강사이신 박용준 MVP는 Visual Studio, One ASP.NET, ASP.NET 5과 관련된 내용을 동영상으로 작성하여 공유 해 주셨습니다. 현재 12개의 동영상이 올라가 있고 추가적으로 업데이트 예정이라고 합니다.
 * [Getting Started with .NET and Docker](https://blogs.msdn.microsoft.com/mvpawardprogram/2015/12/15/getting-started-with-net-and-docker/) : Elton Stoneman은 .NET Core 기반의 응용 프로그램을 리눅스 도커 컨테이너에 배포 하는 방법을 설명하고 있습니다.
 * [The Era of Portable .NET](http://developer.telerik.com/featured/the-era-of-portable-net/) : .NET이 다중 환경을 지원함에 따라 PCL(Portable Class Library) 프로젝트 타입이 더 한층 조명을 받게 되었습니다. 이에 대해 Sam Basu가 자세히 설명하고 있습니다.
 * [Raw .NET Data Access / ORM Fetch benchmarks](https://weblogs.asp.net/fbouma/raw-net-data-access-orm-fetch-benchmarks-of-16-dec-2015) : Frans Bouman는 다양한 ORM에 대한 성능 테스트 결과를 공유했습니다.
@@ -27,7 +27,7 @@
 
 ### .NET 게임 소식
 
-게임 관련 첫 소식으로 [Ludum Dare 프로그래밍 컨테스트](http://ludumdare.com/compo/)에 출품된 일부 작품을 소개합니다.
+게임 관련 첫 소식으로 [Ludum Dare 프로그래밍 컨테스트](http://ludumdare.com/compo/)에 출품된 작품 몇 가지를 소개할까 합니다.
 
 * [Rocks, Maps, Scissors](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=15279) : 전형적인 고전 게임의 하나인 ‘가위, 바위, 보’를 현대식으로 재미있게 구성한 게임입니다.
 * [Tile Breaker Evolution](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=63289) : 벽돌이 튀는 방향으로 장애물을 놓아 볼의 방향을 바꾸는 게임으로 꽤나 난이도가 있습니다.  
