@@ -1,32 +1,19 @@
-[… 한국 마이크로소프트의 소식이라든가… ]
-
 [Unity](http://unity3d.com/kr/) 덕분에 최근 들어 게임 개발 커뮤니티에서 닷넷에 대한 관심이 꾸준히 증가하고 있어 이번 주부터는 새롭게 게임 관련 소식도 추가했습니다. 당연히 닷넷으로 개발된 게임들을 소개해 드릴 것이고 여러분이 선호하는 플랫폼을 대상으로 개발 분야에 맞춰 사례 위주로 전달해 드릴 예정입니다.
 
-이번 주의 소식도 많은 분들이 보내주신 링크와 팁을 포함하고 있으며 그 모든 분들께 감사를 드립니다. 이 소식지는 누구에게나 열려 있고 여러분들의 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분들과 공유하도록 하겠습니다.
+이번 주에도 많은 분들이 보내주신 링크와 팁을 포함하고 있으며 도움 주신 모든 분들께 감사드립니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분들과 공유하도록 하겠습니다.
 
 
 ### 금주의 패키지 – Dapper-dot-net
 
-.NET 관련 OR 매핑 도구들은 제법 많이 있습니다. 그 중에서도 Dapper는 가능한 단순한 접근법을 취한 몇 안 되는 도구중의 하나로 특별히 Stackoverflow 팀이 개발하고 있는 OR 매퍼입니다. 단순함을 유지한 덕분에 성능 면에서도 SqlDataReader를 이용해 직접 작성했을 때와 유사한 속도를 보이고, 게다가 SqlDataReader로는 제공하지 못한 강력한 형식의 API로 형식 안정성까지 보장하고 있습니다.
+.NET 관련 OR 매핑 도구들은 제법 많습니다. 그 중에서도 Dapper는 가능한 단순하게 접근한 몇 안되는 도구 중 하나로 특별히 Stackoverflow 팀이 개발하고 있는 OR 매퍼입니다. 단순하기 때문에 성능 면에서도 SqlDataReader를 이용해 직접 작성했을 때와 유사한 속도를 보이고, 게다가 SqlDataReader로는 제공하지 못한 강력한 형식의 API로 형식 안정성까지 보장하고 있습니다.
 
 * [Dapper-dot-net](http://stackexchange.github.io/dapper-dot-net/)
 
 <section>
-public class Dog
-{
-    public int Id { get; set; }
-    public int? Age { get; set; }
-    public string Name { get; set; }
-    public float? Weight { get; set; }
-}            
-
-var dogs = connection.Query<Dog>("select Age = @Age", new { Age = 4 });
-
-var howManyDogs = dogs.Count();
-var firstDogWeight = dogs.First().Weight;
+{{DapperDogSample.cs}} <script src="https://gist.github.com/bleroy/e45aa550b823c71514ef.js"></script>
 </section>
 
-겨우 이 정도냐고 하실 분들을 위해 하나 더 언급하자면, Dapper의 확장성 있는 구조 덕분에 형성된 [Nuget의 부가 패키지](https://www.nuget.org/packages?q=dapper)들을 보시면 놀라실 것이라 믿어 의심치 않습니다.
+겨우 이 정도냐고 하실 분들을 위해 하나 더 언급하자면, Dapper의 확장성 있는 구조로 만들어진 [Nuget의 부가 패키지](https://www.nuget.org/packages?q=dapper)들을 보시면 놀라실 것 입니다. 
 
 
 ### .NET 소식
@@ -49,8 +36,8 @@ var firstDogWeight = dogs.First().Weight;
 ### C# 소식
 
 * [New C# REPL and scripting capabilities](http://bretstateham.com/new-c-repl-and-scripting-capabilities/) : 비주얼 스튜디오 2015 업데이트 1부터 추가된 C# Interactive 창에 대한 사용법을 Bret Stateham이 공유했습니다.
-* [Async Linq to objects over MongoDB](http://blog.i3arnon.com/2015/12/16/async-linq-to-objects-over-mongodb/) : [MongoDB 용 C# 드라이버](https://github.com/mongodb/mongo-csharp-driver)가 이번에 완전한 비동기 버전으로 새로 개발되었습니다. Bar Arnon이 간략하게 사용법을 설명합니다.
-* [To String or to string](http://haacked.com/archive/2015/12/16/to-string-or-not/) : C# 언어를 사용하면서 누구나 고민해 봤을 문제입니다. System.String 또는 string 예약어 중에 어떤 것을 사용해야 할까요? 이에 대해 Phil Haack이 다루고 그와 함께 수많은 댓글이 달리고 있습니다.
+* [Async Linq to objects over MongoDB](http://blog.i3arnon.com/2015/12/16/async-linq-to-objects-over-mongodb/) : [MongoDB 용 C# 드라이버](https://github.com/mongodb/mongo-csharp-driver)가 완전한 비동기 버전으로 이번에 새로 개발되었습니다. Bar Arnon이 간략한 사용법을 설명합니다.
+* [To String or to string](http://haacked.com/archive/2015/12/16/to-string-or-not/) : C# 언어를 사용하면서 누구나 고민해 봤을 문제입니다. System.String 또는 string 예약어 중 어떤 것을 사용해야 할까요? Phil Haack이 질문했고 이에 대해 수많은 댓글이 달리고 있습니다.
 
 
 ### F# 소식
