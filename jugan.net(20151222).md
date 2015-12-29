@@ -1,11 +1,11 @@
 [Unity](http://unity3d.com/kr/) 덕분에 최근 들어 게임 개발 커뮤니티에서 닷넷에 대한 관심이 꾸준히 증가하고 있어 이번 주부터는 새롭게 게임 관련 소식도 추가했습니다. 당연히 닷넷으로 개발된 게임들을 소개해 드릴 것이고 여러분이 선호하는 플랫폼을 대상으로 개발 분야에 맞춰 사례 위주로 전달해 드릴 예정입니다.
 
-이번 주에도 많은 분들이 보내주신 링크와 팁을 포함하고 있으며 도움 주신 모든 분들께 감사드립니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분들과 공유하도록 하겠습니다.
+이번 주에도 많은 분이 보내주신 링크와 팁을 포함하고 있으며 도움 주신 모든 분께 감사드립니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은  분과 공유하도록 하겠습니다.
 
 
 ### 금주의 패키지 – Dapper-dot-net
 
-.NET 관련 OR 매핑 도구들은 제법 많습니다. 그 중에서도 Dapper는 가능한 단순하게 접근한 몇 안되는 도구 중 하나로 특별히 Stackoverflow 팀이 개발하고 있는 OR 매퍼입니다. 단순하기 때문에 성능 면에서도 SqlDataReader를 이용해 직접 작성했을 때와 유사한 속도를 보이고, 게다가 SqlDataReader로는 제공하지 못한 강력한 형식의 API로 형식 안정성까지 보장하고 있습니다.
+.NET 관련 OR 매핑 도구들은 제법 많습니다. 그중에서도 Dapper는 가능한 한 단순하게 접근한 몇 안 되는 도구 중 하나로 특별히 Stackoverflow 팀이 개발하고 있는 OR 매퍼입니다. 단순하므로 성능면에서도 SqlDataReader를 이용해 직접 작성했을 때와 유사한 속도를 보이고, 게다가 SqlDataReader로는 제공하지 못한 강력한 형식의 API로 형식 안정성까지 보장하고 있습니다.
 
 * [Dapper-dot-net](http://stackexchange.github.io/dapper-dot-net/)
 
@@ -13,7 +13,7 @@
 {{DapperDogSample.cs}} <script src="https://gist.github.com/bleroy/e45aa550b823c71514ef.js"></script>
 </section>
 
-겨우 이 정도냐고 하실 분들을 위해 하나 더 언급하자면, Dapper의 확장성 있는 구조로 만들어진 [Nuget의 부가 패키지](https://www.nuget.org/packages?q=dapper)들을 보시면 놀라실 것 입니다. 
+겨우 이 정도냐고 하실 분들을 위해 하나 더 언급하자면, Dapper의 확장성 있는 구조로 만들어진 [Nuget의 부가 패키지](https://www.nuget.org/packages?q=dapper)들을 보시면 놀라실 것입니다. 
 
 
 ### .NET 소식
