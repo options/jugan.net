@@ -31,7 +31,7 @@
 * [Rocks, Maps, Scissors](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=15279) : 전형적인 고전 게임의 하나인 ‘가위, 바위, 보’를 현대 식으로 재미있게 변형한 게임입니다.
 * [Tile Breaker Evolution](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=63289) : 벽돌이 튈 방향으로 장애물을 놓아 볼의 방향을 바꾸도록 만든 게임으로 생각만큼 쉽지 않은 게임입니다.
 * [Mobsferatu](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=59414) : Nosferatu에 대항해 싸워줄 친구들을 모아 안내하는 게임입니다.
-* [Growth Industries](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=24965) : 터치 스크린 용 게임입니다.
+* [Growth Industries](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=24965) : 터치 스크린용 게임입니다.
 
 ### C# 소식
 
@@ -55,7 +55,7 @@
 * Michael Newton의 [Angels from the Realms of Glory](http://blog.mavnn.co.uk/angels-from-the-realms-of-glory/)
 * Steven Pemberton의 [Let it Snow! A Basic Particle System in F# and WPF](http://stevenpemberton.net/blog/2015/12/19/Let-it-snow-FSharp-Advent-2015/)
 * Juan Gómez의 [Developing Mobile Apps at the Speed of Light](http://jmgomez.me/advent-calendar-developing-mobile-apps-at-the-spee/)
-* Jorge Fioranelli의 [Reactive Messaging Patterns with F# and Akka.NET](http://jmgomez.me/advent-calendar-developing-mobile-apps-at-the-spee/)
+* Jorge Fioranelli의 [Reactive Messaging Patterns with F# and Akka.NET](http://jorgef.github.io/fsharpreactivepatterns/)
 
 ### ASP.NET 소식
 
