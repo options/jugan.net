@@ -3,9 +3,9 @@
 
 ### 금주의 패키지 – ImageProcessor
 
-이미지 처리를 서버 측에서 하는 것이 더 좋을 때가 종종 있습니다. 가령 이미지에 임의로 워터마크(watermark)를 넣는다거나, 섬네일(thumbnail)을 즉석에서 만드는 경우를 들 수 있습니다. 또는 갤러리에 있는 이미지 파일들을 흑백으로 처리해서 보여줘야 할 때도 있는데요. 결국, 서버 측에서 동적으로 이미지를 처리해 줄 도구가 필요하게 됩니다. 서버 측에서 처리하기 때문에 기본적으로 고속이어야 하고, 기왕이면 다중 CPU 코어 자원을 효율적으로 사용할 수 있으면 더 좋습니다.
+이미지 처리를 서버 측에서 하는 것이 더 좋을 때가 종종 있습니다. 가령 이미지에 임의로 워터마크(watermark)를 넣는다거나, 썸네일(thumbnail)을 즉석에서 만드는 경우를 들 수 있습니다. 또는 갤러리에 있는 이미지 파일들을 흑백으로 처리해서 보여줘야 할 때도 있는데요. 결국, 서버 측에서 동적으로 이미지를 처리해 줄 도구가 필요하게 됩니다. 서버 측에서 처리하기 때문에 기본적으로 고속이어야 하고, 기왕이면 다중 CPU 코어 자원을 효율적으로 사용할 수 있으면 더 좋습니다.
 
-이런 경우 James South가 만든 ImageProcessor 라이브러리가 해결책이 될 수 있습니다. 오픈 소스인 데다 경량화되어 있어 빠르고 간단하며, 멀티 스레딩을 고려한 확장성 있는 라이브러리이기 때문입니다. 심지어 .NET Core까지도 지원하고 있습니다. (따라서 윈도우 운영체제의 GDI+에 종속성이 없습니다.)
+이런 경우 James South가 만든 ImageProcessor 라이브러리가 해결책이 될 수 있습니다. 오픈 소스인 데다 경량화 되어 있어 빠르고 간단하며, 멀티 스레딩을 고려한 확장성 있는 라이브러리이기 때문입니다. 심지어 .NET Core까지도 지원하고 있습니다. (따라서 윈도우 운영체제의 GDI+에 종속성이 없습니다.)
 
 * [ImageProcessor](http://imageprocessor.org/)
 
@@ -22,7 +22,7 @@
 * [Exploring the new .NET "dotnet" Command Line Interface (CLI)](http://www.hanselman.com/blog/ExploringTheNewNETDotnetCommandLineInterfaceCLI.aspx) : Scott Hanselman이 .NET Core와 함께 새롭게 등장한 명령행 도구([dotnet](https://github.com/dotnet/cli))의 기본적인 사용법을 간략하게 소개합니다.
 * [Mono's Cooperative Mode for SGen GC](http://tirania.org/blog/archive/2015/Dec-22.html) : 모노 플랫폼에 새로운 GC 모드가 추가되었습니다. 이로써 모노는 기존의 Preemptive 모드 방식과 함께 2가지 유형의 GC 운영 방식을 지원하게 됩니다. Miguel de Icaza가 이를 소개합니다.
 * [Cross Platform Build Automation with VSTS / TFS 2015](https://channel9.msdn.com/Events/APAC-Influencer-Hero-2015/Singapore-Influencer-Showcase/01-Punit-Ganshani-DevOps-Build-Automation-with-VSTS--TFS-2015) : Punit Ganshani가 크로스 플랫폼 환경을 위한 TFS 2015와 비주얼 스튜디오로 빌드 자동화하는 방법에 대해 17분에 걸쳐 설명한 동영상을 채널 9에 올렸습니다. 
-* [Cross Platform Build Automation with VSTS / TFS 2015, by Packaging Libraries with NuGet](https://channel9.msdn.com/Events/APAC-Influencer-Hero-2015/Singapore-Influencer-Showcase/01-Punit-Ganshani-Packaging-your-libraries-with-NuGet) : 바로 위에서 소개된 Punit Ganshani가 이번에는 NuGet에 여러분들의 라이브러리를 올리는 방법을 약 33분여의 동영상을 통해 설명합니다.
+* [Cross Platform Build Automation with VSTS / TFS 2015, by Packaging Libraries with NuGet](https://channel9.msdn.com/Events/APAC-Influencer-Hero-2015/Singapore-Influencer-Showcase/01-Punit-Ganshani-Packaging-your-libraries-with-NuGet) : Punit Ganshani는 또한 여러분들이 개발하신 라이브러리를 NuGet에 올리는 방법을 약 33분여의 동영상을 통해 설명합니다.
 
 
 ### ASP.NET 소식
