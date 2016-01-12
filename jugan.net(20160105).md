@@ -11,7 +11,7 @@ ReactiveUI를 이용하면 .NET 용 [Reactive Extensions](http://reactivex.io/)�
 
 * [ReactiveUI](http://reactiveui.net/)
 
-WPF, 윈도우 폼, UWP 앱 등 윈도우 운영체제에서 수행되는 다양한 UI 형식을 지원할 뿐 아니라, Xamarin과도 호환되므로 Xamarin.iOS, Xamarin.Android, Xamarin.Mac, Xamarin Forms에서도 사용할 수 있습니다. 
+WPF, 윈도우 폼, UWP 앱과 같이 윈도우 운영체제에서 수행되는 다양한 UI 형식을 지원할 뿐 아니라, Xamarin과도 호환되므로 Xamarin.iOS, Xamarin.Android, Xamarin.Mac, Xamarin Forms에서도 사용할 수 있습니다. 
 
 활용 예를 한번 살펴볼까요? 예를 들어, 검색창에 사용자가 값을 입력하면 Enter 키를 입력하지 않아도 검색 서비스에 HTTP 쿼리를 전송해 자동으로 결과를 보여주어야 하는 경우가 있습니다. 사용자가 텍스트를 입력하는 순간마다 매번 쿼리를 전송하기 보다는 1초 정도의 여유를 두어 사용자가 입력을 완전히 마쳤다고 판단될 때 쿼리를 전송하는 것이 좋습니다. ReactiveUI를 이용하면 다음과 같이 작성하실 수 있습니다.
 
@@ -35,9 +35,9 @@ ASP.NET MVC의 마법 같은 라우팅 관련 문자열 용법이 마음에 들�
 {{TypedRoutingCreateRoute.cs}} <script src="https://gist.github.com/bleroy/5e321b733fffdef0f576.js"></script>
 </section>
 
-Controller와 Action 메서드의 이름과 그 인자 목록까지 제네릭(generic) 구문을 통해 전달되기 때문에 컴파일 타임에 미리 오류 검사가 가능합니다. 따라서 향후 코드 파일에서 Controller와 Action 메서드의 구문이 바뀌더라도 에러를 쉽게 찾을 수 있습니다.
+Controller와 Action 메서드의 이름과 인자 목록까지 제네릭(generic) 구문을 통해 전달되기 때문에 컴파일 타임에 미리 오류 검사가 가능합니다. 따라서 향후 코드에서 Controller와 Action 메서드의 구문이 바뀌더라도 에러를 쉽게 찾을 수 있습니다.
 
-TypedRouting은 라우팅 기능뿐만 아니라 관련 유틸리티 성격의 메서드도 함께 제공합니다. 가령, 위의 코드에서 정의한 라우팅 정보를 바탕으로 링크를 구성할 수도 있습니다.
+TypedRouting은 라우팅 기능뿐만 아니라 유틸리티 성격의 메서드도 함께 제공합니다. 가령, 위의 코드에서 정의한 라우팅 정보를 바탕으로 링크를 구성할 수도 있습니다.
 
 <section>
 {{TypedRoutingGetUrl.cs}} <script src="https://gist.github.com/bleroy/93986659567963cd2a9c.js"></script>
