@@ -2,7 +2,7 @@
 
 ### On.NET 소식
 
-이번 주 [On.NET 유튜브 동영상 인터뷰](...)는 Unity 3D팀의 Jonathan Chambers를 모시고 게임 엔진 이야기와 더불어 닷넷을 이용해 iOS, 안드로이드 및 웹을 대상으로 하는 프로그램을 만드는 방법에 관한 대화를 나눌 예정입니다. (.... 한국 발생 시점에는 이미 끝났을 예정이어서... 마무리 부탁드립니다.)
+이번 주 [On.NET 유튜브 동영상 인터뷰](...)는 Unity 3D팀의 Jonathan Chambers를 모시고 게임 엔진 이야기와 더불어 닷넷을 이용해 iOS, 안드로이드 및 웹을 대상으로 하는 프로그램을 만드는 방법에 대해 이야기 나눌 예정입니다. (.... 한국 발생 시점에는 이미 끝났을 예정이어서... 마무리 부탁드립니다.)
 
 
 ### 금주의 패키지 #1 – JSON.NET 8
@@ -11,21 +11,21 @@
 
 * [JSON.NET](https://github.com/JamesNK/Newtonsoft.Json)
 
-이미 많은 분들이 JSON을 .NET 객체로 직렬화/역직렬화하는 데 사용하는 라이브러리임을 알고 계실 것입니다. 최근 James Newton-King은 성능 향상과 함께 수많은 버그를 수정한 8.0 버전을 새롭게 공개했습니다. 그렇지 않아도 다른 라이브러리와 비교해 충분히 빨랐음에도 불구하고 James Newton-King은 더 빠른 성능을 얻기 위해 메모리 할당을 없애는 방법을 채택했습니다. 즉, 기존 버전은 필요할 때마다 버퍼를 할당하는 방식이었지만 8.0부터는 버퍼 풀을 사용하는 방법으로 바꾼 것입니다.
+이미 많은 분들이 JSON을 .NET 객체로 직렬화/역직렬화하는 데 사용하는 라이브러리임을 알고 계실 것입니다. 최근 James Newton-King은 성능을 향상시키고 동시에 수많은 버그를 수정한 8.0 버전을 새롭게 공개했습니다. 다른 라이브러리와 비교했을 때  충분히 빨랐음에도 불구하고 James Newton-King은 성능을 향상시키기 위해 메모리 할당을 제거했습니다. 즉, 기존 버전은 버퍼를 필요할 때마다 할당하는 방식이었지만 8.0부터는 버퍼 풀을 사용하는 방법으로 바꾼 것입니다.
 
 <section>
 {{JsonNetArrayPool.cs}} <script src="https://gist.github.com/bleroy/784f9c6d439fca8b3812.js"></script>
 </section>
 
-버퍼 풀을 사용하는 기능은 아직은 실험 단계라서 현재로써는 IArrayPool 인터페이스를 구현한 풀 관리 클래스를 여러분이 직접 구현해 제공해야 합니다. 그에 관한 예제 코드는 새 버전의 [공지 페이지](http://james.newtonking.com/archive/2015/12/20/json-net-8-0-release-1-allocations-and-bug-fixes)에 실려 있습니다. 이후 버전에서는 IArrayPool을 구현한 클래스가 자체 내장될 예정입니다.
+버퍼 풀을 사용하는 기능은 아직은 실험 단계라서 현재로는 IArrayPool 인터페이스를 구현한 풀 관리 클래스를 여러분이 직접 구현해야 합니다. 그에 관한 예제 코드는 새 버전의 [공지 페이지](http://james.newtonking.com/archive/2015/12/20/json-net-8-0-release-1-allocations-and-bug-fixes)에 실려 있습니다. 이후 버전에서는 IArrayPool을 구현한 클래스가 내장될 예정입니다.
 
 ### 금주의 패키지 #2 – Colorful.Console
 
-콘솔 응용 프로그램이 색상만 좀더 화려해진다면 금상첨화일 것입니다. Colorful.Console은 이런 면에서 닷넷의 기본 제공 클래스인 System.Console을 대체합니다. 
+콘솔 응용 프로그램의 색상이 좀 더 화려해진다면 금상첨화일 것입니다. Colorful.Console은 이런 면에서 닷넷의 기본 제공 클래스인 System.Console을 대체합니다. 
 
 * [Colorful.Console](http://colorfulconsole.com/)
 
-출력에 관한 색상을 지정할 수 있는 API뿐만 아니라 심지어 텍스트를 ASCII 그림으로 변환해 주는 기능도 포함하고 있습니다.
+출력 색상을 지정할 수 있는 API뿐만 아니라 심지어 텍스트를 ASCII 그림으로 변환해 주는 기능도 포함하고 있습니다.
 
 <section>
 {{ColorfulConsoleAsciiArt.cs}} <script src="https://gist.github.com/bleroy/4f09cf8dc7419cda5ba5.js"></script>
@@ -35,12 +35,12 @@
 
 ### .NET 소식
 
-* [How to package a portable .NET library targeting .NET Core?](https://stackoverflow.com/questions/34611919/how-to-package-a-portable-net-library-targeting-net-core) : 스택 오버플로에 실린 Q&A 글입니다. 여러분이 만든 닷넷 라이브러리를 .NET Core 및 그 외의 다양한 환경을 위해 패키징할 수 있는 방법을 보여줍니다.
-* [Debugging and Profiling in Visual Studio 2015](https://www.simple-talk.com/dotnet/visual-studio/debugging-and-profiling-in-visual-studio-2015/) : Manuel Meyer가 비주얼 스튜디오 2015에 제공되는 디버깅 및 프로파일링 관련 기능을 설명합니다.
+* [How to package a portable .NET library targeting .NET Core?](https://stackoverflow.com/questions/34611919/how-to-package-a-portable-net-library-targeting-net-core) : 스택 오버플로에 실린 Q&A 글입니다. 여러분이 만든 닷넷 라이브러리를 .NET Core 및 그 외의 다양한 환경에서 패키징할 수 있는 방법을 보여줍니다.
+* [Debugging and Profiling in Visual Studio 2015](https://www.simple-talk.com/dotnet/visual-studio/debugging-and-profiling-in-visual-studio-2015/) : Manuel Meyer가 비주얼 스튜디오 2015에 제공되는 디버깅 및 프로파일링 기능을 설명합니다.
 * [How open source changed my life](http://blog.tonysneed.com/2015/12/19/how-open-source-changed-my-life/) : Tony Sneed는 오픈 소스에 참여한 그의 체험담을 공유했습니다.
 * [To base() or not to base(), that is the question](http://codeblog.jonskeet.uk/2016/01/08/to-base-or-not-to-base-that-is-the-question/) : Jon Skeet은 자식 클래스에서 부모 클래스의 기본 생성자를 다루는 방법이 스펙 문서와 다를 수 있음을 지적하고 명시적인 base() 호출의 효과를 설명합니다.
 * [Evolution of C#](http://www.kunal-chowdhury.com/2016/01/csharp-basics.html) : Kunal Chowdhury는 C# 1.0부터 6.0까지의 변화를 하나의 표로 만들어 공유해주었습니다.
-* [Functional Microservices](http://www.dotnetrocks.com/default.aspx?ShowNum=1240) : [.NET Rocks](http://www.dotnetrocks.com) 운영진은 jet.com의 Rachel Reese가 F#으로 마이크로서비스를 구축한 것에 대한 그녀의 경험담을 인터뷰했습니다.
+* [Functional Microservices](http://www.dotnetrocks.com/default.aspx?ShowNum=1240) : [.NET Rocks](http://www.dotnetrocks.com) 운영진은 jet.com의 F#으로 마이크로서비스를 구축한 Rachel Reese의 경험담을 인터뷰했습니다.
 
 
 ### ASP.NET 소식
