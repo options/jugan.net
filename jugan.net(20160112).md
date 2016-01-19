@@ -1,8 +1,8 @@
-2015년 12월 1일 첫번째 주간닷넷을 시작으로 어느덧 일곱 번째 주간닷넷입니다. 지속적인 관심을 보내주신 덕분에 주간닷넷의 누적 조회수가 10,000을 돌파했습니다. 감사합니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
+2015년 12월 1일 첫 번째 주간닷넷을 시작으로 어느덧 일곱 번째 주간닷넷입니다. 지속적인 관심을 보내주신 덕분에 주간닷넷의 누적 조회 수가 10,000을 돌파했습니다. 감사합니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
 
 ### On.NET 소식
 
-[지난 번 On.NET 유튜브 동영상 인터뷰](https://www.youtube.com/watch?v=pwdxfY2Y2Ow)에는 Mads Torgersen을 모시고 C#언어에 대해 이야기 나누는 시간을 가졌습니다. [이번 On.NET 유튜브 동영상 인터뷰](https://www.youtube.com/watch?v=B0yWmVL8hF0)는 [Unity 3D](http://unity3d.com/)팀의 Jonathan Chambers를 모시고 게임 엔진 이야기와 더불어 닷넷을 이용한 iOS, 안드로이드 및 웹 프로그램을 만드는 방법을 이야기할 예정입니다. 
+[지난번 On.NET 유튜브 동영상 인터뷰](https://www.youtube.com/watch?v=pwdxfY2Y2Ow)에는 Mads Torgersen을 모시고 C#언어에 관해 이야기 나누는 시간을 가졌습니다. [이번 On.NET 유튜브 동영상 인터뷰](https://www.youtube.com/watch?v=B0yWmVL8hF0)는 [Unity 3D](http://unity3d.com/)팀의 Jonathan Chambers를 모시고 게임 엔진 이야기와 더불어 닷넷을 이용한 iOS, 안드로이드 및 웹 프로그램을 만드는 방법을 이야기할 예정입니다. 
 
 ### 금주의 패키지 #1 – JSON.NET 8
 
@@ -10,7 +10,7 @@
 
 * [JSON.NET](https://github.com/JamesNK/Newtonsoft.Json)
 
-이미 많은 분들이 JSON을 .NET 객체로 직렬화/역직렬화하는 데 사용하는 라이브러리로 알고 계실 것입니다. 최근 James Newton King은 성능향상 뿐만아니라 수많은 버그를 수정한 8.0 버전을 공개했습니다. 다른 라이브러리와 비교했을 때 충분히 속도가 빠름에도 불구하고 James는 성능을 향상시키기 위해 메모리 할당을 하지 않는 방식을 제시했습니다. 기존 버전은 버퍼를 필요할 때마다 할당하는 방식이었지만 8.0부터는 버퍼 풀을 사용하는 방법으로 바꾼 것입니다.
+이미 많은 분이 JSON을 .NET 객체로 직렬화/역직렬화하는 데 사용하는 라이브러리로 알고 계실 것입니다. 최근 James Newton King은 성능향상뿐만 아니라 수많은 버그를 수정한 8.0 버전을 공개했습니다. 다른 라이브러리와 비교했을 때 충분히 속도가 빠름에도 불구하고 James는 성능을 향상하기 위해 메모리 할당을 하지 않는 방식을 제시했습니다. 기존 버전은 버퍼를 필요할 때마다 할당하는 방식이었지만 8.0부터는 버퍼 풀을 사용하는 방법으로 바꾼 것입니다.
 
 <section>
 {{JsonNetArrayPool.cs}} <script src="https://gist.github.com/bleroy/784f9c6d439fca8b3812.js"></script>
@@ -44,11 +44,11 @@
 
 ### ASP.NET 소식
 
-* [Goodbye child actions, hello view components](http://www.davepaquette.com/archive/2016/01/02/goodbye-child-actions-hello-view-components.aspx) : Dave Paquette이 View Component를 이용해 재사용가능한 구성요소를 만드는 법을 소개합니다.
+* [Goodbye child actions, hello view components](http://www.davepaquette.com/archive/2016/01/02/goodbye-child-actions-hello-view-components.aspx) : Dave Paquette이 View Component를 이용해 재사용 가능한 구성요소를 만드는 법을 소개합니다.
 * [Best practices for private config data and connection strings in configuration in ASP.NET and Azure](http://www.hanselman.com/blog/BestPracticesForPrivateConfigDataAndConnectionStringsInConfigurationInASPNETAndAzure.aspx) : Scott Hanselman이 Azure 상의 ASP.NET 웹 응용 프로그램에서 연결 문자열과 같은 민감한 내부 데이터를 보관하기 위한 최적의 방법을 소개합니다.
 * [Real time translated chat with ASP.NET, Microsoft Translator and IP Messaging](https://www.twilio.com/blog/2015/12/hola-ip-messaging-real-time-translated-chat-with-asp-net-microsoft-translator-and-ip-messaging.html) : Devin Rader는 [Microsoft Translator API](http://www.microsoft.com/en-us/translator/translatorapi.aspx)를 이용해 실시간으로 채팅 메시지를 번역하는 방법을 소개합니다.
-* [Building APIs with MVC 6 and OAuth](https://www.youtube.com/watch?v=vqcAVic4Ej0) : Filip Ekberg는 MVC 6과 OAuth를 결합시켜 API를 서비스하는 방법을 비디오로 만들어 유튜브에 공개했습니다.
-* [How to take an ASP.NET MVC web site down for maintenance](https://www.simple-talk.com/dotnet/asp.net/how-to-take-an-asp.net-mvc-web-site-down-for-maintenance/) : Jon smith는 유지 보수를 위해 ASP.NET MVC 웹 사이트 운영을 잠시 중단해야 하는 경우, 처리 방법에 대한 고민과 노하우를 공유했습니다.
+* [Building APIs with MVC 6 and OAuth](https://www.youtube.com/watch?v=vqcAVic4Ej0) : Filip Ekberg는 MVC 6과 OAuth를 결합해 API를 서비스하는 방법을 비디오로 만들어 유튜브에 공개했습니다.
+* [How to take an ASP.NET MVC web site down for maintenance](https://www.simple-talk.com/dotnet/asp.net/how-to-take-an-asp.net-mvc-web-site-down-for-maintenance/) : Jon smith는 유지 보수를 위해 ASP.NET MVC 웹 사이트 운영을 잠시 중단해야 하는 경우, 처리 방법에 대한 고민과 자신만의 비법을 공유했습니다.
 * [Experiments with Entity Framework 7 and ASP.NET MVC 6](http://damienbod.com/2016/01/07/experiments-with-entity-framework-7-and-asp-net-5-mvc-6/) : Damien Bod는 ASP.NET MVC 6와 Entity Framework 7을 함께 사용한 경험을 공유했습니다.  
 
 
