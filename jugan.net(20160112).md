@@ -10,7 +10,7 @@ JSON.NET에 대한 설명이 필요할까요?
 
 * [JSON.NET](https://github.com/JamesNK/Newtonsoft.Json)
 
-JSON.NET은 이미 많은 분이 JSON을 .NET 객체로 직렬화/역직렬화 하는 라이브러리로 알고 계실 것입니다. 최근 James Newton King은 성능을 대폭 향상 시켰을뿐 아니라 다양한 버그를 수정한 [8.0 버전을 공개]()했습니다. 다른 라이브러리와 비교했을 때 충분히 속도가 빠름에도 불구하고 James는 성능 향상을 위해 메모리 할당을 회피할 수 있는 새로운 방법을 소개하였습니다. 기존에는 버퍼를 필요할 때마다 할당하였지만, 이제 다음과 같이 코드를 작성하면 버퍼 풀을 사용할 수 있습니다. 
+JSON.NET은 이미 많은 분이 JSON을 .NET 객체로 직렬화/역직렬화 하는 라이브러리로 알고 계실 것입니다. 최근 James Newton King은 성능을 대폭 향상 시켰을뿐 아니라 다양한 버그를 수정한 [8.0 버전을 공개](http://blogs.msdn.com/b/dotnet/archive/2016/01/12/the-week-in-net-1-12-2015.aspx)했습니다. 다른 라이브러리와 비교했을 때 충분히 속도가 빠름에도 불구하고 James는 성능 향상을 위해 메모리 할당을 회피할 수 있는 새로운 방법을 소개하였습니다. 기존에는 버퍼를 필요할 때마다 할당하였지만, 이제 다음과 같이 코드를 작성하면 버퍼 풀을 사용할 수 있습니다. 
 
 <section>
 {{JsonNetArrayPool.cs}} <script src="https://gist.github.com/bleroy/784f9c6d439fca8b3812.js"></script>
