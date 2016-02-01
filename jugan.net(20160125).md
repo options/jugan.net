@@ -7,7 +7,7 @@
 
 ### 금주의 패키지 – ASP.NET MVC Boilerplate
 
-"ASP.NET MVC Boilerplate"는 ASP.NET MVC 기반의 다양한 응용 프로그램 템플릿을 제공합니다. 설치 후 비주얼 스튜디오의 프로젝트 템플릿을 선택할 수 있음은 물론이고 "Feature Selection" 마법사를 이용하면 여러분이 만들고자 하는 다양한 형태의 웹 사이트 유형을 선택할 수 있습니다.
+"ASP.NET MVC Boilerplate"는 ASP.NET MVC 기반의 다양한 응용 프로그램 템플릿을 제공합니다. 비주얼 스튜디오의 프로젝트 템플릿을 선택할 수 있음은 물론이고 "Feature Selection" 마법사를 이용하면 여러분이 만들고자 하는 다양한 형태의 웹 사이트 유형을 선택할 수 있습니다.
 
 * [ASP.NET MVC Boilerplate](https://github.com/RehanSaeed/ASP.NET-MVC-Boilerplate)
 
@@ -37,18 +37,18 @@
 
 * [Configuration in ASP.NET Core MVC](http://jameschambers.com/2016/01/Configuration-in-ASP-NET-Core-MVC/) : James Chambers 가 ASP.NET Core MVC 프로젝트에 새롭게 도입된 설정 관리 방법을 설명합니다.
 * [FontAwesome fonts and MIME types in IIS and other web servers](http://weblog.west-wind.com/posts/2016/Jan/25/FontAwesome-Fonts-and-Mime-Types-in-IIS-and-other-Web-Servers) : 텍스트 방식으로 아이콘을 만들 수 있게 도와주는 FontAwesome 솔루션이 있습니다. Rick Strahl 이 IIS 를 포함한 다양한 웹 서버에서 MIME 타입을 설정하는 방법에 대해 설명합니다.
-* [Angular 2 quickstart with ASP.NET Core](http://www.elanderson.net/2016/01/angular-2-quickstart-with-asp-net-core/) : Eric L. Anderson 은 ASP.NET Core 프로젝트에서 현재 베타 버전인 Angular 버전 2를 적용하는 방법을 설명합니다.
-* [ASP.NET Core logging using trace listeners and how to filter logs](http://www.codeproject.com/Articles/1073028/ASP-NET-Logging-using-Trace-Listeners-and-How-to-F) : Girish J Jain 은 ASP.NET Core 의 로깅 방식과 필터링하는 방법을 설명합니다.
+* [Angular 2 quickstart with ASP.NET Core](http://www.elanderson.net/2016/01/angular-2-quickstart-with-asp-net-core/) : Eric L. Anderson 은 ASP.NET Core 프로젝트에서 현재 베타 버전인 Angular 버전 2 를 적용하는 방법을 설명합니다.
+* [ASP.NET Core logging using trace listeners and how to filter logs](http://www.codeproject.com/Articles/1073028/ASP-NET-Logging-using-Trace-Listeners-and-How-to-F) : Girish J Jain 은 ASP.NET Core 의 로깅 방식과 필터링 방법을 설명합니다.
 * [Dynamically adding meta tags](http://dotnet-helpers.com/2016/01/23/dynamically-adding-meta-tags-asp-net-mvc/) : Thiyagu 가 ASP.NET MVC 프로젝트에서 메타 태그(\<meta/\>) 를 동적으로 추가하는 방법을 설명합니다.
-* [How to create a custom controller factory](http://www.jomendez.com/2016/01/20/how-to-create-a-custom-controller-factory-asp-net-mvc/) : Jose Mendez 가 ASP.NET MVC 프로젝트에서 (IControllerFactory를 상속하는) 사용자 정의 컨트롤러 팩토리 클래스를 만드는 방법을 설명합니다.
+* [How to create a custom controller factory](http://www.jomendez.com/2016/01/20/how-to-create-a-custom-controller-factory-asp-net-mvc/) : Jose Mendez 가 ASP.NET MVC 프로젝트에서 (IControllerFactory 를 상속하는) 사용자 정의 컨트롤러 팩토리 클래스를 만드는 방법을 설명합니다.
 * [Common aspects of ASP.NET code in WebForms and MVC](https://www.simple-talk.com/dotnet/asp.net/common-aspects-of-asp.net-code-in-web-forms-and-mvc/) : Dino Esposito 는 ASP.NET 웹 폼과 MVC 간의 핵심 구조는 다르지 않음을 각각의 동작 방식을 비교하며 설명합니다.
 * [Generate C# client API for ASP.NET WebAPI](http://www.codeproject.com/Articles/1074039/Generate-Csharp-Client-API-for-ASP-NET-Web-API) : Zijian 은 ASP.NET Web API 서비스의 클라이언트 측 호출 코드를 자동 생성해주는 [Strongly Typed Client API Generators for ASP.NET Web API](https://webapiclientgen.codeplex.com/) 사용법을 설명합니다.
 * [Handling request too large and identifying limits](https://lennybacon.com/post/2016/01/20/handling-request-too-large-and-identify-limits-in-aspnet) : Daniel Fisher 는 대용량 요청을 처리하는 방법과 최댓값을 넘어섰을 때의 요청을 인식하는 방법을 설명합니다.
 
 ### F# 소식
 
-* [가상 F# 컨퍼런스](http://fsharpconf.com/)가 2016년 3월 4일에 라이브-스트리밍 방식으로 진행될 예정입니다.
-* [Xamarin Studio 6.0 프리뷰 버전](http://developer.xamarin.com/releases/studio/xamarin.studio_6.0/xamarin.studio_6.0/#F_Enhancements)부터 F#에 PCL 및 공유 프로젝트를 포함하여 몇 가지의 F# 지원을 추가했습니다.
+* [가상 F# 컨퍼런스](http://fsharpconf.com/)가 2016 년 3 월 4 일에 라이브-스트리밍 방식으로 진행될 예정입니다.
+* [Xamarin Studio 6.0 프리뷰 버전](http://developer.xamarin.com/releases/studio/xamarin.studio_6.0/xamarin.studio_6.0/#F_Enhancements)부터 F# 에 PCL 및 공유 프로젝트를 포함하여 몇 가지의 F# 지원을 추가했습니다.
 * [Running F# on Microsoft Azure](https://cockneycoder.wordpress.com/2016/01/20/running-fsharp-on-microsoft-azure/) : Isaac Abraham 이 마이크로소프트 클라우드 환경인 애저에서 F# 응용 프로그램을 호스팅하는 것에 관한 글을 공유했습니다.
 * [Using F# on Linux](https://curran.in/jonathan/2015-01-16-using-fsharp-on-linux.html) : Jonathan Curran 은 리눅스 환경에서 F# 응용 프로그램을 작성하는 것에 관한 글을 공유했습니다.
 * [Chart-tastic F# Goodness](http://bearandhammer.net/2016/01/17/chart-tastic-f-goodness/) : Bear & Hammer 는 FSharp.Charting 라이브러리를 이용하여 다양한 차트를 다루는 F# 소스 코드를 공유했습니다.
@@ -58,4 +58,4 @@
 
 [Image](http://globalgamejam.org/sites/default/files/styles/responsive_large__wide/public/facebookheaderlarge.png) 
 
-Global Game Jam 행사가 지난 1월 29일부터 3일간 개최되었습니다. .NET으로 개발된 게임이 있다면 Stacey Haffner ([@yecats131](http://twitter.com/yecats131)) 트위터 계정이나 [Gist](https://gist.github.com/bleroy/cb15b20d89f5730120d5) 를 통해 알려주세요.
+Global Game Jam 행사가 지난 1 월 29 일부터 3 일간 개최되었습니다. .NET 으로 개발된 게임이 있다면 Stacey Haffner ([@yecats131](http://twitter.com/yecats131)) 트위터 계정이나 [Gist](https://gist.github.com/bleroy/cb15b20d89f5730120d5) 를 통해 알려주세요.
