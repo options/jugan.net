@@ -2,15 +2,15 @@
 
 ### On.NET 소식
 
-On.NET 인터뷰 동영상을 [기존의 유튜브 채널](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw) 뿐만 아니라 [Channel 9](https://channel9.msdn.com/Shows/On-NET)에서도 시청 하실 수 있게 되었습니다. 더 많은 분들이 볼 수 있게 되었다는 면에서도 의미가 있지만 무엇보다도 Channel 9 에서는 MP3 파일을 지원하기 때문에 화면을 시청하지 못하는 On.NET 의 음성 팟 캐스트 서비스를 이용하여 청취하실 수 있습니다.
+On.NET 인터뷰 동영상을 [기존의 유튜브 채널](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw) 뿐만 아니라 [Channel 9](https://channel9.msdn.com/Shows/On-NET) 에서도 시청 하실 수 있게 되었습니다. Channel 9 에서는 MP3 파일을 지원하기 때문에 화면을 시청하지 못하는 On.NET 의 음성 팟 캐스트 서비스를 이용하여 청취하실 수 있습니다.
 
-[지난번 인터뷰](https://youtu.be/h3x6eY0RAr4)는 Apcera 의 Brian Flannery 와 Colin Sullivan 과 함께 [NATS](http://nats.io/) 서비스에 대한 이야기를 나누었습니다. 좀더 자세한 정보는 [NATS 웹 사이트](http://nats.io/)에서 확인하실 수 있습니다.
+[지난번 On.NET 유튜브 동영상 인터뷰](https://youtu.be/h3x6eY0RAr4)는 Apcera 의 Brian Flannery 와 Colin Sullivan 과 함께 [NATS](http://nats.io/) 서비스에 대한 이야기를 나누었습니다. 좀더 자세한 정보는 [NATS 웹 사이트](http://nats.io/)에서 확인하실 수 있습니다.
 
-[이번주 인터뷰](https://www.youtube.com/watch?v=g2a4W6Q7aRw)는 Scott Hunter 를 모시고 .NET, ASP.NET 및 .NET Core 릴리즈 관련 이야기를 나눕니다.
+[이번 On.NET 유튜브 동영상 인터뷰](https://www.youtube.com/watch?v=g2a4W6Q7aRw)는 Scott Hunter 를 모시고 .NET, ASP.NET 및 .NET Core 릴리즈 관련 이야기를 나눕니다.
 
 ### 금주의 패키지 – AutoMapper
 
-AutoMapper는 객체 간의 데이터를 손쉽게 매핑해주는 라이브러리입니다.
+AutoMapper 는 객체 간의 데이터를 손쉽게 매핑해주는 라이브러리입니다.
 
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper)
 
@@ -68,7 +68,7 @@ msbuild.exe 파일만 .NET 프로젝트를 빌드할 수 있는 것은 아닙니
 
 ### .NET 게임 소식
 
-* Andrew Innes 는 Unity 가 Nintendo DS 플랫폼을 지원하기 시작했다는 [소식](http://blogs.unity3d.com/2016/01/29/unity-comes-to-new-nintendo-3ds/)을 공유했습니다.
+* Andrew Innes 는 [Unity 가 Nintendo DS 플랫폼을 지원하기 시작했다는 소식](http://blogs.unity3d.com/2016/01/29/unity-comes-to-new-nintendo-3ds/)을 공유했습니다.
 
 ### Global Game Jam 2016 Submission
 
