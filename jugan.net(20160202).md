@@ -2,9 +2,9 @@
 
 ### On.NET 소식
 
-On.NET 인터뷰 동영상을 [기존의 유튜브 채널](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw) 뿐만 아니라 [Channel 9](https://channel9.msdn.com/Shows/On-NET) 에서도 시청 하실 수 있게 되었습니다. Channel 9 에서는 MP3 파일을 지원하기 때문에 화면을 시청하지 못하는 분들은 [On.NET 의 음성 팟 캐스트](https://s.ch9.ms/Shows/On-NET/feed/mp3)를 이용하여 청취하실 수 있습니다.
+On.NET 인터뷰 동영상을 [기존의 유튜브 채널](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw) 뿐만 아니라 [Channel 9](https://channel9.msdn.com/Shows/On-NET) 에서도 시청하실 수 있게 되었습니다. Channel 9 에서는 MP3 파일을 지원하기 때문에 화면을 시청하지 못하는 분들은 [On.NET 의 음성 팟캐스트](https://s.ch9.ms/Shows/On-NET/feed/mp3)를 이용하여 청취하실 수 있습니다.
 
-[지난번 On.NET 유튜브 동영상 인터뷰](https://youtu.be/h3x6eY0RAr4)는 Apcera 의 Brian Flannery 와 Colin Sullivan 과 함께 [NATS](http://nats.io/) 서비스에 대한 이야기를 나누었습니다. 좀더 자세한 정보는 [NATS 웹 사이트](http://nats.io/)에서 확인하실 수 있습니다.
+[지난번 On.NET 유튜브 동영상 인터뷰](https://youtu.be/h3x6eY0RAr4)는 Apcera 의 Brian Flannery 와 Colin Sullivan 과 함께 [NATS](http://nats.io/) 서비스에 대한 이야기를 나누었습니다. 좀 더 자세한 정보는 [NATS 웹 사이트](http://nats.io/)에서 확인하실 수 있습니다.
 
 [이번 On.NET 유튜브 동영상 인터뷰](https://www.youtube.com/watch?v=g2a4W6Q7aRw)는 Scott Hunter 를 모시고 .NET, ASP.NET 및 .NET Core 릴리즈 관련 이야기를 나눕니다.
 
@@ -73,6 +73,6 @@ msbuild.exe 파일만 .NET 프로젝트를 빌드할 수 있는 것은 아닙니
 
 ### Global Game Jam 2016 Submission
 
-[Oh God, it’s Monday](http://globalgamejam.org/2016/games/oh-god-its-monday) 라는 게임을 소개하고자 합니다. 게임의 시나리오는 주어진 업무 시간 내에 종업원들이 일을 완료할 수 있도록 최대한 효율적인 경로를 선택하는 것 입니다. 일과 시간 중에 다른 동료를 만나 하던 일을 멈추고 이야기를 나누면, 주어진 시간내에 일을 완료하지 못해 게임에서 지게 됩니다. 
+[Oh God, it’s Monday](http://globalgamejam.org/2016/games/oh-god-its-monday) 라는 게임을 소개하고자 합니다. 게임의 시나리오는 주어진 업무 시간 내에 종업원들이 일을 완료할 수 있도록 최대한 효율적인 경로를 선택하는 것입니다. 일과 시간 중에 다른 동료를 만나 하던 일을 멈추고 이야기를 나누면, 주어진 시간 내에 일을 완료하지 못해 게임에서 지게 됩니다. 
 
 [image](https://cloud.githubusercontent.com/assets/4108756/12756896/9cfa9178-c98a-11e5-99f7-b8bf0b885eb0.jpg)
