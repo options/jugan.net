@@ -2,7 +2,7 @@
 
 ### On.NET 소식
 
-On.NET 인터뷰 동영상을 [기존의 유튜브 채널](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw) 뿐만 아니라 [Channel 9](https://channel9.msdn.com/Shows/On-NET) 에서도 시청 하실 수 있게 되었습니다. Channel 9 에서는 MP3 파일을 지원하기 때문에 화면을 시청하지 못하는 On.NET 의 음성 팟 캐스트 서비스를 이용하여 청취하실 수 있습니다.
+On.NET 인터뷰 동영상을 [기존의 유튜브 채널](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw) 뿐만 아니라 [Channel 9](https://channel9.msdn.com/Shows/On-NET) 에서도 시청 하실 수 있게 되었습니다. Channel 9 에서는 MP3 파일을 지원하기 때문에 화면을 시청하지 못하는 분들은 [On.NET 의 음성 팟 캐스트](https://s.ch9.ms/Shows/On-NET/feed/mp3)를 이용하여 청취하실 수 있습니다.
 
 [지난번 On.NET 유튜브 동영상 인터뷰](https://youtu.be/h3x6eY0RAr4)는 Apcera 의 Brian Flannery 와 Colin Sullivan 과 함께 [NATS](http://nats.io/) 서비스에 대한 이야기를 나누었습니다. 좀더 자세한 정보는 [NATS 웹 사이트](http://nats.io/)에서 확인하실 수 있습니다.
 
@@ -18,11 +18,11 @@ AutoMapper 제작자인 Jimmy Bogard 는 AutoMapper 라이브러리를 객체 �
 
 * Source Code
 
-AutoMapper 를 이용해 코드에 사용된 공통 규칙을 인식할 수 있으며, 사용자 정의 데이터 변환기로도 사용할 수 있습니다.
+AutoMapper 를 이용해 코드에 사용된 공통 규칙을 확인할 수 있으며, 사용자 정의 데이터 변환기로도 사용할 수 있습니다.
 
 ### 금주의 툴 - Cake
 
-msbuild.exe 파일만 .NET 프로젝트를 빌드할 수 있는 것은 아닙니다. .NET 개발자들이 알아두면 좋은 자동화 빌드 시스템으로 Cake 도구가 있는데, 다중 플랫폼을 지원할 뿐만 아니라 빌드 스크립트 자체가 C# 으로 만들어졌다는 점에서 차별점을 가집니다. 
+msbuild.exe 파일만 .NET 프로젝트를 빌드할 수 있는 것은 아닙니다. .NET 개발자들이 알아두면 좋은 빌드 자동화 시스템으로 Cake 가 있는데, 다중 플랫폼을 지원할 뿐만 아니라 빌드 스크립트 자체가 C# 으로 만들어졌다는 점에서 차별점을 가집니다. 
 
 * [Cake](http://cakebuild.net/blog/2016/01/cake-v0-8-0-released)
 
@@ -35,7 +35,7 @@ msbuild.exe 파일만 .NET 프로젝트를 빌드할 수 있는 것은 아닙니
 * .[NET Framework 4.6.1 버전이 윈도우 업데이트를 통해 공식적으로 배포되기 시작했습니다.](http://blogs.msdn.com/b/dotnet/archive/2016/01/26/microsoft-net-framework-4-6-1-is-available-on-windows-update-and-wsus.aspx)
 * 닷넷 응용 프로그램에 대한 다중 플랫폼 이식성을 테스트할 수 있는 [.NET Portability Analyzer 도구를 설명하는 동영상](https://channel9.msdn.com/Blogs/Seth-Juarez/A-Brief-Look-at-the-NET-Portability-Analyzer)이 Channel 9 에 올라왔습니다.
 * [Interactive coding with C# and F# REPLs](http://www.hanselman.com/blog/InteractiveCodingWithCAndFREPLsScriptCSOrTheVisualStudioInteractiveWindow.aspx) : Scott Hanselman 이 C# 및 F# 의 REPL 환경을 설명합니다.
-* [How (and why) to lobby companies to support .NET OSS](http://seankilleen.com/2016/01/how-and-why-to-lobby-for-oss/) : Sean Killeen 이 여러분의 회사가 오픈 소스를 사용한다면 오픈 소스의 발전을 위해 기여해야 한다고 기고했습니다. 아울러 회사에서 기여할 수 있도록 분위기를 조성하는 방법에 대한 의견을 제시합니다.
+* [How (and why) to lobby companies to support .NET OSS](http://seankilleen.com/2016/01/how-and-why-to-lobby-for-oss/) : Sean Killeen 이 여러분의 회사가 오픈 소스를 사용한다면 오픈 소스의 발전을 위해 기여해야 한다고 기고했습니다. 아울러 회사에서 기여할 수 있도록 분위기를 조성하는 방법을 제시합니다.
 * [What I’ve learned about .NET Native](https://blog.rendle.io/what-ive-learned-about-dotnet-native/) : Mark Rendle 이 .NET Native 를 사용하며 알게 된 점을 공유했습니다.
 * [NBench Testing – Memory Allocations](http://www.dotnetalgorithms.com/2016/01/nbench-testing-memory-allocations/) : Andrea Angella 가 [NBench 프레임워크](https://github.com/petabridge/NBench)를 이용해 메모리 테스트를 하는 방법을 공유했습니다. 
 * [Porting Microbus to .NET Core](http://www.lavinski.me/porting-microbus-to-dotnetcore/) : Daniel Little 이 Microbus 오픈 소스 프로젝트를 .NET Core 에 포팅했던 경험담을 공유했습니다.
@@ -62,8 +62,9 @@ msbuild.exe 파일만 .NET 프로젝트를 빌드할 수 있는 것은 아닙니
 * Evelina Gabasova 의 [Star Wars social networks: The Force Awakens](http://evelinag.com/blog/2016/01-25-social-network-force-awakens/index.html)
 * Pierre-Luc Maheu 의 [Interview with Henrik Feldt on Suave 1.0](http://www.infoq.com/news/2016/01/suave-interview)
 * Yan Cui 의 [Building a random art bot in F#](http://theburningmonk.com/2016/01/building-a-random-arts-bot-in-fsharp/)
-* Roslyn 으로 Visual Studio의 F# 편집기를 개선하는 것에 대한 [논의](https://github.com/Microsoft/visualfsharp/issues/913)가 있었습니다.
+* [Roslyn 으로 Visual Studio의 F# 편집기를 개선하는 것에 대한 논의](https://github.com/Microsoft/visualfsharp/issues/913)가 있었습니다.
 * 최근에 개최된 F# 소프트웨어 재단의 [임원 회의에서 논의되었던 내용](http://foundation.fsharp.org/board_meeting_20151214)이 공개되었습니다.
+
 [F# Weekly](https://sergeytihon.wordpress.com/category/f-weekly/) 에서 더 많은 정보를 확인하실 수 있습니다. 
 
 ### .NET 게임 소식
@@ -72,6 +73,6 @@ msbuild.exe 파일만 .NET 프로젝트를 빌드할 수 있는 것은 아닙니
 
 ### Global Game Jam 2016 Submission
 
-"Oh God, it’s Monday" 라는 게임을 소개하고자 합니다. 게임의 시나리오는 주어진 업무 시간 내에 종업원들이 일을 완료할 수 있도록 최대한 효율적인 경로를 선택하는 것 입니다. 일과 시간 중에 다른 동료를 만나 하던 일을 멈추고 이야기를 나누면, 주어진 시간내에 일을 완료하지 못해 게임에서 지게 됩니다. 
+[Oh God, it’s Monday](http://globalgamejam.org/2016/games/oh-god-its-monday) 라는 게임을 소개하고자 합니다. 게임의 시나리오는 주어진 업무 시간 내에 종업원들이 일을 완료할 수 있도록 최대한 효율적인 경로를 선택하는 것 입니다. 일과 시간 중에 다른 동료를 만나 하던 일을 멈추고 이야기를 나누면, 주어진 시간내에 일을 완료하지 못해 게임에서 지게 됩니다. 
 
 [image](https://cloud.githubusercontent.com/assets/4108756/12756896/9cfa9178-c98a-11e5-99f7-b8bf0b885eb0.jpg)
