@@ -62,7 +62,7 @@ DotNetAPIs는 일종의 통합 API 문서 웹 사이트라고 생각하시면 �
 
 그 외에 원한다면 F# 커뮤니티 소식을 배포하는 F# Weekly를 통해 더 많은 정보를 얻을 수 있습니다.
 
-###.NET 게임 소식
+###.NET 게임 소식
 
 *Visual Studio Tools for Unity 2.2, : Jb Evain가 업데이트된 Visual Studio Tools for Unity 2.2 내용을 공유했습니다.
 *Valve Brings SteamVR to Unity, by JP Hawkins.
