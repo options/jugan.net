@@ -10,12 +10,14 @@
 ###금주의 패키지 – Polly
 분산 어플리케이션 프로젝트가 많이 활성화 되면서 이에 따른 예외 처리작업도 많아지고 또 복잡해 지고 있습니다. 예외 발생시 관련된 오류 자체를 처리하는 것이나 프로그램의 흐름을 제어하는 것은 때로는 생각보다 쉽지 않습니다. 예를 들면 클라이언트 프로그램이 원격 서비스와 통신을 하는경우를 생각해보죠.  개발자는 클라이언트 프로그램이 원격 서비스 접속에 실패할 경우를 대비해서 접속 실패시 일정시간이 지나면 다시 원격 서비스에 재 접속을 시도하는 로직을 구현하려 할 수 있습니다. Polly는 이와 같은 상황에 쉽게 적용할 수 있는 다양한 API들을 제공합니다
 
+<section>
 await Policy
 .Handle<TimeoutException>()
 .Or<HttpException>(ex => ex.WebEventCode == WebEventCodes.RuntimeErrorRequestAbort)
 .WaitAndRetryAsync(new[] {1.Seconds(), 5.Seconds()})
 .ExecuteAsync(() => DoSomethingAsync());
- 
+</section>
+
 ###금주의 툴 - DotNetAPIs
 
 DotNetAPIs는 일종의 통합 API 문서 웹 사이트라고 생각하시면 됩니다.  .NET의  수많은 확장API와 라이브러리를 모아놓은 사이트이며 이를 대상으로 검색 가능한 검색엔진이기도 합니다. 이 서비스의 기본 아이디어는 현존하는 모든 NuGet 패키지와 관련된 XML 문서를 하나도 빠짐없이 추출한 후 추출된 자료를 분석하고 이를 바탕으로 웹사이트의 서비스를 제공하는것입니다. 정말 참신하고 좋은 아이디어이며 모든 닷넷 개발자들이 유용하게 사용할 수 있는 툴입니다.
