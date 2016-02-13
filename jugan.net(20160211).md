@@ -30,7 +30,8 @@ DotNetAPIs는 일종의 통합 API 문서 웹 사이트라고 생각하시면 �
 
 * What I’ve learned about .NET Native : Mark Rendle은 .NET Native를 접하면서 알게 된 사항들을 공유했습니다
 
-* 아래는 Bertrand Le Roy가 이번 주 LADOTNET 커뮤니티에서 발표한 자료입니다.
+* 아래는 Bertrand Le Roy가 이번 주 LADOTNET 커뮤니티에서 발표한 자료입니다.   
+   
    .NET Core  
    C# Today and Tomorrow 
 
