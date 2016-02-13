@@ -24,51 +24,51 @@ DotNetAPIs는 일종의 통합 API 문서 웹 사이트라고 생각하시면 �
 
 ###.NET 소식
 
-*기존 .NET 코드를 .NET Core로 이식하는 내용을 Immo Landwerth이 Porting to .NET Core 에 공유했습니다
+* 기존 .NET 코드를 .NET Core로 이식하는 내용을 Immo Landwerth이 Porting to .NET Core 에 공유했습니다
 
-*Joe Duffy이 에러의 유형이라는 주제로 자신의 시리즈를 이어가고 있습니다. Joe Duffy의 글입니다.
+* Joe Duffy이 에러의 유형이라는 주제로 자신의 시리즈를 이어가고 있습니다. Joe Duffy의 글입니다.
 
-*What I’ve learned about .NET Native : Mark Rendle은 .NET Native를 접하면서 알게 된 사항들을 공유했습니다
+* What I’ve learned about .NET Native : Mark Rendle은 .NET Native를 접하면서 알게 된 사항들을 공유했습니다
 
-*아래는 Bertrand Le Roy가 이번 주 LADOTNET 커뮤니티에서 발표한 자료입니다.
+* 아래는 Bertrand Le Roy가 이번 주 LADOTNET 커뮤니티에서 발표한 자료입니다.
 - .NET Core  
 - C# Today and Tomorrow 
 
-*Learn how to use the Windows Event Log via C# : Anton Angelov가  C#을 이용해서 윈도우 이벤트 로그를 활용할 수 있는 방법을 공유했습니다
+* Learn how to use the Windows Event Log via C# : Anton Angelov가  C#을 이용해서 윈도우 이벤트 로그를 활용할 수 있는 방법을 공유했습니다
 
-*Project.json all the things! Oren Novotny이 VisualStudio 2015에서 Project.json을 사용하는 방법과 관련 정보를 공유했습니다. 
+* Project.json all the things! Oren Novotny이 VisualStudio 2015에서 Project.json을 사용하는 방법과 관련 정보를 공유했습니다. 
 
-*FormatFilter and MediaTypeMappings in ASP.NET Core 1.0 MVC : Filip W.가 ASP.NET Core 1.0 MVC에서 FormatFilter와 MediaTypeMappings를 사용하는 방법을 소개했습니다
+* FormatFilter and MediaTypeMappings in ASP.NET Core 1.0 MVC : Filip W.가 ASP.NET Core 1.0 MVC에서 FormatFilter와 MediaTypeMappings를 사용하는 방법을 소개했습니다
 
 
 ###ASP.NET 소식
-*The Ultimate Guide To Unit Testing in ASP.NET MVC : Jonathan Danylko가 ASP.NET MVC에서 단위 테스트 구현 및 활용 가이드를 소개했습니다.
+* The Ultimate Guide To Unit Testing in ASP.NET MVC : Jonathan Danylko가 ASP.NET MVC에서 단위 테스트 구현 및 활용 가이드를 소개했습니다.
 
-*A run around the new ASP.NET Data Protection & Authorization Stacks (video) : Barry Dorrans이 NDC 컨퍼런스에서 ASP.NET 보안관련 세션을 진행했습니다.
+* A run around the new ASP.NET Data Protection & Authorization Stacks (video) : Barry Dorrans이 NDC 컨퍼런스에서 ASP.NET 보안관련 세션을 진행했습니다.
 
-*Configuring Redis as the ASP.NET Core session store : Hossam Barakat 이 ASP.NET 에서 사용할 수 있는 in-memory 데이터 엔진인 Redis을 활용 및 설정하는 내용을 공유 했습니다 
+* Configuring Redis as the ASP.NET Core session store : Hossam Barakat 이 ASP.NET 에서 사용할 수 있는 in-memory 데이터 엔진인 Redis을 활용 및 설정하는 내용을 공유 했습니다 
 
-*Release management using VSTS  :  Alton CrossleyASP.NET 이 VSTS를 이용한 배포관리 활용법을 공유했습니다.
+* Release management using VSTS  :  Alton CrossleyASP.NET 이 VSTS를 이용한 배포관리 활용법을 공유했습니다.
 
-*A simple authentication library for .NET Core, because sometimes less is more : Joe Audette이 ASP.NET Core에서 데이터베이스 없이도 간단하게 권한 관리를 할 수 있는 라이브러리를 공개했습니다.
+* A simple authentication library for .NET Core, because sometimes less is more : Joe Audette이 ASP.NET Core에서 데이터베이스 없이도 간단하게 권한 관리를 할 수 있는 라이브러리를 공개했습니다.
 
-*Preventing sensitive data exposure in ASP.NET Part 1, part 2 : Max R McCarty이 ASP.NET 어플리케이션에서 외부에 노출되면 곤란한 민감한 사용자 데이터를 쉽게 관리하고 보호하는 방법을 공유했습니다.
+* Preventing sensitive data exposure in ASP.NET Part 1, part 2 : Max R McCarty이 ASP.NET 어플리케이션에서 외부에 노출되면 곤란한 민감한 사용자 데이터를 쉽게 관리하고 보호하는 방법을 공유했습니다.
 
-*Great series on multi-tenancy with ASP.NET MVC  : Ben Foster가 ASP.NET에서 Multi-tenancy 웹사이트를 만드는 시리즈를 진행하고 있습니다.
+* Great series on multi-tenancy with ASP.NET MVC  : Ben Foster가 ASP.NET에서 Multi-tenancy 웹사이트를 만드는 시리즈를 진행하고 있습니다.
 
 ###F# 소식
 
-*The Jet Engine We Built in 2015 :Louie Bacaj가 F# 기반 전자상거래 사이트 jet.com의 개발사례를  공유했습니다.
+* The Jet Engine We Built in 2015 :Louie Bacaj가 F# 기반 전자상거래 사이트 jet.com의 개발사례를  공유했습니다.
 
-*Ten Tips for Productive F# Scripting : Mathias Brandewinder가 F# 스크립트에 도움이 되는 10가지 팁을 공유했습니다
+* Ten Tips for Productive F# Scripting : Mathias Brandewinder가 F# 스크립트에 도움이 되는 10가지 팁을 공유했습니다
 
-*A Cheatsheet for F#’s DSL-friendly Features : Anh-Dung Phan가 F#의 DSL(Domain Specific Languages)관련 기능을 정리해서 공유했습니다.
+* A Cheatsheet for F#’s DSL-friendly Features : Anh-Dung Phan가 F#의 DSL(Domain Specific Languages)관련 기능을 정리해서 공유했습니다.
 
-*Building a Poker Bot: Card Recognition : Mikhail Shilkov가 F#을 이용한 Poker Bot을 만드는 시리즈를 시작했습니다.
+* Building a Poker Bot: Card Recognition : Mikhail Shilkov가 F#을 이용한 Poker Bot을 만드는 시리즈를 시작했습니다.
 
-*How to Keep the Domain Pure When Logic Depends on the Current Date, : Lauri Taimila가 최대한 현재 날짜에 의존적이지 않은 함수형 프로그램(functional programming) 개발 방법에 대해서 소개했습니다
+* How to Keep the Domain Pure When Logic Depends on the Current Date, : Lauri Taimila가 최대한 현재 날짜에 의존적이지 않은 함수형 프로그램(functional programming) 개발 방법에 대해서 소개했습니다
 
-*F# for Beginners, : Sascha Barbs가 초보자를 위한 F# 정보를 공유했습니다
+* F# for Beginners, : Sascha Barbs가 초보자를 위한 F# 정보를 공유했습니다
 
 그 외에 원한다면 F# 커뮤니티 소식을 배포하는 F# Weekly를 통해 더 많은 정보를 얻을 수 있습니다.
 
