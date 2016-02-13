@@ -2,16 +2,13 @@
 
 ###저번주 주간닷넷을 확인 하시려면 이쪽으로 이동하세요(링크)
 
-
 ###On.NET
 지난주  On.NET 동영상은 .NET 프로그램 메니지먼트 새 이사인 Scott Hunter 와 함께했습니다. 저의 직속 상관이기도 하죠.
 
 그리고 이번 주는 평소 목요일에 하던 것과는 다르게 금요일 오전 10시에 라이브 방송이 있을 예정입니다. 이번 주는 Aaron Stannard를 모시고 Actor 모델을 바탕으로 한 .NET용 Framework인 Akka.NET 과 Aaron이 진행하는NBench와 DotNetty라는 프로젝트에 대해서 얘기를 나누어 볼까 합니다.
 
-
 ###금주의 패키지 – Polly
 분산 어플리케이션 프로젝트가 많이 활성화 되면서 이에 따른 예외 처리작업도 많아지고 또 복잡해 지고 있습니다. 예외 발생시 관련된 오류 자체를 처리하는 것이나 프로그램의 흐름을 제어하는 것은 때로는 생각보다 쉽지 않습니다. 예를 들면 클라이언트 프로그램이 원격 서비스와 통신을 하는경우를 생각해보죠.  개발자는 클라이언트 프로그램이 원격 서비스 접속에 실패할 경우를 대비해서 접속 실패시 일정시간이 지나면 다시 원격 서비스에 재 접속을 시도하는 로직을 구현하려 할 수 있습니다. Polly는 이와 같은 상황에 쉽게 적용할 수 있는 다양한 API들을 제공합니다
-
 
 await Policy
 .Handle<TimeoutException>()
@@ -19,12 +16,8 @@ await Policy
 .WaitAndRetryAsync(new[] {1.Seconds(), 5.Seconds()})
 .ExecuteAsync(() => DoSomethingAsync());
  
-
 ###금주의 툴 - DotNetAPIs
 DotNetAPIs는 일종의 통합 API 문서 웹 사이트라고 생각하시면 됩니다.  .NET의  수많은 확장API와 라이브러리를 모아놓은 사이트이며 이를 대상으로 검색 가능한 검색엔진이기도 합니다. 이 서비스의 기본 아이디어는 현존하는 모든 NuGet 패키지와 관련된 XML 문서를 하나도 빠짐없이 추출한 후 추출된 자료를 분석하고 이를 바탕으로 웹사이트의 서비스를 제공하는것입니다. 정말 참신하고 좋은 아이디어이며 모든 닷넷 개발자들이 유용하게 사용할 수 있는 툴입니다.
-
-
-###금주의 커뮤니티 소식
 
 ###.NET 소식
 *기존 .NET 코드를 .NET Core로 이식하는 내용을 Immo Landwerth이 Porting to .NET Core 에 공유했습니다
@@ -34,8 +27,8 @@ DotNetAPIs는 일종의 통합 API 문서 웹 사이트라고 생각하시면 �
 *What I’ve learned about .NET Native : Mark Rendle은 .NET Native를 접하면서 알게 된 사항들을 공유했습니다
 
 *아래는 Bertrand Le Roy가 이번 주 LADOTNET 커뮤니티에서 발표한 자료입니다.
-.NET Core  
-C# Today and Tomorrow 
+- .NET Core  
+- C# Today and Tomorrow 
 
 *Learn how to use the Windows Event Log via C# : Anton Angelov가  C#을 이용해서 윈도우 이벤트 로그를 활용할 수 있는 방법을 공유했습니다
 
