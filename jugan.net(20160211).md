@@ -17,9 +17,11 @@ await Policy
 .ExecuteAsync(() => DoSomethingAsync());
  
 ###금주의 툴 - DotNetAPIs
+
 DotNetAPIs는 일종의 통합 API 문서 웹 사이트라고 생각하시면 됩니다.  .NET의  수많은 확장API와 라이브러리를 모아놓은 사이트이며 이를 대상으로 검색 가능한 검색엔진이기도 합니다. 이 서비스의 기본 아이디어는 현존하는 모든 NuGet 패키지와 관련된 XML 문서를 하나도 빠짐없이 추출한 후 추출된 자료를 분석하고 이를 바탕으로 웹사이트의 서비스를 제공하는것입니다. 정말 참신하고 좋은 아이디어이며 모든 닷넷 개발자들이 유용하게 사용할 수 있는 툴입니다.
 
 ###.NET 소식
+
 *기존 .NET 코드를 .NET Core로 이식하는 내용을 Immo Landwerth이 Porting to .NET Core 에 공유했습니다
 
 *Joe Duffy이 에러의 유형이라는 주제로 자신의 시리즈를 이어가고 있습니다. Joe Duffy의 글입니다.
@@ -53,11 +55,17 @@ DotNetAPIs는 일종의 통합 API 문서 웹 사이트라고 생각하시면 �
 *Great series on multi-tenancy with ASP.NET MVC  : Ben Foster가 ASP.NET에서 Multi-tenancy 웹사이트를 만드는 시리즈를 진행하고 있습니다.
 
 ###F# 소식
+
 *The Jet Engine We Built in 2015 :Louie Bacaj가 F# 기반 전자상거래 사이트 jet.com의 개발사례를  공유했습니다.
+
 *Ten Tips for Productive F# Scripting : Mathias Brandewinder가 F# 스크립트에 도움이 되는 10가지 팁을 공유했습니다
+
 *A Cheatsheet for F#’s DSL-friendly Features : Anh-Dung Phan가 F#의 DSL(Domain Specific Languages)관련 기능을 정리해서 공유했습니다.
+
 *Building a Poker Bot: Card Recognition : Mikhail Shilkov가 F#을 이용한 Poker Bot을 만드는 시리즈를 시작했습니다.
+
 *How to Keep the Domain Pure When Logic Depends on the Current Date, : Lauri Taimila가 최대한 현재 날짜에 의존적이지 않은 함수형 프로그램(functional programming) 개발 방법에 대해서 소개했습니다
+
 *F# for Beginners, : Sascha Barbs가 초보자를 위한 F# 정보를 공유했습니다
 
 그 외에 원한다면 F# 커뮤니티 소식을 배포하는 F# Weekly를 통해 더 많은 정보를 얻을 수 있습니다.
@@ -65,7 +73,9 @@ DotNetAPIs는 일종의 통합 API 문서 웹 사이트라고 생각하시면 �
 ###.NET 게임 소식
 
 *Visual Studio Tools for Unity 2.2, : Jb Evain가 업데이트된 Visual Studio Tools for Unity 2.2 내용을 공유했습니다.
+
 *Valve Brings SteamVR to Unity, by JP Hawkins.
+
 *Keynote from the Vision Summit 2016. Vision Summit 2016의 키노트를 보실수 있습니다
 
 ###Global Game Jam 2016 Submission
