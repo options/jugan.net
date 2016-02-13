@@ -64,12 +64,9 @@ DotNetAPIs는 일종의 통합 API 문서 웹 사이트라고 생각하시면 �
 
 ###.NET 게임 소식
 
-*Visual Studio Tools for Unity 2.2, : Jb Evain가 업데이트된 Visual Studio Tools for Unity 2.2 내용을 공유했습니다
-
+*Visual Studio Tools for Unity 2.2, : Jb Evain가 업데이트된 Visual Studio Tools for Unity 2.2 내용을 공유했습니다.
 *Valve Brings SteamVR to Unity, by JP Hawkins.
-
 *Keynote from the Vision Summit 2016. Vision Summit 2016의 키노트를 보실수 있습니다
-
 
 ###Global Game Jam 2016 Submission
 
