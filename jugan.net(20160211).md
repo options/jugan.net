@@ -4,11 +4,11 @@
 
 [지난번 On.NET 동영상 인터뷰](https://www.youtube.com/watch?v=g2a4W6Q7aRw)는 ASP.NET 팀의 수석 프로그램 매니저인 Scott Hunter 를 모시고 .NET, ASP.NET 및 .NET Core 릴리즈 관련 이야기를 나누었습니다. 
 
-[이번 On.NET 유튜브 동영상 인터뷰](https://www.youtube.com/watch?v=BEvn9aI6rd0)는 Aaron Stannard 를 모시고 Actor 모델 기반의 .NET 용 프레임워크인 Akka.NET 과 NBench 및 DotNetty 프로젝트 관련 이야기를 나누었습니다.
+[이번 On.NET 유튜브 동영상 인터뷰](https://www.youtube.com/watch?v=BEvn9aI6rd0)는 Aaron Stannard 를 모시고 .NET용 액터 모델 기반의 프레임워크인 Akka.NET 과 NBench 및 DotNetty 프로젝트에 대해 이야기를 나누었습니다.
 
 ### 금주의 패키지 – Polly
 
-분산 애플리케이션 프로젝트가 활성화되면서 예외 처리로 일시적인 에러나 흐름을 제어하는 것이 항상 효과적인 방법은 아닙니다. 클라이언트 프로그램이 원격 서비스와 통신을 하는 경우를 예를 들어 보겠습니다. 원격 서비스 접속에 실패할 경우 일정 시간이 지난 후  재접속을 시도하는 로직을 구현하려 할 수 있습니다. Polly 는 이러한 상황에 적용할 수 있는 다양한 API 를 제공합니다
+최근 대중화된 분산 애플리케이션에서 Transition Error나 예외 발생시의 수행 흐름을 다루는 등의 예외 처리 과정은 쉬운 일이 아닙니다. 클라이언트 프로그램이 원격 서비스와 통신을 하는 경우를 예를 들어 보겠습니다. 원격 서비스 접속에 실패할 경우 일정 시간이 지난 후 재접속을 시도하는 로직을 구현하려 할 수 있습니다. Polly 는 이러한 상황에 적용할 수 있는 다양한 API 를 제공합니다
 
 <section>
 {{pollyasyncsample.cs}}<script src="https://gist.github.com/bleroy/33881883f87a763f5ceb.js"></script>
@@ -23,17 +23,17 @@ DotNetAPIs 는 통합 API 문서 웹 사이트이며 동시에 수많은 .NET AP
 
 ###.NET 소식
 
-* Immo Landwerth 가 [기존 .NET 코드를 .NET Core 로 이식하는 방법](https://blogs.msdn.microsoft.com/dotnet/2016/02/10/porting-to-net-core/)을 Porting to .NET Core 에 공유했습니다.
+* Immo Landwerth 가 [기존 .NET 코드를 .NET Core 로 이식하는 방법](https://blogs.msdn.microsoft.com/dotnet/2016/02/10/porting-to-net-core/)을 공유했습니다.
 
 * Joe Duffy 가 [미도리(Midori) 라는 마이크로소프트가 개발 중인 차세대 운영 체제에 대한 글을 에러 패턴에 대한 내용과 함께 연재](http://joeduffyblog.com/2016/02/07/the-error-model/)하고 있습니다. 
 
-* [What I’ve learned about .NET Native](https://blog.rendle.io/what-ive-learned-about-dotnet-native/) : Mark Rendle 이 .NET Native 를 접하면서 알게 된 사항들을 공유했습니다.
+* [What I’ve learned about .NET Native](https://blog.rendle.io/what-ive-learned-about-dotnet-native/) : Mark Rendle 이 .NET Native 를 접하면서 알게 된 여러 사항들을 공유했습니다.
 
 * Bertrand Le Roy 가 LADOTNET 커뮤니티에서 [.NET Core](http://www.slideshare.net/BertrandLeRoy/net-core) 및 [C# Today and Tomorrow](http://www.slideshare.net/BertrandLeRoy/c-today-and-tomorrow) 라는 주제로 발표했습니다.  
 
 * [Learn how to use the Windows Event Log via C#](http://automatetheplanet.com/windows-event-log-tips/) : Anton Angelov 가 C# 의 윈도우 이벤트 로그를 활용하는 방법을 공유했습니다.
 
-* [Project.json all the things](https://oren.codes/2016/02/08/project-json-all-the-things/) : Oren Novotny 이 VisualStudio 2015 에서 Project.json 을 사용하는 방법을 공유했습니다. 
+* [Project.json all the things](https://oren.codes/2016/02/08/project-json-all-the-things/) : Oren Novotny 이 Visual Studio 2015 에서 Project.json 을 사용하는 방법을 공유했습니다. 
 
 * [FormatFilter and MediaTypeMappings in ASP.NET Core 1.0 MVC](http://www.strathweb.com/2016/02/formatfilter-and-mediatypemappings-in-asp-net-core-1-0-mvc/) : Filip W. 가 ASP.NET Core 1.0 MVC 에서 FormatFilter 와 MediaTypeMappings 을 사용하는 방법을 소개했습니다.
 
@@ -44,13 +44,13 @@ DotNetAPIs 는 통합 API 문서 웹 사이트이며 동시에 수많은 .NET AP
 
 * [A run around the new ASP.NET Data Protection & Authorization Stacks (video)](https://vimeo.com/153102690) : Barry Dorrans 이 NDC 컨퍼런스에서 ASP.NET 의 보안과 관련된 세션을 진행했습니다.
 
-* [Configuring Redis as the ASP.NET Core session store](http://www.hossambarakat.net/2016/02/03/configuring-redis-as-asp-net-core-1-0-session-store/) : Hossam Barakat 이 ASP.NET 에서 사용할 수 있는 인 메모리 데이터 엔진인 Redis 를 설정하고 활용하는 방법을 공유했습니다.
+* [Configuring Redis as the ASP.NET Core session store](http://www.hossambarakat.net/2016/02/03/configuring-redis-as-asp-net-core-1-0-session-store/) : Hossam Barakat 이 ASP.NET 에서 사용할 수 있는 인 메모리 데이터 엔진인 Redis 를 구성하고 활용하는 방법을 공유했습니다.
 
 * [Release management using VSTS](https://codesnob.wordpress.com/2016/02/04/release-management-using-vsts/) : Alton Crossley 가 VSTS 를 이용해 배포를 관리하는 법을 공유했습니다.
 
 * [A simple authentication library for .NET Core, because sometimes less is more](https://github.com/joeaudette/cloudscribe.Web.SimpleAuth) : Joe Audette 가 ASP.NET Core 에서 데이터베이스 없이 간단하게 권한을 관리 할 수 있는 라이브러리를 공개했습니다.
 
-* [Preventing sensitive data exposure in ASP.NET Part 1, Part 2](http://lockmedown.com/preventing-sensitive-data-exposure-aspnet-part1/) : Max R McCarty 이 ASP.NET 애플리케이션에서 외부에 노출되면 곤란한 민감한 사용자 데이터를 쉽게 관리하고 보호하는 방법을 [Part 1](http://lockmedown.com/preventing-sensitive-data-exposure-aspnet-part1/) 과 [Part 2](http://lockmedown.com/preventing-sensitive-data-exposure-aspnet-part2/) 에 걸쳐서 공유했습니다.
+* [Preventing sensitive data exposure in ASP.NET Part 1, Part 2](http://lockmedown.com/preventing-sensitive-data-exposure-aspnet-part1/) : Max R McCarty 이 ASP.NET 애플리케이션에서 외부에 노출되면 안되는 민감한 사용자 데이터를 쉽게 관리하고 보호하는 방법을 [Part 1](http://lockmedown.com/preventing-sensitive-data-exposure-aspnet-part1/) 과 [Part 2](http://lockmedown.com/preventing-sensitive-data-exposure-aspnet-part2/) 에 걸쳐서 공유했습니다.
 
 * [Great series on multi-tenancy with ASP.NET MVC](http://benfoster.io/blog/tagged/multi-tenancy) : Ben Foster 가 ASP.NET Core 기반의 Multi-tenancy 웹 사이트를 만드는 방법을 연재하고 있습니다.
 
