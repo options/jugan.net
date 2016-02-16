@@ -1,4 +1,4 @@
- 이번 주 소식에는 LADOTNET 커뮤니티 분들과 함께 .NET Core, C# 6, 그리고 향후 C#의 방향에 대해 이야기를 나눈 내용이 포함되어 있습니다. 관련된 자료는 아래의 .NET 소식에서 확인하실 수 있습니다. 지난 호를 살펴보시려면 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 방문해 보시기 바랍니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)나 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
+ 이번 주 소식에는 LADOTNET 커뮤니티 분들과 함께 .NET Core, C# 6, 그리고 향후 C# 의 방향에 대해 이야기를 나눈 내용이 포함되어 있습니다. 관련된 자료는 아래의 .NET 소식에서 확인하실 수 있습니다. 지난 호를 살펴보시려면 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 방문해 보시기 바랍니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)나 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
 
 ### On.NET 소식
 
@@ -8,7 +8,7 @@
 
 ### 금주의 패키지 – Polly
 
-분산 어플리케이션 프로젝트가 활성화 되면서 예외 처리로 일시적인 에러나 흐름을 제어하는 것이 항상 효과적인 방법은 아닙니다. 클라이언트 프로그램이 원격 서비스와 통신을 하는 경우를 예를 들어 보겠습니다. 원격 서비스 접속에 실패할 경우 일정시간이 지난 후  재접속을 시도하는 로직을 구현하려 할 수 있습니다. Polly 는 이러한 상황에 적용할 수 있는 다양한 API 를 제공합니다
+분산 애플리케이션 프로젝트가 활성화되면서 예외 처리로 일시적인 에러나 흐름을 제어하는 것이 항상 효과적인 방법은 아닙니다. 클라이언트 프로그램이 원격 서비스와 통신을 하는 경우를 예를 들어 보겠습니다. 원격 서비스 접속에 실패할 경우 일정 시간이 지난 후  재접속을 시도하는 로직을 구현하려 할 수 있습니다. Polly 는 이러한 상황에 적용할 수 있는 다양한 API 를 제공합니다
 
 <section>
 {{pollyasyncsample.cs}}<script src="https://gist.github.com/bleroy/33881883f87a763f5ceb.js"></script>
@@ -17,7 +17,7 @@
 
 ### 금주의 툴 - DotNetAPIs
 
-DotNetAPIs 는 통합 API 문서 웹 사이트이며 동시에 수 많은 .NET API 와 라이브러리를 검색 할 수 있는 훌륭한 페이지 입니다. 이 서비스는 모든 NuGet 패키지를 분석하여 관련된 XML 문서를 하나도 빠짐없이 추출하는 방식으로 서비스를 제공합니다. 닷넷 개발자들에게 아주 유용한 새로운 툴 입니다.
+DotNetAPIs 는 통합 API 문서 웹 사이트이며 동시에 수많은 .NET API 와 라이브러리를 검색할 수 있는 훌륭한 페이지입니다. 이 서비스는 모든 NuGet 패키지를 분석하여 관련된 XML 문서를 하나도 빠짐없이 추출하는 방식으로 서비스를 제공합니다. 닷넷 개발자들에게 아주 유용한 새로운 툴 입니다.
 
 * [DotNetAPIs](http://dotnetapis.com/)
 
@@ -50,7 +50,7 @@ DotNetAPIs 는 통합 API 문서 웹 사이트이며 동시에 수 많은 .NET A
 
 * [A simple authentication library for .NET Core, because sometimes less is more](https://github.com/joeaudette/cloudscribe.Web.SimpleAuth) : Joe Audette 가 ASP.NET Core 에서 데이터베이스 없이 간단하게 권한을 관리 할 수 있는 라이브러리를 공개했습니다.
 
-* [Preventing sensitive data exposure in ASP.NET Part 1, part 2](http://lockmedown.com/preventing-sensitive-data-exposure-aspnet-part1/) : Max R McCarty 이 ASP.NET 어플리케이션에서 외부에 노출되면 곤란한 민감한 사용자 데이터를 쉽게 관리하고 보호하는 방법을 [Part1](http://lockmedown.com/preventing-sensitive-data-exposure-aspnet-part1/) 과 [Part 2](http://lockmedown.com/preventing-sensitive-data-exposure-aspnet-part2/) 에 걸쳐서 공유했습니다.
+* [Preventing sensitive data exposure in ASP.NET Part 1, Part 2](http://lockmedown.com/preventing-sensitive-data-exposure-aspnet-part1/) : Max R McCarty 이 ASP.NET 애플리케이션에서 외부에 노출되면 곤란한 민감한 사용자 데이터를 쉽게 관리하고 보호하는 방법을 [Part 1](http://lockmedown.com/preventing-sensitive-data-exposure-aspnet-part1/) 과 [Part 2](http://lockmedown.com/preventing-sensitive-data-exposure-aspnet-part2/) 에 걸쳐서 공유했습니다.
 
 * [Great series on multi-tenancy with ASP.NET MVC](http://benfoster.io/blog/tagged/multi-tenancy) : Ben Foster 가 ASP.NET Core 기반의 Multi-tenancy 웹 사이트를 만드는 방법을 연재하고 있습니다.
 
@@ -60,13 +60,13 @@ DotNetAPIs 는 통합 API 문서 웹 사이트이며 동시에 수 많은 .NET A
 
 * [The Jet Engine We Built in 2015](http://techgroup.jet.com/blog/2016/02-05-the-jet-engine-we-built-in-2015/index.html) : Louie Bacaj 이 F# 으로 개발된 전자상거래 사이트인 jet.com 를 소개했습니다.
 
-* [Ten Tips for Productive F# Scripting](http://brandewinder.com/2016/02/06/10-fsharp-scripting-tips/) : Mathias Brandewinder 가 F# 스크립트에 도움이 되는 10 가지 팁을 공유했습니다.
+* [Ten Tips for Productive F# Scripting](http://brandewinder.com/2016/02/06/10-fsharp-scripting-tips/) : Mathias Brandewinder 가 F# 스크립트에 도움이 되는 10가지 팁을 공유했습니다.
 
 * [A Cheatsheet for F#’s DSL-friendly Features](https://github.com/dungpa/dsls-in-action-fsharp/blob/master/DSLCheatsheet.md) : Anh-Dung Phan 가 F# 의 DSL(Domain Specific Languages) 기능을 정리해서 공유했습니다.
 
 * [Building a Poker Bot: Card Recognition](http://mikhail.io/2016/02/building-a-poker-bot-card-recognition/) : Mikhail Shilkov 가 닷넷 프레임워크와 F# 이용해 Poker Bot 게임 만드는 방법을 소개하는 글을 연재하기 시작했습니다.
 
-* [How to Keep the Domain Pure When Logic Depends on the Current Date](http://www.taimila.com/blog/fsharp-pure-time-dependent-domain/) : Lauri Taimila 가 날짜에 의존적이지 않은 함수형 프로그램 개발 방법에 대해 소개했습니다.
+* [How to Keep the Domain Pure When Logic Depends on the Current Date](http://www.taimila.com/blog/fsharp-pure-time-dependent-domain/) : Lauri Taimila 가 날짜에 의존적이지 않은 함수형 프로그램 개발 방법을 소개했습니다.
 
 * [F# for Beginners](https://sachabarbs.wordpress.com/1406-2/) : Sascha Barbs 가 초보자를 위한 F# 정보를 공유했습니다.
 
@@ -81,6 +81,6 @@ DotNetAPIs 는 통합 API 문서 웹 사이트이며 동시에 수 많은 .NET A
 
 ### Global Game Jam 2016 Submission
 
- [Cannibroth](http://globalgamejam.org/2016/games/cannibroth) 라는 게임을 소개하고자 합니다. 이 게임은 작은 부족을 방문한 탐험가가 되어보는 게임입니다. 춤으로 소통하는 부족과 대화하기 위해 게이머도 상황에 맞게 적절하게 춤을 추어야 합니다. 그렇지 못하면 뜨거운 단지에 담긴 당근 요리 신세가 되고 말것 입니다.
+ [Cannibroth](http://globalgamejam.org/2016/games/cannibroth) 라는 게임을 소개하고자 합니다. 이 게임은 작은 부족을 방문한 탐험가가 되어보는 게임입니다. 춤으로 소통하는 부족과 대화하기 위해 게이머도 상황에 맞게 적절하게 춤을 추어야 합니다. 그렇지 못하면 뜨거운 단지에 담긴 당근 요리 신세가 되고 말 것 입니다.
 
 [image](https://camo.githubusercontent.com/72ad3c8fd24c3634eb665eb5c62dee80c3d12d69/687474703a2f2f62726574687564736f6e2e636f6d2f67616d6573662f696d616765732f63616e6e6962726f74682e706e67)
