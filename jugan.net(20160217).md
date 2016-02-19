@@ -28,10 +28,10 @@ Scientist.NET 프로젝트이며 다른 하나는 좀더 완성도가 높은 Dav
 </section>
 
 ###.NET 소식
-*A (Hitchhiker's) Guide To The .NET Core Projects on GitHub : Mark Rendle가 GitHub 환경에서 .NET Core 프로젝트를 사용하는 가이드를 소개
+* A (Hitchhiker's) Guide To The .NET Core Projects on GitHub : Mark Rendle가 GitHub 환경에서 .NET Core 프로젝트를 사용하는 가이드를 소개
 했습니다
-*Run dotnet CLI on unsupported Linux distros with docknet by Mark Rendle.
-*.NET Core: Introduction To Microsoft.Data.Sqlite : Ranjan Dailata가 .NET Core기반에서 사용할수있는 오픈소스 NuGet 패키지인 "Microsoft.Data.Sqlite"를 소개했습니다. 
+* Run dotnet CLI on unsupported Linux distros with docknet by Mark Rendle.
+* .NET Core: Introduction To Microsoft.Data.Sqlite : Ranjan Dailata가 .NET Core기반에서 사용할수있는 오픈소스 NuGet 패키지인 "Microsoft.Data.Sqlite"를 소개했습니다. 
 * Weak events in .NET using Reactive Extensions : Kenneth Haugland가 Reactive Extensions을 이용한 Weak events의 구현과 활용에 대해서 공유했습니다.
 
 ### ASP.NET 소식
