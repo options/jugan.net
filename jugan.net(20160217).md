@@ -32,15 +32,15 @@ Scientist.NET 프로젝트이며 다른 하나는 좀더 완성도가 높은 Dav
 했습니다
 *Run dotnet CLI on unsupported Linux distros with docknet by Mark Rendle.
 *.NET Core: Introduction To Microsoft.Data.Sqlite : Ranjan Dailata가 .NET Core기반에서 사용할수있는 오픈소스 NuGet 패키지인 "Microsoft.Data.Sqlite"를 소개했습니다. 
-*Weak events in .NET using Reactive Extensions : Kenneth Haugland가 Reactive Extensions을 이용한 Weak events의 구현과 활용에 대해서 공유했습니다.
+* Weak events in .NET using Reactive Extensions : Kenneth Haugland가 Reactive Extensions을 이용한 Weak events의 구현과 활용에 대해서 공유했습니다.
 
 ### ASP.NET 소식
-•Our Major Minor – introducing Umbraco 7.4 : Niels Hartvig가 오픈소스기반 CMS(컨텐트 관리 시스템)인 Umbraco의 7.4 버전의 새로운 기능에 대해서 소개했습니다
-•RESTful Web API Help Documentation using Swagger UI and Swashbuckle by Sreekanth Mothukuru.
-•ASP.NET WebHooks and Slack Slash Commands by Henrik F Nielsen.
-•Authoring ASP.NET Core MVC Tag Helper by Hossam Barakat.
-•Authorization policies and data protection with Identity Server 4 in ASP.NET Core by Damien Bod.
-•ServiceStack and Razor Forms by Patrick Steele.
-•ASP.NET Core Identity Token Providers – Under the Hood by Steve Gordon.
-•AppVeyor and ASP.NET Core by Shazwazza.
+* Our Major Minor – introducing Umbraco 7.4 : Niels Hartvig가 오픈소스기반 CMS(컨텐트 관리 시스템)인 Umbraco의 7.4 버전의 새로운 기능에 대해서 소개했습니다
+* RESTful Web API Help Documentation using Swagger UI and Swashbuckle : Sreekanth Mothukuru가 Swagger UI와 Swashbuckle를 이용해서 서버에 서비스되는 RESTful Web API의 도움말 문서를 만드는 방법을 공유했습니다.
+* ASP.NET WebHooks and Slack Slash Commands by Henrik F Nielsen.
+* Authoring ASP.NET Core MVC Tag Helper by Hossam Barakat.
+* Authorization policies and data protection with Identity Server 4 in ASP.NET Core by Damien Bod.
+* ServiceStack and Razor Forms by Patrick Steele.
+* ASP.NET Core Identity Token Providers – Under the Hood by Steve Gordon.
+* AppVeyor and ASP.NET Core by Shazwazza.
 
