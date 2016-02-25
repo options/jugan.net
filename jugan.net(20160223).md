@@ -26,22 +26,21 @@ Console.WriteLine($"{alias} stands for {person.FirstName} {person.LastName}.");
 * Async-Friendly Stack Trace (GitHub) : Eli Arbel이 예외처리 시 발생하는 호출스택 정보(Stack Trace)를 비동기 작업에서도 좀더 효과적으로 보일 수 있도록 도와주는 확장클래스를 공유했습니다.
 * Moq on .NET Core : Armen Shimoon이 닷넷용 모킹 프레임워크로 잘 알려진 Moq를 .NET Core에서 사용할 수 있는 방법을 공유했습니다 .
 
-
 ### ASP.NET 소식
-•ASP.NET Core – 2300% More Requests Served Per Second by Ben Adams.
-•Getting ASP.NET Core running on Ubuntu by Michael Crook.
-•ASP.NET Core 1.0 – Create web application using Yeoman and Visual Studio Code by Mithun Pattankar.
-•How to send email from ASP.NET Core with MailKit
- by Steve Gordon.
-•Writing custom middleware in ASP.NET Core by Matthew P Jones.
-•View Components in ASP.NET Core by Mike Brind.
-•Developing ASP.NET apps in Docker containers by Steve Lasker.
-•The cost of routing by Ayende Rahien.
-•Two Razor view errors you might be doing too by Simone Chiaretta.
+• ASP.NET Core – 2300% More Requests Served Per Second : Ben Adams가 기존 ASP.NET 보다 성능이 향상된   ASP.NET Core의 성능 측정치와 과정을 공유했습니다.
+
+•Getting ASP.NET Core running on Ubuntu : 우분투 운영체제에서 ASP.NET Core를 동작시키기 위해서 설치및 설정하는 과정을 공유했습니다 .
+•ASP.NET Core 1.0 – Create web application using Yeoman and Visual Studio Code : Mithun Pattankar가 Visual Studio Code와 Yeoman 라이브러리를 이용해서 손쉽게  ASP.NET Core 웹 어플리케이션을 만드는 방법을 소개했습니다..
+•How to send email from ASP.NET Core with MailKit : Steve Gordon가 ASP.NET Core 어플리케이션에서 MailKit을 이용한 이메일 보내는 방법을 공유했습니다 .
+•Writing custom middleware in ASP.NET Core : Matthew P Jones가 ASP.NET Core를 이용해서 사용자 미들웨어를 제작하는 방법을 소개했습니다.
+•View Components in ASP.NET Core : Mike Brind가 ASP.NET Core MVC(기존의 MVC 6)에 새롭게 등장한 View Components에 대해서 공유했습니다.
+•Developing ASP.NET apps in Docker containers : Steve Lasker가 Docker Tools for Visual Studio를 이용하여 Docker containers환경에서 ASP.NET 어플리케이션을 개발하는 방법을 소개했습니다.
+•The cost of routing : Ayende Rahien가 MVC / WebAPI환경의 웹 라우팅 성능 밴치마킹의 결과를 공유했습니다..
+•Two Razor view errors you might be doing too : Simone Chiaretta가 ASP.NET MVC  Razor 개발환경에서 발생할 수 있는 두가지 예외사항에 대한 해결 경험을 공유했습니다.
 
 * [Our Major Minor – introducing Umbraco 7.4](http://umbraco.com/follow-us/blog-archive/2016/2/11/our-major-minor-introducing-umbraco-74/) : Niels Hartvig 가 오픈소스 기반 CMS(콘텐츠 관리 시스템)인 Umbraco 7.4 버전의 새로운 기능을 소개합니다.
 ### F# 소식
-• fsharpConf 2016 is live on Channel 9 on March 4th. Check out the lineup of speakers!
+• fsharpConf 2016 is live on Channel 9 on March 4th. Check out the lineup of speakers! : F# 컨퍼런스인 fsharpConf 2016가 3월 4일 Channel 9에서 라이브 중계됩니다. 지금 발표자들을 확인해 보세요
 • Ionide and the State of F# Open Source Development, by Krzysztof Cieślak.
 • Building Concurrent, Fault-tolerant, Scalable Applications in F# Using Akka.NET, by Riccardo Terrell.
 • Domain Modeling with Types, by Ryan Riley.
@@ -53,4 +52,5 @@ Console.WriteLine($"{alias} stands for {person.FirstName} {person.LastName}.");
 ### Game 소식
 • Unity 5.3.3 Release – Release Notes and Download Link
 • Intro to Shooter Mechanics – Live Training at 12:00 PST on 2/23 and 2/29, done by Matthew Schell from Unity.
-• Introduction to Scriptable Objects – Recorded Live Training done by Adam Buckner from Unity.
+
+Introduction to Scriptable Objects – Recorded Live Training done by Adam Buckner from Unity.
