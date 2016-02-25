@@ -1,14 +1,13 @@
 ### On.NET 소식
+[지난번 On.NET 동영상 인터뷰] 지난주는 Joe Duffy와 함께 Midori 프로젝트에 대해서 얘기해봤습니다. 
 
-[지난번 On.NET 동영상 인터뷰] 지난주는  Joe Duffy와 함께 Midori 프로젝트에 대해서 얘기해봤습니다. 
-
-[이번 On.NET 유튜브 동영상 인터뷰] 이번 주는 MS에서 Principal Program Manager(타이틀 확인필요…)로 계시는 Scott Hanselman을 모시고 얘기 나누도록 하겠습니다. 특히 이 분은 빌드와 같은 세미나에서 자주 스피커로 등장하면서 국내 개발자들에서도 많이 알려진 분이시죠. 
+[이번 On.NET 유튜브 동영상 인터뷰] 이번 주는 MS에서 Principal Program Manager(타이틀 확인필요…)로 계시는 Scott Hanselman을 모시고 얘기 나누도록 하겠습니다. 이 분은 특히 빌드등 개발자 세미나에 자주 스피커로 등장하면서 국내 개발자들에서도 많이 알려진 분이시죠. 
 
 ### 금주의 패키지 – RestSharp  
    
-웹에있는 REST 자원에 접근하여 해당 서비스를 억세스하고 상호작용하는것은 이론적으로는 표준 HTTP만을 잘사용하면 될것같습니다. 하지만 현실적으로 실무 프로젝트를 하다보면 직열화나 사용자 인증과 같은 것에 대해서 전혀 고민 하지 않을 수는 없습니다. RestSharp은 이와 같이 REST 자원과 상호작용할 때 필요한 기능을 .NET 코드에서 쉽게 사용할 있도록 도와주는 라이브러리입니다.
+웹 REST 자원을 접근해서 서비스에 사용하는 코드를 개발 하는다는것은 이론적으로 표준 HTTP만을 잘 사용하면 될 것 같아보입니다. 하지만 현실은 약간 다르죠, 실무 프로젝트를 하다 보면 순수한 HTTP 표준  기술만으로는 쉽게해결되 않는 문제들이 있죠. 예를 들면  객체 직열화나 웹 사용자 인증등과 같것들은 약간의 고민이 필요한 작업들입니다 RestSharp은 이같이 REST 자원과 상호작용할 때 사용할 수 있는 유용한 여러가지 기능을 제공해주는 .NET 라이브러리입니다.
 
-아래의 코드는 RestSharp을 이용하여 사용자 정보를 조회하는 일반적인 예입니다.
+아래는 사용자 정보를 조회하는 일반적인 코드를 RestSharp을 이용한 예시코드입니다.
 <section>
 var client = new RestClient("http://microsoft.com");
 var request = new RestRequest("people/{alias}");
@@ -20,17 +19,13 @@ Console.WriteLine($"{alias} stands for {person.FirstName} {person.LastName}.");
 
 ### .NET 소식
 
-•An update on ASP.NET Core and .NET Core by Jeffrey T. Fritz.
-•Porting MSBuild to .NET Core by Daniel Plaisted.
-•The evolution of interactive C# by Miguel de Icaza.
-•SQLite Code First (GitHub) by Marc Sallin is a library that enables EF code first to work with SQLite databases.
-•Async-Friendly Stack Trace (GitHub) by Eli Arbel.
-•Moq on .NET Core by Armen Shimoon.
+* An update on ASP.NET Core and .NET Core : Jeffrey T. Fritz가 ASP.NET Core와 .NET Core의 업데이트 내용을 msdn 블로그에 공유했습니다.
+* Porting MSBuild to .NET Core : MS의 .NET Team에있는 Daniel Plaisted가 MSBuild시스템을 .NET Core로 전환한 작업의 과정과 경험을 msdn 블로그에 공유했습니다.
+* The evolution of interactive C# by Miguel de Icaza.
+* SQLite Code First (GitHub) :  Marc Sallin가 SQLite 데이터베이스 기반에서 엔티티프레임워크(EF)의 code first 방법으로 작업이 가능한 SQLite Code First 라이브러리를 GitHub에 공유했습니다 .
+* Async-Friendly Stack Trace (GitHub) : Eli Arbel이 예외처리 시 발생하는 호출스택 정보(Stack Trace)를 비동기 작업에서도 좀더 효과적으로 보일 수 있도록 도와주는 확장클래스를 공유했습니다.
+* Moq on .NET Core : Armen Shimoon이 닷넷용 모킹 프레임워크로 잘 알려진 Moq를 .NET Core에서 사용할 수 있는 방법을 공유했습니다 .
 
-* [A (Hitchhiker's) Guide To The .NET Core Projects on GitHub](https://blog.rendle.io/a-guide-to-the-net-projects-on-github/) : Mark Rendle 가 GitHub 에서 .NET Core 프로젝트를 사용하는 방법을 소개했습니다.
-* [Run dotnet CLI on unsupported Linux distros with docknet](https://blog.rendle.io/run-dotnet-cli-on-unsupported-linux-distros-with-docknet/) : Mark Rendle는 dontnet CLI 를 공식 지원하지 않는 Linux 배포판에서 docknet 을 이용하는 방법에 대해서 소개하였습니다.
-* [.NET Core: Introduction To Microsoft.Data.Sqlite](http://www.c-sharpcorner.com/UploadFile/ranjancse/net-co-introduction-to-microsoft-data-sqlite/) : Ranjan Dailata 가 .NET Core 에서 사용할 수 있는 NuGet 패키지인 Microsoft.Data.Sqlite 를 소개했습니다. 
-* [Weak events in .NET using Reactive Extensions](http://www.codeproject.com/Tips/1078183/Weak-events-in-NET-using-Reactive-Extensions-Rx) : Kenneth Haugland 가 Reactive Extensions 을 이용한 Weak events 의 구현과 활용에 대해서 공유했습니다.
 
 ### ASP.NET 소식
 •ASP.NET Core – 2300% More Requests Served Per Second by Ben Adams.
