@@ -27,14 +27,14 @@ Console.WriteLine($"{alias} stands for {person.FirstName} {person.LastName}.");
 ### ASP.NET 소식
 • ASP.NET Core – 2300% More Requests Served Per Second : Ben Adams가 기존 ASP.NET 보다 성능이 향상된   ASP.NET Core의 성능 측정치와 측정결과를 얻기까지의 과정을 공유했습니다.
 
-•Getting ASP.NET Core running on Ubuntu : 우분투 운영체제에서 ASP.NET Core를 동작시키기 위한 설치및 설정 과정을 공유했습니다 .
-•ASP.NET Core 1.0 – Create web application using Yeoman and Visual Studio Code : Mithun Pattankar가 Visual Studio Code와 Yeoman 라이브러리를 이용해서 손쉽게  ASP.NET Core 웹 어플리케이션을 만드는 방법을 소개했습니다..
-•How to send email from ASP.NET Core with MailKit : Steve Gordon가 ASP.NET Core 어플리케이션에서 MailKit을 이용한 이메일 보내는 방법을 공유했습니다 .
-•Writing custom middleware in ASP.NET Core : Matthew P Jones가 ASP.NET Core를 이용해서 사용자 미들웨어를 제작하는 방법을 소개했습니다.
-•View Components in ASP.NET Core : Mike Brind가 ASP.NET Core MVC(기존의 MVC 6)에 새롭게 등장한 View Components에 대해서 공유했습니다.
-•Developing ASP.NET apps in Docker containers : Steve Lasker가 Docker Tools for Visual Studio를 이용하여 Docker containers환경에서 ASP.NET 어플리케이션 개발 방법을 소개했습니다.
-•The cost of routing : Ayende Rahien가 MVC / WebAPI환경의 웹 라우팅 성능 밴치마킹의 결과를 공유했습니다..
-•Two Razor view errors you might be doing too : Simone Chiaretta가 ASP.NET MVC  Razor 개발환경에서 발생할 수 있는 두가지 예외사항에 대한 해결 경험을 공유했습니다.
+• Getting ASP.NET Core running on Ubuntu : 우분투 운영체제에서 ASP.NET Core를 동작시키기 위한 설치및 설정 과정을 공유했습니다 .
+• ASP.NET Core 1.0 – Create web application using Yeoman and Visual Studio Code : Mithun Pattankar가 Visual Studio Code와 Yeoman 라이브러리를 이용해서 손쉽게  ASP.NET Core 웹 어플리케이션을 만드는 방법을 소개했습니다..
+• How to send email from ASP.NET Core with MailKit : Steve Gordon가 ASP.NET Core 어플리케이션에서 MailKit을 이용한 이메일 보내는 방법을 공유했습니다 .
+• Writing custom middleware in ASP.NET Core : Matthew P Jones가 ASP.NET Core를 이용해서 사용자 미들웨어를 제작하는 방법을 소개했습니다.
+• View Components in ASP.NET Core : Mike Brind가 ASP.NET Core MVC(기존의 MVC 6)에 새롭게 등장한 View Components에 대해서 공유했습니다.
+• Developing ASP.NET apps in Docker containers : Steve Lasker가 Docker Tools for Visual Studio를 이용하여 Docker containers환경에서 ASP.NET 어플리케이션 개발 방법을 소개했습니다.
+• The cost of routing : Ayende Rahien가 MVC / WebAPI환경의 웹 라우팅 성능 밴치마킹의 결과를 공유했습니다..
+• Two Razor view errors you might be doing too : Simone Chiaretta가 ASP.NET MVC  Razor 개발환경에서 발생할 수 있는 두가지 예외사항에 대한 해결 경험을 공유했습니다.
 
 ### F# 소식
 • fsharpConf 2016 is live on Channel 9 on March 4th. Check out the lineup of speakers! : F# 컨퍼런스인 fsharpConf 2016가 3월 4일 Channel 9에서 라이브 중계됩니다. 지금 발표자들을 확인해 보세요
