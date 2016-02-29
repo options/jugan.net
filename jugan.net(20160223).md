@@ -13,11 +13,11 @@
 </section>
 
 ### .NET 소식
-* [An update on ASP.NET Core and .NET Core](https://blogs.msdn.microsoft.com/webdev/2016/02/01/an-update-on-asp-net-core-and-net-core/) : Jeffrey T. Fritz 가 ASP.NET Core 및 .NET Core 의 업데이트 된 내용을 공유했습니다.
+* [An update on ASP.NET Core and .NET Core](https://blogs.msdn.microsoft.com/webdev/2016/02/01/an-update-on-asp-net-core-and-net-core/) : Jeffrey T. Fritz 가 ASP.NET Core 및 .NET Core 의 업데이트된 내용을 공유했습니다.
 * [Porting MSBuild to .NET Core](https://blogs.msdn.microsoft.com/dotnet/2016/02/23/porting-msbuild-to-net-core/) : 마이크로소프트 .NET 팀의 Daniel Plaisted 가 .NET Core 용 MSBuild 로 전환하며 겪었던 경험을 공유했습니다.
 * [The evolution of interactive C#](http://tirania.org/blog/archive/2016/Feb-17.html) Miguel de Icaza 이 interactive C# shell 의 발전과정 및 앞으로의 목표에 대해 기고했습니다. 
 * [SQLite Code First (GitHub)](https://github.com/msallin/SQLiteCodeFirst) :  Marc Sallin 가 SQLite 데이터베이스 기반에서 엔티티프레임워크(EF)의 code first 방법으로 작업 가능한 SQLite Code First 라이브러리를 공유했습니다 .
-* [Async-Friendly Stack Trace (GitHub)](https://github.com/aelij/AsyncFriendlyStackTrace) : Eli Arbel 이 예외처리시 발생하는 호출스택 정보(Stack Trace)를 비동기 작업에서도 효과적으로 확인할 수 있게 도와주는 확장클래스를 소개했습니다.
+* [Async-Friendly Stack Trace (GitHub)](https://github.com/aelij/AsyncFriendlyStackTrace) : Eli Arbel 이 예외처리 시 발생하는 호출스택 정보(Stack Trace)를 비동기 작업에서도 효과적으로 확인할 수 있게 도와주는 확장클래스를 소개했습니다.
 * [Moq on .NET Core](http://dotnetliberty.com/index.php/2016/02/22/moq-on-net-core/) : Armen Shimoon 이 닷넷용 모킹 프레임워크로 잘 알려진 Moq 을 .NET Core 에서 사용할 수 있는 방법을 공유했습니다.
 
 ### ASP.NET 소식
@@ -26,9 +26,9 @@
 * [ASP.NET Core 1.0 – Create web application using Yeoman and Visual Studio Code](http://www.mithunvp.com/asp-net-core-visual-studio-code-yeoman/) : Mithun Pattankar 가 Visual Studio Code 와 Yeoman 라이브러리를 이용해서 손쉽게 ASP.NET Core 웹 애플리케이션을 만드는 방법을 소개했습니다.
 * [How to send email from ASP.NET Core with MailKit](http://stevejgordon.co.uk/how-to-send-emails-in-asp-net-core-1-0) : Steve Gordon 가 ASP.NET Core 웹 애플리케이션에서 MailKit 라이브러리를 이용하여 이메일을 전송하는 법을 공유했습니다 .
 * [Writing custom middleware in ASP.NET Core](http://www.exceptionnotfound.net/writing-custom-middleware-in-asp-net-core-1-0/) : Matthew P Jones 가 ASP.NET Core 를 이용해서 사용자 미들웨어를 제작하는 방법을 소개했습니다.
-* [View Components in ASP.NET Core](http://www.mikesdotnetting.com/article/294/view-components-in-asp-net-core-mvc) : Mike Brind 가 ASP.NET Core MVC 에 새롭게 추가된 View Components 기능에 대해서 소개했습니다.
+* [View Components in ASP.NET Core](http://www.mikesdotnetting.com/article/294/view-components-in-asp-net-core-mvc) : Mike Brind 가 ASP.NET Core MVC 에 새롭게 추가된 View Components 기능을 소개했습니다.
 * [Developing ASP.NET apps in Docker containers](http://blogs.msdn.com/b/stevelasker/archive/2016/02/19/developing-asp-net-apps-in-docker-containers.aspx) : Steve Lasker 가 Docker Tools for Visual Studio 를 이용하여 Docker containers 환경에의 ASP.NET 애플리케이션 개발 방법을 소개했습니다.
-* [The cost of routing](https://ayende.com/blog/173282/the-cost-of-routing?Key=5236b9ce-234e-4255-b25b-98de4068dc93) : Ayende Rahien가 MVC / WebAPI 환경에서 웹 라우팅 성능 밴치마킹 결과를 공유했습니다..
+* [The cost of routing](https://ayende.com/blog/173282/the-cost-of-routing?Key=5236b9ce-234e-4255-b25b-98de4068dc93) : Ayende Rahien가 MVC / WebAPI 환경에서 웹 라우팅 성능 밴치마킹 결과를 공유했습니다.
 * [Two Razor view errors you might be doing too](http://codeclimber.net.nz/archive/2016/02/19/Two-Razor-view-errors-you-might-be-doing-too.aspx) : Simone Chiaretta 가 ASP.NET MVC Razor 개발환경에서 발생할 수 있는 두 가지 예외사항에 대한 해결책을 공유했습니다.
 
 ### F# 소식
@@ -39,9 +39,9 @@
 * [Managing RabbitMQ Messages with F# and Akka.NET](http://miles.no/blogg/managing-rabbitmq-messages-with-f-and-akkanet) : Vagif Abilov 이 F# 에서 Akka.NET 을 이용한 Managing RabbitMQ 사용방법을 공유했습니다.
 * [Benchmarking IEnumerables in F# – Seq.timed](http://latkin.org/blog/2016/02/08/benchmarking-ienumerables-in-f-seq-timed/) : Lincoln Atkinson 이 F# 의 IEnumerables 타입 성능비교 결과를 공유했습니다.
 * [Types + Properties = Software: Designing with Types](http://blog.ploeh.dk/2016/02/10/types-properties-software-designing-with-types/) : Mark Seemann 가 F# 에서 Type 을 설계하는 방법을 공유했습니다. 
-* [F# Will Solve Your Everyday Problem Without a Headache](http://blog.2mas.xyz/fsharp-will-solve-your-everyday-problem-without-a-headache/) : Tomas Jansson 이 FSM(Finite State Machine)을 이용하여 다른 언어 보다 문제를 효과적으로 해결할 수 있음을 소개합니다. 에 비해 F# 이 가지는 장점에 대해 
+* [F# Will Solve Your Everyday Problem Without a Headache](http://blog.2mas.xyz/fsharp-will-solve-your-everyday-problem-without-a-headache/) : Tomas Jansson 이 FSM(Finite State Machine)을 이용하여 다른 언어보다 문제를 효과적으로 해결할 수 있음을 예제와 함께 소개합니다. 
 
 ### Game 소식
 * [Unity 5.3.3 Release](http://unity3d.com/unity/whats-new/unity-5.3.3) : Unity 버전 5.3.3 이 발표되었습니다. 지금 확인해보세요! 
-* [Intro to Shooter Mechanics](https://blogs.msdn.microsoft.com/dotnet/2016/02/23/the-week-in-net-2232016/) : Matthew Schell 가 2/23 ~ 2/29 일 이틀 간 Unity 교육이 라이브로 진행되었습니다.
+* [Intro to Shooter Mechanics](https://blogs.msdn.microsoft.com/dotnet/2016/02/23/the-week-in-net-2232016/) : Unity 의 Matthew Schell 가 진행하는 Unity 교육이 2/23 부터 2/29 까지 이틀간 라이브로 진행되었습니다.
 * [Introduction to Scriptable Objects](http://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/scriptable-objects) : Unity 의 Adam Buckner 가 진행했던 교육을 다시 시청하실 수 있습니다.
