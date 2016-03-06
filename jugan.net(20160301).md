@@ -2,7 +2,7 @@
 [지난번 On.NET 동영상 인터뷰] 지난주는 동영상에서는 마이크로소프트의 Principal Program Manager 이신 Scott Hanselman 을 모시고 즐거운 시간을 가졌습니다. 이번주는 Rachel Reese과 함께 F# 그리고 Jet.com 사이트에 대해서 얘기나누어 보겠습니다.
 
 ### 금주의 패키지 – SkiaSharp
-Xamarin이 구글의 그래픽 엔진인 Skia 라이브러리를 기반으로한 새로운 2D 그래픽 API인 SkiaShar를 발표했습니다. Skia 라이브러리는 Chrome, Firefox, 그리고 Android영역에서 그래픽 을 담당하는 엔진이기도 합니다. 이런 Skia 라이브러리를 바탕으로한 SkiaSharp은 portable library 형태로 구성되어 있습니다. 즉 OS X, Android, iOS, Mono, 그리고 .NET Framework을 지원하는 이식성이 뛰어난 개발 library입니다. 
+Xamarin이 구글의 그래픽 엔진인 Skia 라이브러리를 기반으로한 새로운 2D 그래픽 API인 SkiaShar를 발표했습니다. Skia 라이브러리는 Chrome, Firefox, 그리고 Android영역에서 그래픽 을 담당하는 엔진이기도 합니다. Skia 라이브러리를 바탕으로한 SkiaSharp은 이식성이 뛰어난 portable library로 구성되어 있으며 OS X, Android, iOS, Mono, 그리고 .NET Framework을 지원합니다.
 <section>
 </section>
 
