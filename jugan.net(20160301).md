@@ -16,9 +16,9 @@ Xamarin이 구글의 그래픽 엔진인 Skia 라이브러리를 기반으로한
 [그림]
 
 ### .NET 소식
-*[타이틀필요]Scott Guthrie가 Xamarin의 마이크로소프트합류를 축하했습니다. 그리고 Xamarin의 Nat Friedman이 Xamarin과 마이크로소프트의 미래 가치에 대한 생각을 공유했습니다
+* [타이틀필요]Scott Guthrie가 Xamarin의 마이크로소프트합류를 축하했습니다. 그리고 Xamarin의 Nat Friedman이 Xamarin과 마이크로소프트의 미래 가치에 대한 생각을 공유했습니다
 
-*Nick Craver가 Stack Overflow 사이트의 최신 사용량 통계와 이에 대응하기위해 구성된 2016 버전 아키텍처 내용을 공유했습니다 .
+* Nick Craver가 Stack Overflow 사이트의 최신 사용량 통계와  2016 버전 아키텍처 내용을 공유했습니다 .
 * Saying “Goodbye” to DNX and “Hello!” to the .NET Core CLI (video) by Damian Edwards & David Fowler. 
  
 * Ranjan Dailata이 .NET Core의 Microsoft.Data.Sqlite의 소개를 공유했습니다
@@ -27,7 +27,7 @@ Xamarin이 구글의 그래픽 엔진인 Skia 라이브러리를 기반으로한
 
 * 멀티쓰레드에 관심있는 개발자라면 누구나 한번은 읽어야하는 Vance Morrison의 유명한 문서인 "What Every Dev Must Know About Multithreaded Apps"과 " Understand the Impact of Low-Lock Techniques in Multithreaded Apps"라는 문서가 그의 블로그에 pdf 버전으로 공유되었습니다. 
 
-*Nbench를 이용한 Garbage collection 테스트 방법을 공유했습니다
+* Nbench를 이용한 Garbage collection 테스트 방법을 공유했습니다
 
 * ConditionalWeakTable and dynamic properties in .NET 4+ by Chris Whitworth. 
 
@@ -35,7 +35,7 @@ Xamarin이 구글의 그래픽 엔진인 Skia 라이브러리를 기반으로한
 
 ### ASP.NET 소식
 * •David Paquette, James Chambers, Simon Timms가 ASP.NET Core를 이용한 어플리케이션 개발 방법을 Channel 9의 ASP.NET Monsters쇼에서 소개했습니다.
-*  Dino Esposito가 POST, GET분리하기("Keeping POST and GET Separated) 라는 제목으로 자신의 블로그에 문서를 공유했습니다.
+* Dino Esposito가 POST, GET분리하기("Keeping POST and GET Separated) 라는 제목의 글을 자신의 블로그에 공유했습니다.
 * Rick Strahl가 윈도우 IIS를 이용한 암호화 방법에 대해서 공유했습니다.
 
 ### F# 소식
