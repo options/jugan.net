@@ -1,4 +1,4 @@
-이번 주에는 Xamarion 의 새로운 2D 그래픽 API 인 SkiaShar 라이브러리를 소개합니다. 완성도있 문서 자동화 도구인 Docfx 에 대한 소식도 눈에 뛰는군요. 지난 호를 살펴보시려면 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 방문해 보시기 바랍니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)나 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
+이번 주에는 Xamarion 의 새로운 2D 그래픽 API 인 SkiaShar 라이브러리를 소개합니다. 완성도있는 문서 자동화를 도와주는 도구인 Docfx 에 대한 소식도 눈에 뛰는군요. 지난 호를 살펴보시려면 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 방문해 보시기 바랍니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)나 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
 
 ### On.NET 소식
 [지난번 On.NET 동영상 인터뷰](https://www.youtube.com/watch?v=WuqrfuJLbgk)는 마이크로소프트의 Principal Program Manager 이신 Scott Hanselman 을 모시고 이야기 나누었습니다. [이번 On.NET 유튜브 동영상 인터뷰](https://www.youtube.com/watch?v=4DJWQP2Uxps)는 Rachel Reese 를 모시고 F# 을 이용하여 백앤드를 개발하고 있는 스타트업인 Jet.com 과 F# 에 대해서 이야기 나누었습니다.  
