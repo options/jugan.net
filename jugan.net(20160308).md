@@ -12,26 +12,23 @@
 
 ### .NET 소식
 *  [SQL Server on Linux](https://blogs.microsoft.com/blog/2016/03/07/announcing-sql-server-on-linux/) : 리눅스용 SQL Server :  Microsoft 의 SQL Server 가 리눅스를 지원할 예정입니다. 2017 년 중순에 정식 버전 릴리즈를 목표로 개발 중이며 현재는 프리뷰 버전입니다. 개발자들의 영원한 친구이자 빨간 티 개발자로도 유명한 Scott Guthrie 가 이를 소개합니다.
-
 * [.NET Framework Compatibility Diagnostics](https://blogs.msdn.microsoft.com/dotnet/2016/03/03/net-framework-compatibility-diagnostics/) : .NET 팀의 Taylor Southwick 가 .NET Framework 의 호환성을 확인해주는 툴을 소개합니다. 비주얼 스트디오에서 빌드 타겟 버전을 변경할 때 발생할 수 있는 여러 잠재적인 문제를 미리 알려주며, 비주얼 스트디오의 Nuget 패키지를 이용하여 설치 할 수 있습니다. 다만 .NET Framework version 4.0 이후의 호환성만을 체크해줍니다. 
-
 * [C# 7 Feature Proposal: Local Functions](http://thebillwagner.com/Blog/Item/2016-03-02-C7FeatureProposalLocalFunctions) : Bill Wagner 가 C# 7.0 버전에 포함될 예정인 기능들을 소개했습니다. 
-
 * [JSON.Net Private Setters NuGet](http://danielwertheim.se/json-net-private-setters-nuget/) : Daniel Wertheim 이 JSON 라이브러인 Newtonsoft JSON.Net 에서 Private Setters 의 사용을 도와주는 확장 클래스를 공유했습니다.
-
 * [Friendly, readable expression trees](http://geekswithblogs.net/mrsteve/archive/2016/02/29/friendly-readable-expression-trees-debug-visualizer.aspx) : Steve Wilkes 가 tree 형태로 메서드 호출이나 연산등의 코드를 가지는 데이터 구조체인 Expression trees 를 보기 편하도록 도와주는 Debug Visualizers 를 포함한 확장 메소드인 ReadableExpressions 를 소개했습니다. 
 
 ### ASP.NET 소식
 * [Introduction to ASP.NET Core (video)](http://codeclimber.net.nz/archive/2016/03/04/Introduction-to-ASP-NET-Core-1-0-video.aspx) : Simone Chiarett 이 ASP.NET Core 의 설치과정 및 ASP.NET Core v1.0 를 이용하여 간단한 웹 사이트를 만드는 방법에 대해 설명했습니다. 
 * [Encryption and Decryption in ASP.NET Core](http://www.mikesdotnetting.com/article/295/encryption-and-decryption-in-asp-net-core) : Mike Brind 가 ASP.NET Core 에서 데이터 보호와 관련하여 새롭게 추가된 API 들을 소개했습니다.
 * Hossam Barakat 이 [ASP.NET Core 에서의 테스팅 방법 및 Tag Helper 기능](http://hossambarakat.net/2016/02/29/unit-testing-asp-net-core-tag-helper/)과 [ASP.NET Core MVC 프로젝트에서 프로젝트 폴더를 더욱 효과적으로 관리할 수 있는 방법](http://hossambarakat.net/2016/02/16/asp-net-core-mvc-feature-folders/)을 공유했습니다.
-* [Use IdentityServer in SwaggerUI to consume a secured ASP.Net WebAPI](http://danielwertheim.se/use-identityserver-in-swaggerui-to-consume-a-secured-asp-net-webapi/) : SwaggerUI 에서 IdentityServer 인증 서버의 ASP.Net 용 WebAPI 를 사용하는 방법을 공유했습니다.
+* [Use IdentityServer in SwaggerUI to consume a secured ASP.Net WebAPI](http://danielwertheim.se/use-identityserver-in-swaggerui-to-consume-a-secured-asp-net-webapi/) : Daniel Wertheim 이 SwaggerUI 에서 IdentityServer 인증 서버의 ASP.Net 용 WebAPI 를 사용하는 방법을 공유했습니다.
 
 ### F# 소식
 
 * F# 언어가 RFC(Request for Comments) 단계를 준비 하고 있습니다. [F# Language Design RFC Github 리파지토리](https://github.com/fsharp/FSharpLangDesign)에서 새로운 기능을 제안하거나 투표에 참여해 보세요.
 * .NET Core 에서 F# 을 더욱 쉽게 사용할 수 있도록 도와주는 안내 문서와 예제 코드가 공개되었습니다. [이곳](https://github.com/enricosada/fsharp-dotnet-cli-samples/wiki/Getting-Started)에서 확인하세요.
-* [Welcome to fsharpConf](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/Welcome-to-fsharpConf) : Don Syme 과 Tomas Petricek 이 fsharpConf 의 시작을 알리는 비디오를 Channel9 에 공개했습니다.
+* fsharpConf 2016에 참석해주신 모든 분들께 감사드립니다. [Channel 9](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/) 에서 영상을 확인하세요. 
+* [Welcome to fsharpConf](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/Welcome-to-fsharpConf) : Don Syme 과 Tomas Petricek 이 fsharpConf 의 시작을 축하했습니다.
 * [The F#orce Awakens](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/The-Force-Awakens) : Evelina Gabasova 가 F# 을 이용해 데이터를 처리하고 시각화하는 방법을 소개했습니다. 
 * [Patterns and Practices for Real-World Event-Driven Microservices](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/Real-World-Microservices) : Rachel Reese가 Jet.com 을 개발하면서 얻은 경험에 비추어 Microservice 를 설명했습니다.
 * [Fun and Games with F#](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/DEMO-Fun-and-Games-with-F) : 프로그래밍 언어 중 F# 을 제일 좋아하는 꼬마인 Sean Trelford 의 F# 라이브 코딩 비디오를 소개합니다. 기본적인 3D 모형 그리기에서부터 간단한 게임제작까지 보여줍니다.  
@@ -40,7 +37,7 @@
 * [Ionide and Cross-Platform F# Tools](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/DEMO-Ionide--Cross-platform-F-Tools) : Visual Studio Code 와 Atom editors 에서 사용할 수 있는 F# 개발 툴인 Ionide 의 활용법을 프로젝트 개발팀 리더인 Krzysztof Cieślak 가 소개했습니다.
 * [F# Microservices with Logging, Tracing, and More on Docker](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/F-Microservices-with-Logging-Tracing-and-More-on-Docker) : Henrik Feldt 가 [Suave.io](http://suave.io/) 라이브러리를 이용하여 Microservices 아키텍처를 따르는 웹 애플리케이션을 만드는 방법을 소개했습니다. 
 * [Web UI Automation with F# and Canopy](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/Web-UI-Automation-with-F-and-canopy) : Chris Holt 가 F# 기반의 웹 테스트 라이브러리인 canopy 를 소개했습니다.
-* [Using F# at Jet.com](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/INTERVIEW-Using-F-at-Jetcom) : Rachel Reese 이 F# 으로 개발된 전자상거래 웹사이트 Jet.com 의 개발과정을 Channel9 에 공유했습니다.
+* [Using F# at Jet.com](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/INTERVIEW-Using-F-at-Jetcom) : Rachel Reese 이 F# 으로 개발된 전자상거래 웹사이트 Jet.com 의 개발과정을 공유했습니다.
 * [Android Watch Gesture Recognition with Functional State Machines](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/Android-Watch-Gesture-Recognition-with-Functional-State-Machines) : Faisal Waris 가 FSM(Finite State Machine) 에 대해 설명하고, 이를 이용하여 동작을 감지하는 안드로이드용 스마트워치 애플리케이션에 대해 소개했습니다.  
 * [Cassandra, Docker, and F# Awesomeness](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/Cassandra-Docker-and-F-Awesomeness): Alena Hall 가 Docker 환경에서 F# 으로 Cassandra DB 를 활용하는 방법을 비디오 F# Awesomeness 에서 공유했습니다.
 * [F# Community in Japan](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/INTERVIEW-F-Community-in-Japan) : Yukitoshi Suzuki 가 일본의 F# 커뮤니티 소식을 소개했습니다.
