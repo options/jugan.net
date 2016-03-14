@@ -45,4 +45,4 @@
 * [Cassandra, Docker, and F# Awesomeness](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/Cassandra-Docker-and-F-Awesomeness): Alena Hall 가 Docker 환경에서 F# 으로 Cassandra DB 를 활용하는 방법을 비디오 F# Awesomeness 에서 공유했습니다.
 * [F# Community in Japan](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/INTERVIEW-F-Community-in-Japan) : Yukitoshi Suzuki 가 일본의 F# 커뮤니티 소식을 소개했습니다.
 * [A Boardgame Night with Geeks](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/A-Boardgame-Night-with-Geeks) : Felienne Hermans 이  Quarto 라는 보드게임의 열성팬을 만나서 F# 을 이용해 보드게임의 문제룰 해결하는 방법에 대해 이야기 나누었습니다. 
-* [Q&A with the Visual F# Team and Community](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/QA-with-the-F-Team-and-Community) : F# 프로그램 매니저인 David Stephens 와 F# 프로젝트의 오래된 컨트리뷰터인 Tomas Petricek 가 라이브로 F# 에 대한 Q&A 를 진행했습니다.
+* [Q&A with the Visual F# Team and Community](https://channel9.msdn.com/Events/FSharp-Events/fsharpConf-2016/QA-with-the-F-Team-and-Community) : F# 프로그램 매니저인 David Stephens 와 F# 프로젝트의 오래된 컨트리뷰터인 Tomas Petricek 가 F# 에 대한 라이브 Q&A 를 진행했습니다.
