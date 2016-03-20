@@ -33,4 +33,5 @@
 * Getting Started Creating Editor Extensions in Unity : Elmar Talibzade가 Unity의 Editor 확장기능을 구현하는 방법을 공유했습니다.
 
 ### Game of the week: Overload
-Overload는 Descent에서 개발한 3차원 슈팅게임입니다. 플레이어는 적 로봇을 격파, 인질 구출, 원자로 파괴등의 미션을 수행하고 기지가 파괴되기전에 탈출로 찾아서 탈출하는 게임입니다. 현재 Overload는 아직 초기개발중이며 link를 통해서 미리 동영상 티저를 확인할 수 있습니다.
+Overload는 Descent에서 개발한 3차원 슈팅게임입니다. 플레이어는 적 로봇 격파, 인질 구출, 원자로 파괴등의 미션을 수행하고 기지가 파괴되기전에 탈출로를 찾아서 탈출해야 하는 게임입니다. 현재 Overload는 아직 초기개발중이지만 link를 통해서 미리 동영상 티저를 확인할 수 있습니다.
+
