@@ -18,7 +18,7 @@
 * What is middleware anyway? : Simon Timms이 ASP.NET Core에서 자주 언급되는 middleware 의 개념을 정리해서 공유했습니다.
 * ASP.NET 5 on Nano Server : Sourabh Shirhatti이  서버 코어보다 더 작은 Windows Server 2016 나노 서버(Nano Server)에서 ASP.NET 5 어플리케이션을 운영하는 방법을 ASP.NET 사이트에 공유했습니다.
 * Use IdentityServer in SwaggerUI to consume a secured ASP.Net WebAPI :Daniel Wertheim 이 SwaggerUI 에서 IdentityServer 인증 서버의 ASP.NET 용 WebAPI 를 사용하는 방법을 공유했습니다.
-* Custom Validation in ASP.NET Web API with FluentValidation : Matthew Jones가 FluentValidation 라이브러리의 API를 이용한 사용자 정의 Validation 구현 방법을  공유했습니다.
+* Custom Validation in ASP.NET Web API with FluentValidation : Matthew Jones가 FluentValidation 라이브러리 API를 이용한 사용자 정의 Validation 구현 방법을  공유했습니다.
 * Understanding ASP.NET Performance for Reading Incoming Data : Matt Watson이 ASP.NET의 request 수신과 이와 관련된 데이터 성능 측정에 대한 개념적인 이해 및 설명을 공유했습니다.
 
 ### F# 소식
