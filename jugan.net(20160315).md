@@ -1,8 +1,9 @@
+
 ### On.NET 소식
 지난주는 StackOverflow에서 일하고 계시는 Nick Craver 와의 인터뷰를 실어드렸습니다. 많은 개발자들의 사랑을 받고있는 StackOverflow 웹사이트가 어떻게 빠른 성능과 품질을 유지하는지 궁금하시다면 동영상을 꼭 한번  보시기 바랍니다. 이번주 인터뷰는 예정되있지 않습니다. 따라서 이번주는 On.NET 동영상 인터뷰를 생략하겠습니다.
 
 ### Package of the week: Quartz.NET
-어플리케이션에서 필요한 백그라운드 job을 스케줄링하고 관리하는 것은 많은 코드 작업을 필요로 합니다. 라이브러리 패키지인 Quartz.NET를 이용하면 이같이 어플리케이션에서 필요한 백그라운드 관련 작업을 효율적으로 관리할 수 있습니다. 스래드풀을 관리하고 job 트리거를 스케줄링하는등의 복잡한 내용을 간단히 완성할 수 있도록 풍부한 API들을 제공합니다.
+어플리케이션에서 필요한 백그라운드 job을 스케줄링하고 관리하는 것은 번거로운 코드 작업을 필요로 합니다. 라이브러리 패키지인 Quartz.NET를 이용하면 이같이 번거로운 백그라운드 관련 작업을 효율적으로 관리할 수 있습니다.  스래드풀을 관리하고 job 트리거를 스케줄링하는등의 복잡한 내용을 간단히 완성할 수 있도록 Quartz.NET는 풍부한 API들을 제공합니다.
 
 ### .NET 소식
 * Experimental .NET Core Debugging in VS Code : Daniel Meixner 가 VS Code에서 ASP.NET Core 어플리케이션을 디버깅 할 수 있도록 해주는 ASP.NET Core CLI toolset(현재 프리뷰 버전)을 사용방법과 함께 소개했습니다
@@ -32,5 +33,4 @@
 * Getting Started Creating Editor Extensions in Unity : Elmar Talibzade가 Unity의 Editor 확장기능을 구현하는 방법을 공유했습니다.
 
 ### Game of the week: Overload
-
 Overload는 Descent에서 개발한 3차원 슈팅게임입니다. 플레이어는 적 로봇을 격파, 인질 구출, 원자로 파괴등의 미션을 수행하고 기지가 파괴되기전에 탈출로 찾아서 탈출하는 게임입니다. 현재 Overload는 아직 초기개발중이며 link를 통해서 미리 동영상 티저를 확인할 수 있습니다.
