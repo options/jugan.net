@@ -9,7 +9,7 @@
 * Experimental .NET Core Debugging in VS Code : Daniel Meixner 가 VS Code에서 ASP.NET Core 어플리케이션을 디버깅 할 수 있도록 해주는 ASP.NET Core CLI toolset(현재 프리뷰 버전)을 사용방법과 함께 소개했습니다
 *  Roslyn scripting on CoreCLR (.NET CLI and DNX) and in memory assemblies :  C# 컴파일러 스크립트 API인 Roslyn이 CoreCLR 을 지원합니다. 즉 다중 플렛폼을 지원하게 된것이지요. Filip W가 CoreCLR에서 Roslyn 의 사용방법을 공유했습니다
 * A cross-platform interactive C# script editor : Roslyn을 이용해서 동적  C# script editor 을 만드는 방법을 Christian Jacobsen가 공유했습니다.
-* Hamburger controls for UWP : UWP(Windows Universal Apps) 프로젝트에서 사용할 수 있는 app 프로젝트에서 사용할 수 있는 햄버거 버튼 컨트롤을 Pedro Lamas가 소개했습니다. 이 햄버거 버튼 컨트롤은 Cimbalino Toolkit 에서 제공되는 컨트롤들중 하나입니다.
+* Hamburger controls for UWP : UWP(Windows Universal Apps) 프로젝트에서 사용할 수 있는 app 프로젝트에서 사용할 수 있는 햄버거 버튼 컨트롤을 Pedro Lamas가 소개했습니다. 소개되는 햄버거 버튼 컨트롤은 Cimbalino Toolkit 에서 제공되는 컨트롤들 중 하나입니다.
 * Using the Project Oxford Emotion API in C# and JavaScript : Martin Kearn이 머신러닝 프로젝트로 유명한 "프로젝트 옥스포드"에서 제공되는 Emotion API 를 소개합니다.
 
 ### ASP.NET 소식
