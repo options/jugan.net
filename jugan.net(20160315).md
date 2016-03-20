@@ -23,7 +23,7 @@
 
 ### F# 소식
 * F# with .NET Core and CLI : Enrico Sada이 F#을 이용해서 .NET Core와 CLI 를 사용하는 예와 기존의 .NET 어플리케이션을 .NET Core로 전환 하는 방법을 유투브 비디오로 공유했습니다.
-* Path to F# and NGO Fraudbuster : Jacqueline Homan이 자신의 NGO Fraudbuster 어플개발에 F#을 사용하게 된 배경과 경험을 공유했습니다.
+* Path to F# and NGO Fraudbuster : Jacqueline Homan이 자신의 NGO Fraudbuster app개발에 F#을 사용하게 된 배경과 경험을 공유했습니다.
 * On.NET: F# at Jet.com, : Rachel Reese 이 F#으로 개발된 전자상거래 웹사이트 Jet.com 의 개발과정을 공유했습니다
 * Converting a DSL to Executable F# Code On-the-Fly, Part 2, : Mathias Brandewinder 가 DSL(domain-specific language) 로 작성한 코드를 F# 실행코드로 변환하는 방법 Part 2를 자신의 블로그에 소개했습니다.
 * GPUs and Domain Specific Languages for Life Insurance Modeling : Daniel Egloff이 많은 수학적 계산을 필요로 하는 생명보험 업계 업무 모델을 DSL(domain-specific language) 과 GPU를 이용하여  F#으로 구현하는 예를 공유했습니다.
