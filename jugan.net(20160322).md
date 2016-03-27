@@ -22,7 +22,7 @@
 ### ASP.NET 소식
 * cloudscribe SimpleContent : Joe Audette가  ASP.NET Core환경에서 동작하는 블로그 엔진의 초기버전을 개발하여 github에 공유하였습니다
 
-*First Look - Authentication in ASP.NET Core :  리포터 Seth Juarez 와  ASP.NET 프로그램 메니저인 Pranav Rastogi가 ASP.NET Core 인증(Authentication)시스템의 업데이트와 향상된 기능에 대해서 비디오로 공유했습니다.
+* First Look - Authentication in ASP.NET Core :  리포터 Seth Juarez 와  ASP.NET 프로그램 메니저인 Pranav Rastogi가 ASP.NET Core 인증(Authentication)시스템의 업데이트와 향상된 기능에 대해서 비디오로 공유했습니다.
 
 * Extending the ASP.NET Core 1.0 Identity SignInManager : Steve Gordon가  ASP.NET Core 1.0의 Identity 라이브러리중 SignInManager 클래스의 확장 사용법을 공유했습니다.
 
