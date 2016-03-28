@@ -1,58 +1,63 @@
+이번 주에는 많은 개발자들의 가슴을 두근거리게 할 마이크로소프트의 개발자 행사인 Build 가 있습니다. 지난 호를 살펴보시려면 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 방문해 보시기 바랍니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)나 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
+
 ### Build 소식
-다음주 저희 팀원중 많은 분들이 2016 Build 컨퍼런스 행사차 샌프란시스코에 있을 예정입니다.  이번 행사는 .NET 최신 소식을 전할수있는 좋은 자리이며 여기서 많은 분들을 만나기를 기대합니다. 하지만 혹시 참여 못하셔서 저희와 만나지 못하시더라도 생방송으로 keynote 세션을 보실 수 있으며 각 파트별 상세 세션들은 녹화되어 빠른 기간안에 Channel 9 공유될 예정이오니 너무 상심하지 마세요
+이번 주 수요일부터 시작되는 [Build](https://build.microsoft.com/) 행사로 저희 팀원들이 샌프란시스코에 머무를 예정입니다. Build 행사에서 많은 분들을 뵙고 .NET 의 최신 소식을 전해드리겠습니다. 행사에 직접 참여하지 못하시더라도 생방송으로 keynote 세션을 시청하실 수 있으며, [Channel 9](https://channel9.msdn.com/Events/Build) 에서 녹화된 세션들을 확인하실 수 있습니다. 
 
 ### On.NET 소식
-저번 주 동영상 인터뷰는 없었습니다. 하지만 이번 주는 동영상 인터뷰는 진행될 예정이며 Joyent에 근무하는 Richard Kiene를 모시고 .NET Core를 Joyent cloud에 적용한 사례에 대해서 얘기나눌까 합니다.
+지난번에는 동영상 인터뷰가 없었습니다. [이번 On.NET 동영상 인터뷰](https://www.youtube.com/watch?v=v5YUoeFCoe8)는 쿨라우드 서비스 제공 업체인 Joyent 에서 엔지니어로 근무하고 계시는 Richard Kiene 를 모시고 CoreCLR 과 ASP.NET 을 이용하여 서비스를 개발한 경험에 대해 이야기를 나누었습니다. 
 
-### 금주의 패키지 - Octopus Deploy
-패키지 Octopus Deploy는 안정적이고 연속적인 서버 배포를 할 수 있도록 도와주는 유용한 배포툴 입니다. 테스트 서버, staging 서버(국내환경에서는 흔히 QA 서버라도 합니다), 그리고 운영서버까지 모든 서버 배포 작업에 이 패키지를 이용할 수 있습니다. 사용방법이 쉽고 간단하기 때문에 아주 작은 변경점이라도 있다면 쉽게 그리고 좀더 자주 배포할 수 있습니다. 결과적으로 서버의  새로운기능및 버그 수정을 빠르게 적용할 수 있어 서버 어플리케이션 품질이 향상될 것 입니다. Octopus Deploy는 사용화된 제품이지만 비교적 소규모 팀(5개 이하의 프로젝트로 조합된 결과물을 10개 미만의 서버에 배포하는 경우)에게는 무료로 제공됩니다.
+### 금주의 툴 - Octopus Deploy
+Octopus Deploy 는 지속적으로 통합하고 배포할 수 있도록 도와주는 훌륭한 도구입니다. 테스트 서버, 스테이징 서버(국내환경에서는 흔히 QA 서버라도 합니다), 운영서버까지 모든 서버 배포 작업에 이용하실 수 있습니다. 사용하기 편리하여 작은 변경사항도 쉽게 변경하고 좀더 자주 배포할 수 있습니다. 이는 결과적으로 서버 어플리케이션 품질 향상으로 이어질 것 입니다. Octopus Deploy 는 상업용 제품이지만 소규모 팀(5개 이하의 프로젝트로 조합된 결과물을 10개 미만의 서버에 배포하는 경우)에게는 무료로 제공됩니다.
+
+* [Octopus Deploy](https://octopus.com/)
+
+image
 
 ### .NET 소식
-* The Sound of .NET : .NET 관련 podcast(비디오/오디오)을 한자리에 모아놨네요.
+* [The Sound of .NET](http://thesoundof.net/) : .NET 과 연관된 팟캐스트를 한눈에 있습니다. 
 
-* High speed applications : Erik Bergman이 .NET에서 빠른 성능을 구현하기 위해 parallelism을  적용하는 방법을 part 1 과 part 2 로 나누어서 공유했습니다.
+* Erik Bergman 이 .NET 에서 빠른 성능을 구현하기 위해 적용된 병렬처리에 대해 [part 1](http://www.erikbergman.net/2016/03/10/high-speed-applications-parallelism-in-net-part-1/) 과 [part 2](http://www.erikbergman.net/2016/03/17/high-speed-applications-parallelism-in-net-part-2/) 에 걸쳐서 설명했습니다.
 
-* Peachpie – Benjamin Fistein이 .NET 용 PHP Compiler 인 Peachpie 를 소개 했습니다.
+* [Peachpie – the PHP Compiler for .NET](http://blog.peachpie.io/2016/03/intro.html?m=1) : Benjamin Fistein 이 .NET 용 PHP Compiler 인 Peachpie 를 소개했습니다.
 
-* LINQPad.QueryPlanVisualizer : 업무 프로젝트 개발시 복잡한 LINQ를 작성하는 경우 LINQPad를 사용하면 많은 도움이 됩니다. 그래서 많은 개발자 분들이 LINQPad를 사용하고 계십니다.   Giorgi Dalakishvili는 이 LINQPad 안에서 query execution plan을 바로 확인 할 수 있도록 해주는  LINQPad의 에드온인 QueryPlanVisualizer를 개발 했으며 이를 자신의 블로그에 소개 했습니다.
+* [LINQPad.QueryPlanVisualizer](http://www.aboutmycode.com/miscellaneous/introducing-linqpad-queryplanvisualizer/) : 많은 개발자 분들이 개발할 때 LINQPad 를 사용하고 계십니다. Giorgi Dalakishvili 가 쿼리의 실행 계획을 바로 확인 할 수 있도록 도와주는 LINQPad 의 에드온인 QueryPlanVisualizer 를 소개했습니다.
 
-
-* .NBench Performance Testing :Andrea Angella이 오픈소스 테스트 툴인 Nbench 환경에서 NUnit 와 ReSharper 을 연동해서 테스트 하는 방법을 공유했습니다.
+* [NBench Performance Testing – NUnit and ReSharper Integration](http://www.dotnetalgorithms.com/2016/03/nbench-performance-testing-nunit-resharper-integration/) : Andrea Angella 가 성능 측정 도구인 Nbench 가 core library 에 포함되었다고 소개했습니다. 또한, NUnit 과 ReSharper 를 이용한 테스트 방법을 소개합니다. 
 
 ### ASP.NET 소식
-* cloudscribe SimpleContent : Joe Audette가  ASP.NET Core환경에서 동작하는 블로그 엔진의 초기버전을 개발하여 github에 공유하였습니다
+* Joe Audette 가 ASP.NET Core 에서 동작하는 블로그 엔진인 [cloudscribe SimpleContent](https://github.com/joeaudette/cloudscribe.SimpleContent) 의 초기버전을 github 에 공유하였습니다
 
-* First Look - Authentication in ASP.NET Core :  리포터 Seth Juarez 와  ASP.NET 프로그램 메니저인 Pranav Rastogi가 ASP.NET Core 인증(Authentication)시스템의 업데이트와 향상된 기능에 대해서 비디오로 공유했습니다.
+* [First Look: Authentication in ASP.NET Core (video)](https://blogs.msdn.microsoft.com/webdev/2016/03/11/first-look-authentication-in-asp-net-core/) : ASP.NET Core 의 업데이트 및 인증 시스템 개선에 대해 용감한 리포터 Seth Juarez 가 ASP.NET 프로그램 매니저인 Pranav Rastogi 와 이야기를 나누었습니다. 
 
-* Extending the ASP.NET Core 1.0 Identity SignInManager : Steve Gordon가  ASP.NET Core 1.0의 Identity 라이브러리중 SignInManager 클래스의 확장 사용법을 공유했습니다.
+* [Extending the ASP.NET Core 1.0 Identity SignInManager](http://stevejgordon.co.uk/extending-the-asp-net-core-identity-signinmanager) : Steve Gordon 이 ASP.NET Core 1.0 의 인증과 관련된 라이브러리인 SignInManager 클래스를 확장하여 사용했던 경험을 공유했습니다.
 
-* ASP.NET Two Factor Auth with Google’s Authenticator App : Lachlan Barclay가 Google Authenticator를 이용한 손쉬운 이중 인증(Two Factor Auth)의 구현방법을 part 1, part 2 로 나누어 설명하였습니다.
+* Lachlan Barclay 가 ASP.NET's Identity 와 Google "Authenticator" 앱을 이용하여 ASP.NET 에서 이중 인증 시스템을 구현한 것을 [part 1](http://lachlanbarclay.net/2016/02/asp-dot-net-two-factor-auth-with-google-authenticator-app), [part 2](http://lachlanbarclay.net/2016/02/asp-dot-net-two-factor-auth-with-google-authenticator-app-part-2) 로 나누어 설명했습니다.
 
-* ASP.NET Web API / OWIN authenticated integration tests without authorization server : Martijn Boland이 ASP.NET Web API OWIN(Open Web Interface for .NET)어플리케이션 개발시 authorization server 서버의 구축 혹은 설정 없이도 인증 테스트를 할 수 있는 방법을 공유했습니다.
+* [ASP.NET Web API / OWIN authenticated integration tests without authorization server](http://blogs.taiga.nl/martijn/2016/03/10/asp-net-web-api-owin-authenticated-integration-tests-without-authorization-server/) : Martijn Boland 가 ASP.NET Web API OWIN(Open Web Interface for .NET) 애플리케이션 개발시 인증 서버 구축이나 설정 없이도 [Microsoft.Owin.Testing.TestServer](https://blogs.msdn.microsoft.com/webdev/2013/11/26/unit-testing-owin-applications-using-testserver/) 를 이용하여 인증을  테스트하는 방법을 공유했습니다.
 
-* Integrating ASP.NET Core Configuration in MVC 4, Integrating ASP.NET Core Dependency Injection in MVC 4 : Scott Dorman이 새로운 ASP.NET Core 에서 향상된 기능 중 Configuration 시스템(기존 web.config등의 파일에 접근하기 위한 ) 기능의 사용법을 MVC 4 프로젝트을 예로 설명했습니다. 또한 ASP.NET Core에서 Dependency Injection의 적용 방법 또한 데모 MVC 4 프로젝트을 이용하여 설명하였습니다.
+* [Integrating ASP.NET Core Configuration in MVC 4](http://scottdorman.github.io/2016/03/19/integrating-asp.net-core-configuration-in-mvc-4/), [Integrating ASP.NET Core Dependency Injection in MVC 4](http://geekswithblogs.net/sdorman/archive/2016/03/17/integrating-asp.net-core-dependency-injection-in-mvc-4.aspx) : Scott Dorman 이 다양한 형식과 환경변수를 지원하는 ASP.NET Core 의 Configuration 사용법과 의존성 주입 방법을 ASP.NET MVC 4 프로젝트를 이용하여 설명했습니다.
 
-* Using Specflow to test Web API : Veronica S. Zotali이 오픈소스 자동화 테스트 라이브러리인 Specflow 를 이용하여 Web API를 테스트 하는 예를 codeproject 사이트에 공유하였습니다.
+* [Using Specflow to test Web API](http://www.codeproject.com/Articles/1086520/Using-Specflow-to-test-Web-API-PART) : Veronica S. Zotali 이  테스트 자동화 라이브러리인 Specflow 를 이용하여 Web API 를 테스트 하는 예제를 codeproject 사이트에 공유했습니다.
 
-* Logging basics in ASP.NET Core (video) : ASP.NET Monsters 웹사이트에 매주 연재되는 내용 중 이번 주 내용으로 ASP.NET Core 에서 Logging 하는 기본적인 방법을 설명하는 동영상이 공유 되었습니다.
+* [Logging basics in ASP.NET Core (video)](http://aspnetmonsters.com/2016/03/monsters-weekly%5Cep16/) : ASP.NET Monsters 사이트의 이번 주 소식으로 애플리케이션에 문제가 생겼을 때 확인할 수 있는 방법인 Logging 을 설명하는 동영상이 소개되었습니다.
 
-* Content Negotiation in ASP.NET Core : Shawn Wildermuth이 ASP.NET Core에서 사용자 웹 요청의 결과로서 content가 반환될 때 XML 혹은 JSON과 같이 정해진 타입(strong type)의 결과를 반환 할 때 생길 수 있는 문제점과 이를 해결하기 위해 사용할 수 있는  Content Negotiation(가변적인 result type을 유연하게 반환하도록 할 수 있는) 기능의 사용방법을 공유했읍니다.
+* [Content Negotiation in ASP.NET Core](http://wildermuth.com/2016/03/16/Content_Negotiation_in_ASP_NET_Core) : Shawn Wildermuth 이 ASP.NET Core 에서 사용자 요청의 결과가 XML 이나 JSON 과 같이 정해진 타입(strong type)인 경우에 발생하는 문제점과 Content Negotiation(가변적인 result type을 유연하게 반환하도록 할 수 있는) 을 사용하여 이를 해결하는 방법을 공유했습니다.
 
 ### F# 소식
-* Building Reactive Services Using Functional Programming : Rachel Reese이 Lambda Days 2016행사에서 반응형 서비스를 만들기 위한 F#언어의 전반적인 기능 소개를 했으며 녹화된 세션이 유투브에 공유되었습니다.
+* [Building Reactive Services Using Functional Programming](https://www.youtube.com/watch?v=lK-VhOOjxN8) : Rachel Reese 가 Lambda Days 2016 행사에서 함수형 프로그래밍 언어의 다양한 기능을 이용하여 반응형 서비스를 개발하는 것을 소개했습니다.
 
-* .NET Machine Learning: F# and Accord.NET : Alena Hall이 2015 센프란시스코에서 있었던 Qcon 세미나에서 .NET 환경에서 개발된 라이브러리인 Accord.NET을 이용해서 사용할 수 는 머신러닝 알고리즘과 F#을 이용하여 이 알고리즘들을 사용방법을 소개했습니다. 당시 녹화된 세션의 동영상이 infoq 사이트에 공유 되었습니다.
+* [.NET Machine Learning: F# and Accord.NET](http://www.infoq.com/presentations/accord-net-machine-learning) : Alena Hall 이 QCon 세미나에서 다양한 머신러닝 알고리즘을 이용할 수 있는 Accord.NET Framework 를 소개하고, Accord.NET 및 F# 환경에서 예제 문제에 머신러닝 알고리즘을 적용하는 방법을 소개했습니다. 
 
-* Functional Reactive Programming with NUI, : Riccardo Terrell이 F#을 이용한 반응형 NUI(Network User Interface)프로그램의 구현 방법을 공유했습니다.
+* [Functional Reactive Programming with NUI](https://www.youtube.com/watch?v=AU2LT18SFP8) : Riccardo Terrell 이 F# 을 이용하여 NUI(Natural User Interface) 를 효과적으로 구현하는 것을 소개했습니다.
 
-* GPUs and Domain Specific Languages for Life Insurance Modeling : 저번 주 소개되었던 Daniel Egloff 의 DSL(domain-specific language) 과 GPU 를 이용한 생명보험 업무모델  F# 개발 경험담이 nvidia의 개발자 블로그에도 공유되었습니다.
+* [GPUs and Domain Specific Languages for Life Insurance Modeling](https://devblogs.nvidia.com/parallelforall/gpus-dsls-life-insurance-modeling/) : 지난주에 소개되었던 Daniel Egloff 의 생명보험 업무모델 개발 경험담이 NVIDIA 개발자 블로그에도 소개되었습니다.
 
-* Earthquake Scraping with a Type Provider, : Edgar Sánchez이 F#의 HTML Type Provider를 이용하여 현재 웹에서 제공되는 지진계측 자료를 효과적으로 수집하는 예를 공유하였습니다
+* [Earthquake Scraping with a Type Provider](https://cogitoergofun.ghost.io/earthquake-scrapping-with-a-type-provider/) : Edgar Sánchez 이 F# 의 HTML Type Provider 를 이용하여 웹에서 제공되는 지진계측 자료를 효과적으로 수집하는 예를 공유하였습니다.
 
-* Functional Architecture is Ports and Adapters, : Mark Seemann가 Functional Architecture가 일반적인 개발 방법론 중 업무로직과 그것의 기술적인 구현을 분리 한다는 개념인 Ports, Adapters architecture(혹은 layered architecture)에 얼마나 적합하고 잘 맞는지 설명해 주었습니다.
+* [Functional Architecture is Ports and Adapters](http://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/) : Mark Seemann 가 함수적 언어를 이용하여 업무로직과 기술적으로 구현하는 것을 분리하는 개념인 Ports 와 Adapters 구조를 쉽게 갖출 수 있음을 설명했습니다.
 
 ### Games
-* Crytek Unveils All-New CRYENGINE V and Community-Centered “Pay What You Want” Model (Now Includes C# Support)
-* Enhanced Visuals, Better Performance, And More: The Unity 5.4 Public Beta is Ready For You to Download : Alex Lian이 향상된 버전의 Unity 5.4 공개 배타 버전을 다운 받을 수 있는 링크와 새로운 기능을 소개 했습니다. 
-* MonoGame 3.5 : Dean Ellis 가 MonoGame 3.5 를 다운받을 수 있는 링크와 릴리즈 소식을 공유 했습니다. 
-* Unity Special Event at GDC (Video) : San Francisco에서 있었던 GDC  2016 세미나에서 Unity의 특별 세션이 있었으며 녹화된 세션의 비디오가 유투브에 공유되었습니다.
+* Crytek 이 GDC(Game Developers Conference) 컨퍼런스에서 원하는 것만 지불하는 새로운 사업모델을 가지며 C# 지원이 추가된 [CRYENGINE V](http://www.crytek.com/news/crytek-unveils-all-new-cryengine-v-and-community-centered--pay-what-you-want--model) 을 소개했습니다. 
+* [Enhanced Visuals, Better Performance, And More : The Unity 5.4 Public Beta is Ready For You to Download](http://blogs.unity3d.com/2016/03/15/enhanced-visuals-better-performance-and-more-the-unity-5-4-public-beta-is-ready/) : Alex Lian 이 Unity 5.4 의 베타 버전의 새로운 기능을 다운 받을 수 있는 링크와 함께 소개했습니다. 
+* [MonoGame 3.5](http://www.monogame.net/2016/03/17/monogame-3-5/) : Dean Ellis 가 MonoGame 3.5 릴리즈 소식을 다운받을 수 있는 링크와 함께 공유했습니다. 
+* [Unity Special Event at GDC (Video)](https://www.youtube.com/watch?v=eN3PsU_iA80) : GDC 컨퍼런스에서 Unity 특별 세션이 있었습니다.
