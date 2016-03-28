@@ -1,7 +1,7 @@
-이번 주에는 많은 개발자들의 가슴을 두근거리게 할 마이크로소프트의 개발자 행사인 Build 가 있습니다. 지난 호를 살펴보시려면 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 방문해 보시기 바랍니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)나 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
+이번 주에는 많은 개발자의 가슴을 두근거리게 할 마이크로소프트의 개발자 행사인 Build 가 있습니다. 지난 호를 살펴보시려면 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 방문해 보시기 바랍니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)나 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
 
 ### Build 소식
-이번 주 수요일부터 시작되는 [Build](https://build.microsoft.com/) 행사로 저희 팀원들이 샌프란시스코에 머무를 예정입니다. Build 행사에서 많은 분들을 뵙고 .NET 의 최신 소식을 전해드리겠습니다. 행사에 직접 참여하지 못하시더라도 생방송으로 keynote 세션을 시청하실 수 있으며, [Channel 9](https://channel9.msdn.com/Events/Build) 에서 녹화된 세션들을 확인하실 수 있습니다. 
+이번 주 수요일부터 시작되는 [Build](https://build.microsoft.com/) 행사로 저희 팀원들이 샌프란시스코에 머무를 예정입니다. Build 행사에서 많은 분을 뵙고 .NET 의 최신 소식을 전해드리겠습니다. 행사에 직접 참여하지 못하시더라도 생방송으로 keynote 세션을 시청하실 수 있으며, [Channel 9](https://channel9.msdn.com/Events/Build) 에서 녹화된 세션들을 확인하실 수 있습니다. 
 
 ### On.NET 소식
 지난번에는 동영상 인터뷰가 없었습니다. [이번 On.NET 동영상 인터뷰](https://www.youtube.com/watch?v=v5YUoeFCoe8)는 쿨라우드 서비스 제공 업체인 Joyent 에서 엔지니어로 근무하고 계시는 Richard Kiene 를 모시고 CoreCLR 과 ASP.NET 을 이용하여 서비스를 개발한 경험에 대해 이야기를 나누었습니다. 
@@ -16,11 +16,11 @@ image
 ### .NET 소식
 * [The Sound of .NET](http://thesoundof.net/) : .NET 과 관련된 팟캐스트 목록을 한눈에 확인하실 수 있습니다. 
 
-* Erik Bergman 이 .NET 에도 적용되어 있는 병렬처리에 대해 [part 1](http://www.erikbergman.net/2016/03/10/high-speed-applications-parallelism-in-net-part-1/) 과 [part 2](http://www.erikbergman.net/2016/03/17/high-speed-applications-parallelism-in-net-part-2/) 에 걸쳐서 설명했습니다.
+* Erik Bergman 이 .NET 에도 적용된 병렬처리에 대해 [part 1](http://www.erikbergman.net/2016/03/10/high-speed-applications-parallelism-in-net-part-1/) 과 [part 2](http://www.erikbergman.net/2016/03/17/high-speed-applications-parallelism-in-net-part-2/) 에 걸쳐서 설명했습니다.
 
 * [Peachpie – the PHP Compiler for .NET](http://blog.peachpie.io/2016/03/intro.html?m=1) : Benjamin Fistein 이 .NET 용 PHP 컴파일러인 Peachpie 를 소개했습니다.
 
-* [LINQPad.QueryPlanVisualizer](http://www.aboutmycode.com/miscellaneous/introducing-linqpad-queryplanvisualizer/) : 많은 개발자 분들이 개발할 때 LINQPad 를 사용하고 계십니다. Giorgi Dalakishvili 가 쿼리의 실행 계획을 바로 확인 할 수 있도록 도와주는 LINQPad 의 에드온인 QueryPlanVisualizer 를 소개했습니다.
+* [LINQPad.QueryPlanVisualizer](http://www.aboutmycode.com/miscellaneous/introducing-linqpad-queryplanvisualizer/) : 많은 개발자분들이 개발할 때 LINQPad 를 사용하고 계십니다. Giorgi Dalakishvili 가 쿼리의 실행 계획을 바로 확인할 수 있도록 도와주는 LINQPad 의 에드온인 QueryPlanVisualizer 를 소개했습니다.
 
 * [NBench Performance Testing – NUnit and ReSharper Integration](http://www.dotnetalgorithms.com/2016/03/nbench-performance-testing-nunit-resharper-integration/) : Andrea Angella 가 성능 측정 도구인 Nbench 가 core library 에 포함되었다는 소식을 전했습니다. 또한, NUnit 과 ReSharper 를 이용한 테스트 방법을 소개했습니다. 
 
@@ -57,7 +57,7 @@ image
 * [Functional Architecture is Ports and Adapters](http://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/) : Mark Seemann 가 함수형 언어를 이용하여 업무로직과 기술적으로 구현하는 것을 분리하는 개념인 Ports 와 Adapters 구조를 쉽게 갖출 수 있음을 설명했습니다.
 
 ### Games
-* Crytek 이 GDC(Game Developers Conference) 컨퍼런스에서 원하는 만큼만 지불하는 새로운 사업모델을 가지고, C# 지원이 추가된 [CRYENGINE V](http://www.crytek.com/news/crytek-unveils-all-new-cryengine-v-and-community-centered--pay-what-you-want--model) 을 소개했습니다. 
+* Crytek 이 GDC(Game Developers Conference) 콘퍼런스에서 원하는 만큼만 지불하는 새로운 사업모델을 가지고, C# 지원이 추가된 [CRYENGINE V](http://www.crytek.com/news/crytek-unveils-all-new-cryengine-v-and-community-centered--pay-what-you-want--model) 을 소개했습니다. 
 * [Enhanced Visuals, Better Performance, And More : The Unity 5.4 Public Beta is Ready For You to Download](http://blogs.unity3d.com/2016/03/15/enhanced-visuals-better-performance-and-more-the-unity-5-4-public-beta-is-ready/) : Alex Lian 이 Unity 5.4 의 베타 버전의 새로운 기능을 다운받을 수 있는 링크와 함께 소개했습니다. 
 * [MonoGame 3.5](http://www.monogame.net/2016/03/17/monogame-3-5/) : Dean Ellis 가 MonoGame 3.5 릴리즈 소식을 다운받을 수 있는 링크와 함께 공유했습니다. 
-* [Unity Special Event at GDC (Video)](https://www.youtube.com/watch?v=eN3PsU_iA80) : GDC 컨퍼런스에서 Unity 특별 세션이 있었습니다.
+* [Unity Special Event at GDC (Video)](https://www.youtube.com/watch?v=eN3PsU_iA80) : GDC 콘퍼런스에서 Unity 특별 세션이 있었습니다.
