@@ -1,13 +1,13 @@
-이번 주에는 많은 개발자의 가슴을 두근거리게 할 마이크로소프트의 개발자 행사인 Build 가 있습니다. 지난 호를 살펴보시려면 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 방문해 보시기 바랍니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)나 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
+이번 주에는 많은 개발자의 가슴을 두근거리게 할 마이크로소프트의 개발자 행사인 //Build/ 2016 가 있습니다. 샌프란시스코 모스콘 센터에서 3월30일부터 4월1일까지 개최되는 이번 행사를 라이브로 시청하시려면(한국시간 3월 31일(목) 새벽 00:30) http://build.microsoft.com 을 방문해 보시기 바랍니다. 한국에서도 3월31일(목) 저녁 무렵에 “빌드 같이 보기” 행사가 있을 예정입니다. 참가를 희망하시는 분은 http://aka.ms/build2016live 를 통해 등록하시기 바랍니다. 지난 호를 살펴보시려면 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 방문해 보시기 바랍니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)나 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
 
 ### Build 소식
-이번 주 수요일부터 시작되는 [Build](https://build.microsoft.com/) 행사로 저희 팀원들이 샌프란시스코에 머무를 예정입니다. Build 행사에서 많은 분을 뵙고 .NET 의 최신 소식을 전해드리겠습니다. 행사에 직접 참여하지 못하시더라도 생방송으로 keynote 세션을 시청하실 수 있으며, [Channel 9](https://channel9.msdn.com/Events/Build) 에서 녹화된 세션들을 확인하실 수 있습니다. 
+이번 주 수요일부터 시작되는 [Build](https://build.microsoft.com/) 행사로 저희 팀원들이 샌프란시스코에 머무를 예정입니다. Build 행사에서 많은 분을 뵙고 .NET 의 최신 소식을 전해드리겠습니다. 행사에 직접 참여하지 못하시더라도 생방송으로 keynote 세션을 시청하실 수 있으며, [Channel 9](https://channel9.msdn.com/Events/Build) 에서 녹화된 세션들을 확인하실 수 있습니다. 한국에서도 김명신 기술 에반젤리스트가 참석하셔서 현장의 발표 내용을 공유 해주실 예정입니다. 
 
 ### On.NET 소식
 지난번에는 동영상 인터뷰가 없었습니다. [이번 On.NET 동영상 인터뷰](https://www.youtube.com/watch?v=v5YUoeFCoe8)는 쿨라우드 서비스 제공 업체인 Joyent 에서 엔지니어로 근무하고 계시는 Richard Kiene 를 모시고 CoreCLR 과 ASP.NET 을 이용하여 서비스를 개발한 경험에 대해 이야기를 나누었습니다. 
 
 ### 금주의 툴 - Octopus Deploy
-Octopus Deploy 는 지속적으로 통합하고 배포할 수 있도록 도와주는 훌륭한 도구입니다. 테스트 서버, 스테이징 서버(국내환경에서는 흔히 QA 서버라도 합니다), 운영서버까지 모든 서버 배포 작업에 이용하실 수 있습니다. 사용하기 편리하여 작은 변경사항도 쉽게 변경하고 좀더 자주 배포할 수 있습니다. 이는 결과적으로 서버 어플리케이션 품질 향상으로 이어질 것 입니다. Octopus Deploy 는 상업용 제품이지만 소규모 팀(5개 이하의 프로젝트로 조합된 결과물을 10개 미만의 서버에 배포하는 경우)에게는 무료로 제공됩니다.
+Octopus Deploy 는 지속 통합(Continuous Integration)과 지속 배포(Continuous Deployment)를 도와주는 유용한 도구입니다. 이를 이용하면 테스트 서버, 스테이징 서버(국내환경에서는 흔히 QA 서버라도 합니다), 운영서버에 이르기까지 다양한 서버에 손쉽게 배포 작업을 수행하실 수 있습니다. 사용하기 편리하여 작은 변경사항도 쉽게 변경하고 좀더 자주 배포할 수 있으며 결과적으로 서버 어플리케이션의 품질 향상에 도움이 될 것 입니다. Octopus Deploy 는 상업용 제품이지만 소규모 팀(5개 이하의 프로젝트로 조합된 결과물을 10개 미만의 서버에 배포하는 경우)에게는 무료로 제공됩니다.
 
 * [Octopus Deploy](https://octopus.com/)
 
@@ -31,7 +31,7 @@ image
 
 * [Extending the ASP.NET Core 1.0 Identity SignInManager](http://stevejgordon.co.uk/extending-the-asp-net-core-identity-signinmanager) : Steve Gordon 이 ASP.NET Core 1.0 의 인증 라이브러리인 SignInManager 클래스를 확장하여 사용했던 경험을 공유했습니다.
 
-* Lachlan Barclay 가 ASP.NET's Identity 와 Google 의 Authenticator App 을 이용하여 ASP.NET 에서 이중 인증 시스템을 구현한 것을 [part 1](http://lachlanbarclay.net/2016/02/asp-dot-net-two-factor-auth-with-google-authenticator-app), [part 2](http://lachlanbarclay.net/2016/02/asp-dot-net-two-factor-auth-with-google-authenticator-app-part-2) 로 나누어 설명했습니다.
+* Lachlan Barclay 가 ASP.NET's Identity 와 Google 의 Authenticator App 을 이용하여 ASP.NET 에서 이중 인증 시스템을 구현한 사례를 [part 1](http://lachlanbarclay.net/2016/02/asp-dot-net-two-factor-auth-with-google-authenticator-app), [part 2](http://lachlanbarclay.net/2016/02/asp-dot-net-two-factor-auth-with-google-authenticator-app-part-2) 로 나누어 설명했습니다.
 
 * [ASP.NET Web API / OWIN authenticated integration tests without authorization server](http://blogs.taiga.nl/martijn/2016/03/10/asp-net-web-api-owin-authenticated-integration-tests-without-authorization-server/) : Martijn Boland 가 ASP.NET Web API OWIN(Open Web Interface for .NET) 애플리케이션 개발시 인증 서버 구축이나 설정 없이도 [Microsoft.Owin.Testing.TestServer](https://blogs.msdn.microsoft.com/webdev/2013/11/26/unit-testing-owin-applications-using-testserver/) 를 이용하여 인증을  테스트하는 방법을 공유했습니다.
 
@@ -39,7 +39,7 @@ image
 
 * [Using Specflow to test Web API](http://www.codeproject.com/Articles/1086520/Using-Specflow-to-test-Web-API-PART) : Veronica S. Zotali 이 테스트 자동화 라이브러리인 Specflow 를 이용하여 Web API 를 테스트 하는 예제를 codeproject 사이트에 공유했습니다.
 
-* [Logging basics in ASP.NET Core (video)](http://aspnetmonsters.com/2016/03/monsters-weekly%5Cep16/) : ASP.NET Monsters 사이트의 이번 주 소식으로 애플리케이션에 문제가 생겼을 때 원인을 찾는데 도움이 되는 Logging 을 설명하는 동영상이 소개되었습니다.
+* [Logging basics in ASP.NET Core (video)](http://aspnetmonsters.com/2016/03/monsters-weekly%5Cep16/) : ASP.NET Monsters 사이트의 이번 주 소식으로 애플리케이션에 문제가 생긴 경우 그 원인을 찾는데 도움이 되는 Logging 을 설명하는 동영상이 소개되었습니다.
 
 * [Content Negotiation in ASP.NET Core](http://wildermuth.com/2016/03/16/Content_Negotiation_in_ASP_NET_Core) : Shawn Wildermuth 이 ASP.NET Core 에서 사용자 요청의 결과가 XML 이나 JSON 과 같이 정해진 타입(strong type)인 경우에 발생하는 문제점과 Content Negotiation(가변적인 result type을 유연하게 반환하도록 돕는)을 사용하여 이를 해결하는 방법을 공유했습니다.
 
