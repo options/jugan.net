@@ -1,5 +1,10 @@
+놀라운 소식들로 가득했던 마이크로소프트의 개발자 행사인 //Build/ 2016 가 성황리에 마무리 되었습니다. 지난 호를 살펴보시려면 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 방문해 보시기 바랍니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)나 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
+
+### Build 소식
+샌프란시스코 모스콘 센터에서 3월 30일부터 4월 1일까지 개최되었던 //Build/ 2016 행사의 녹화된 영상을 [Channel 9](https://channel9.msdn.com/Events/Build) 에서 확인하실 수 있습니다.
+
 ### On.NET 소식
-[지난번 On.NET 동영상 인터뷰](https://www.youtube.com/watch?v=v5YUoeFCoe8)는 쿨라우드 서비스 제공 업체인 Joyent 에서 엔지니어로 근무하고 계시는 Richard Kiene 를 모시고 CoreCLR 과 ASP.NET 을 이용하여 서비스를 개발한 경험에 대해 이야기를 나누었습니다. [이번 On.NET 유튜브 동영상 인터뷰](https://www.youtube.com/watch?v=OjNbBOjcLRk)는 John Kemnetz 님과 함께  VS Code의 C# extension에 대해서 알아보도록 하겠습니다.  On.NET 최초로 이번 주는 몇가지 데모를 포함해서 진행하겠습니다.
+[지난번 On.NET 동영상 인터뷰](https://www.youtube.com/watch?v=v5YUoeFCoe8)는 클라우드 서비스 제공 업체인 Joyent 에서 엔지니어로 근무하고 계시는 Richard Kiene 를 모시고 CoreCLR 과 ASP.NET 을 이용하여 서비스를 개발한 경험에 대해 이야기를 나누었습니다. [이번 On.NET 유튜브 동영상 인터뷰](https://www.youtube.com/watch?v=OjNbBOjcLRk)는 John Kemnetz 님과 함께 Visual Studio Code 의 C# extension 에 대해서 알아보도록 하겠습니다. On.NET 최초로 몇 가지 라이브 데모가 포함되어 있습니다. 
 
 ### 금주의 프로젝트 - Foundatio
 Foundatio 는 느슨한 결합을 가지고 있는 분산 어플리케이션을 위한 오픈 소스 빌딩 블록 셋트입니다. 이 빌딩 블록은 분산 어플리케이션에서 많이 쓰이는 캐싱작업은 물론이고 큐, 병렬작업 시 데이터 잠금 관리, 메시징 작업, 작업(job), 파일 접근, metrics, 그리고 로깅까지 많은 기능의 인터페이스를 포함하고 있습니다. 제공되는 모든 인터페이스들은 인메모리(in-memory) 형태의 데이터 구조를 가지며 레디스(Redis) 라이브러리와 Azure 를 이용하여 구현되었습니다. 
