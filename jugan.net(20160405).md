@@ -49,7 +49,8 @@ Orchard CMS가 IoC 컨테이너로 Autofac을 사용한다는것 또한 주목�
 * IConfiguration in .NetCore : Ryan Southgate이 .Net Core에 포함된 IConfiguration 인터페이스의 사용방법과 기본 기능의 확장 방법을 공유하였습니다.
 * Refactoring Essentials 4.0 Comes With Roslyn Code Converter : Christoph Wille가 코드 리팩토링 기능과 코드변환기능(C# ->VB 으로 변환)이 포함된 비주얼 스트디오의 확장 애드온인 Refactoring Essentials 4.0 버전을 공개했습니다.  
 * Visualization and comparison of sorting algorithms in C# : Mark Monnin이 여러 정렬 알고리즘을 비교를 눈으로 쉽게 확인 할수있는 C# 데모 프로젝트를 공유했습니다.
-* Reduce Coupling: free your code and your tests : Jon Hilton이 개발 코드사이의 의존성을 줄임으로서 개발 코드에 대한 테스트 코드 구축시 쉽게 테스트 코드를 작성하고 또 효율적으로 테스트 코드를 리펙토링하여 좀더 정확한 테스트 결과를 얻을수있는 방법을 공유했습니다. 
+* Reduce Coupling: free your code and your tests : Jon Hilton이 개발 코드사이의 의존성을 줄임으로서 개발 코드에 대한 테스트 코드 구축시 쉽게 코드를 작성하고 또 효율적으로 테스트 코드를 리펙토링할수있도록하여 좀더 정확한 테스트 결과를 얻을수있는 방법을 공유했습니다. 
+ 
 
 ### ASP.NET 소식
 * Dependency Injection in ASP.NET Core : Jeffrey T. Fritz가 ASP.NET Core의 DI(의존성 주입)기능에 대해서 설명했습니다.
