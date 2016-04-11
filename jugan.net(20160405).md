@@ -63,8 +63,8 @@ Orchard CMS가 IoC 컨테이너로 Autofac을 사용한다는것 또한 주목�
 ### F# 소식
 
 *  .NET Core 환경에서 실행할수있는 F#을 쉽게 배울수있는 방법은 
- 1 David Stephens가 진행하는 F# 처음부터 배워보기 동영상 강좌(Getting Started with F# on .NET Core)를 본다
- 2 Github에 공유된 F# 개발 가이드 문서를 참고하여 학습한다 
+> David Stephens가 진행하는 F# 처음부터 배워보기 동영상 강좌(Getting Started with F# on .NET Core)를 본다
+> Github에 공유된 F# 개발 가이드 문서를 참고하여 학습한다 
 
 * Beyond Lists :Phil Trelford 가 개발자 컨퍼런스 "BUILD STUFF"에서 "Beyond Lists"라는 제목의 세션 동영상이 infoq 사이트에 공유되었습니다.
 * Functional Architecture, : Mark Seemann이 "Functional Architecture"라는 주제로 진행한 세션 동영상이 비미오(vimeo)에 공유 되었습니다.
