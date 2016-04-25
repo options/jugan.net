@@ -30,7 +30,7 @@ Dungeon of the Endless 은 Steam과 iTunes에서 사용가능하며 자세한 �
 * Notes from the ASP.NET Community Standup – April 12, 2016 : Jeffrey T. Fritz이 ASP.NET 커뮤니티 행사에서 있었던 내용을 정리했습니다.
 * Shawn Wildermuth이 자신의 블로그 시스템을 .NET Core 기반으로 재 작성했으며 오픈소스로 공유하였습니다. 또한 RSS와 XML RPC 라이브러리도 개발했으며 역시 오픈소스로 공개했습니다.
 * Enhancing Claims with Owin Middleware & Claims Transformation : Darren Hall이 Owin 미들웨어에서 인증 토근의 전환과 인증하는 방법에 대해서 공유했습니다.
-* How to perform partial resource updates with JSON Patch and ASP.NET Core : Ben Foster이 ASP.NET Core 에서 JSON Patch를 이용한 리소스를 부분적으로 업데이트 하는 방법을 공유했습니다.
+* How to perform partial resource updates with JSON Patch and ASP.NET Core : Ben Foster이 ASP.NET Core 에서 JSON Patch를 이용하여 리소스를 부분적으로 업데이트 하는 방법을 공유했습니다.
 * ASP.NET Core custom service based on request : Armen Shimoon이 ASP.NET Core환경에서 요청에 기반한 사용자 서비스구축 방법을 공유했습니다.
 * Entity Framework Core: The Future of EF for ASP.NET Core (video) : Chris Caldwell이 ASP.NET Core에서의  EF 미래라는 제목의 동영상을 공유했습니다.
 * ASP.NET Core on Nano Server Preview by Luke Latham: Luke Latham이 Nano Server용 ASP.NET Core의 프리뷰버전을 소개했습니다.
