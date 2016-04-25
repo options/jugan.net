@@ -34,7 +34,7 @@ Dungeon of the Endless 은 Steam과 iTunes에서 사용가능하며 자세한 �
 * ASP.NET Core custom service based on request : Armen Shimoon이 ASP.NET Core환경에서 요청에 기반한 사용자 서비스구축 방법을 공유했습니다.
 * Entity Framework Core: The Future of EF for ASP.NET Core (video) : Chris Caldwell이 ASP.NET Core에서의  EF 미래라는 제목의 동영상을 공유했습니다.
 * ASP.NET Core on Nano Server Preview by Luke Latham: Luke Latham이 Nano Server용 ASP.NET Core의 프리뷰버전을 소개했습니다.
-* Hooking up ASP.NET Core 1.0 RC1 web api with Auth0 bearer tokens by Hans Arne Vartdal.
+* Hooking up ASP.NET Core 1.0 RC1 web api with Auth0 bearer tokens : Hans Arne Vartdal가  ASP.NET Core 1.0 RC1 환경의 web api에서  Auth0 인증 토큰을 활용하는 방법을 공유하였습니다 .
 * Using Cache in ASP.NET Core 1.0 RC1 : Shawn Wildermuth이 ASP.NET Core 1.0 RC1 환경에서 캐쉬사용 방법을 공유했습니다.
 * Exploring Prefix: A Free ASP.NET Profiling Tool : Mike Brind 가 ASP.NET용 무료 프로파일링 툴을 공유했습니다.
 
