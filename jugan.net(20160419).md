@@ -1,4 +1,4 @@
-지난 토요일에 개최된 "TechDays mini 토요세미나 - Build 2016 특집" 행사에 날씨 좋은 주말에도 불구하고 약 200여분이 함께 해주셨습니다. 성원에 감사드립니다. 
+지난 토요일에 개최된 "TechDays mini 토요세미나 - Build 2016 특집" 행사에 날씨 좋은 주말에도 불구하고 약 200여 분이 함께 해주셨습니다. 성원에 감사드립니다. 
 지난 호를 살펴보시려면 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 방문해 보시기 바랍니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)나 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
 
 ### On.NET 소식
@@ -10,17 +10,17 @@
 Code
 
 ### 금주의 Xamarin 애플리케이션 - Cinemark
-[Cinemark](http://www.cinemark.com/mobile-apps-cinemode) 는 북미 지역에서 유명한 영화관으로 연간 27 억불(약 3조원)의 매출을 기록하며 약 5,600 개의 상영관을 가지고 있습니다. 하이브리드 애플리케이션 개발 프레임워크인 Appcelerator 와 Sencha Touch 을 이용한 애플리케이션 개발에 만족하지 못하고, 결국 Xamarin 을 이용하여 개발하기로 결정했습니다. 그 결과 미국 최대의 영화관이라는 명성에 걸맞는 애플리케이션이 개발되었고 이 애플리케이션을 통한 예약과 결재 트랜잭션이 증가하였습니다. 
+[Cinemark](http://www.cinemark.com/mobile-apps-cinemode) 는 북미 지역에서 유명한 영화관으로 연간 27 억불(약 3조원)의 매출을 기록하며 약 5,600 개의 상영관을 가지고 있습니다. 하이브리드 애플리케이션 개발 프레임워크인 Appcelerator 와 Sencha Touch 을 이용한 애플리케이션 개발에 만족하지 못하고, 결국 Xamarin 을 이용하여 개발하기로 결정했습니다. 그 결과 미국 최대의 영화관이라는 명성에 걸맞은 애플리케이션이 개발되었고 이 애플리케이션을 통한 예약과 결재 트랜잭션이 증가하였습니다. 
 
 image - Application
 
 ### 금주의 컴포넌트 - SharpDevelop’s WPF Designer
-2015년 10월 이후, [SharpDevelop](http://www.icsharpcode.net/OpenSource/SD/Default.aspx) 의 [WPF 디자인 도구](https://github.com/icsharpcode/WpfDesigner/)는 [독립 컴포넌트](https://www.nuget.org/packages/ICSharpCode.WpfDesigner/)가 되어 XAML 디자인 도구와 연동하여 어떠한 애플리케이션에서도 재사용이 가능해졌습니다. 또한 기존에 참조하였던 3rd Party 도구들을 더 이상 사용하지 않기 때문에 [의존성이 없고](http://community.sharpdevelop.net/blogs/jochenkuehner/archive/2016/04/12/wpf-designer-news.aspx) 개발 및 배포 관리도 더욱 쉬워졌습니다. 
+2015년 10월 이후, [SharpDevelop](http://www.icsharpcode.net/OpenSource/SD/Default.aspx) 의 [WPF 디자인 도구](https://github.com/icsharpcode/WpfDesigner/)는 [독립 컴포넌트](https://www.nuget.org/packages/ICSharpCode.WpfDesigner/)가 되어 XAML 디자인 도구와 연동하여 어떠한 애플리케이션에서도 재사용이 가능해졌습니다. 또한, 기존에 참조하였던 3rd Party 도구들을 더 이상 사용하지 않기 때문에 [의존성이 없고](http://community.sharpdevelop.net/blogs/jochenkuehner/archive/2016/04/12/wpf-designer-news.aspx) 개발 및 배포 관리도 더욱 쉬워졌습니다. 
 
 image - Component
 
 ### 금주의 게임 - Dungeon of the Endless
- [Amplitude Studios](http://madewith.unity.com/profiles/amplitude-studios) 에서 개발한 [Dungeon of the Endless](http://madewith.unity.com/games/dungeon-endless) 는 [Unity](http://unity3d.com/) 와 [C#](https://channel9.msdn.com/Series/C-Sharp-Fundamentals-Development-for-Absolute-Beginners)을 이용하여 개발되었으며 던전에서 방어하는 형식의 게임으로 일종의 [로그라이크(Roguelike)](https://en.wikipedia.org/wiki/Roguelike) 게임입니다. 게이머는 혼자 혹은 팀을 이루어 타워를 방어하며 팀을 조종합니다. RPG 형태의 로그라이크 캐릭터와 아이템이 아름답게 구현되어 있습니다. 게이머는 팀내의 영웅이 되어 Auriga 행성에 충돌한 우주선에서 탈출하여 길을 찾습니다. Dungeon of the Endless 의 각각의 스테이지에는 악당 무리가 등장하여 플레이어를 괴롭힙니다. 이들의 목적은 영웅을 죽이거나 우주선으로 돌아가는 동력이 되는 크리스탈을 없애는 것입니다. 각각의 스테이지를 클리어 할 때마다 새로운 팀을 꾸릴 수 있는 기회가 주어지고, 새로운 구성원들과 다른 던전을 계속 탐험하게 됩니다.
+ [Amplitude Studios](http://madewith.unity.com/profiles/amplitude-studios) 에서 개발한 [Dungeon of the Endless](http://madewith.unity.com/games/dungeon-endless) 는 [Unity](http://unity3d.com/) 와 [C#](https://channel9.msdn.com/Series/C-Sharp-Fundamentals-Development-for-Absolute-Beginners)을 이용하여 개발되었으며 던전에서 방어하는 형식의 게임으로 일종의 [로그라이크(Roguelike)](https://en.wikipedia.org/wiki/Roguelike) 게임입니다. 게이머는 혼자 혹은 팀을 이루어 타워를 방어하며 팀을 조종합니다. RPG 형태의 로그라이크 캐릭터와 아이템이 아름답게 구현되어 있습니다. 게이머는 팀내의 영웅이 되어 Auriga 행성에 충돌한 우주선에서 탈출하여 길을 찾습니다. Dungeon of the Endless 의 각각의 스테이지에는 악당 무리가 등장하여 플레이어를 괴롭힙니다. 이들의 목적은 영웅을 죽이거나 우주선으로 돌아가는 동력이 되는 크리스털을 없애는 것입니다. 각각의 스테이지를 클리어할 때마다 새로운 팀을 꾸릴 기회가 주어지고, 새로운 구성원들과 다른 던전을 계속 탐험하게 됩니다.
 
 Steam 과 iTunes 에서 Dungeon of the Endless 를 다운로드 받으실 수 있으며, 자세한 내용은 [링크](http://madewith.unity.com/games/dungeon-endless)에서 확인하시기 바랍니다.
 
@@ -31,7 +31,7 @@ image - Game
 * [Introducing the Microsoft .NET Framework Repair Tool Version 1.3](https://blogs.msdn.microsoft.com/dotnet/2016/04/19/introducing-the-microsoft-net-framework-repair-tool-version-1-3/) : Rakesh Ranjan Singh 가 .NET Framework 의 이슈를 점검하고 업데이트 하는 도구인 Microsoft .NET Framework Repair Tool 을 소개합니다.   
 * [How to host your own NuGet server and package feed](http://www.hanselman.com/blog/HowToHostYourOwnNuGetServerAndPackageFeed.aspx) : Scott Hanselman 이 NuGet Server 를 설치하고 운영하는 방법을 소개합니다. 
 * [Moq on .NET Core](http://dotnetliberty.com/index.php/2016/02/22/moq-on-net-core/) : Armen Shimoon 이 .NET Core 에서 Moq 의 활용법을 공유했습니다. 
-* [Visual Studio Code 1.0 has been released!](http://code.visualstudio.com/blogs/2016/04/14/vscode-1.0) : Visual Studio Code 의 첫번째 정식버전이 출시되었습니다. 
+* [Visual Studio Code 1.0 has been released!](http://code.visualstudio.com/blogs/2016/04/14/vscode-1.0) : Visual Studio Code 의 첫 번째 정식 버전이 출시되었습니다. 
 
 ### ASP.NET 소식
 * [An update on ASP.NET Core 1.0 RC2](http://www.hanselman.com/blog/AnUpdateOnASPNETCore10RC2.aspx) : Scott Hanselman 이 ASP.NET Core 1.0 RC2 의 업데이트 정보를 소개합니다. 
@@ -47,11 +47,11 @@ image - Game
 * [Exploring Prefix: A Free ASP.NET Profiling Tool](http://www.mikesdotnetting.com/article/296/exploring-prefix-a-free-asp-net-profiling-tool) : Mike Brind 가 ASP.NET 애플리케이션의 무료 Profiler 도구인 Prefix 를 소개합니다.
 
 ### F# 소식
-* [F# eXchange 2016](https://skillsmatter.com/conferences/7145-f-exchange-2016#skillscasts) : 2016년도 F# eXchange 콘퍼런스에서 발표된 12개 이상의 세션이 녹화되여 온라인 상에 공유되었습니다. 
-* [Happy F# Day! Growing and Getting Better Each Year](http://fsharpforfunandprofit.com/posts/happy-fsharp-day-2/) : Scott Wlaschin 가 F# 탄생을 기념하며 지난 1년간의 F# 의 발전모습에 대하여 포스팅했습니다.
+* [F# eXchange 2016](https://skillsmatter.com/conferences/7145-f-exchange-2016#skillscasts) : 2016년도 F# eXchange 콘퍼런스에서 발표된 12개 이상의 세션이 녹화되여 온라인상에 공유되었습니다. 
+* [Happy F# Day! Growing and Getting Better Each Year](http://fsharpforfunandprofit.com/posts/happy-fsharp-day-2/) : Scott Wlaschin 가 F# 탄생을 기념하며 지난 1년간의 F# 의 발전 모습에 대하여 포스팅했습니다.
 * [.NET Core 에서 Atom 및 Visual Studio Code 에서 사용가능한 Ionide extension 을 지원하는 소식](https://twitter.com/k_cieslak/status/719923250583769088)이 트위터에 공유되었습니다.
 * [Async as Surrogate IO](http://blog.ploeh.dk/2016/04/11/async-as-surrogate-io/) : Mark Seemann 이 IO 작업을 대신하기 위해 Async 를 사용하는 방법을 소개했습니다. 
 * [Optionals](http://sidburn.github.io/blog/2016/04/11/optionals) : David Raab 이 null 대신 Optionals 을 사용하는 것의 이점에 대해 설명합니다. 
-* [Functional Error Handling in F# by Example](http://blog.leifbattermann.de/2016/04/09/functional-error-handling-in-fsharp-by-example/) : Leif Battermann 가 F# 에서의 함수지향적 예외처리방법을 소개합니다. 
+* [Functional Error Handling in F# by Example](http://blog.leifbattermann.de/2016/04/09/functional-error-handling-in-fsharp-by-example/) : Leif Battermann 가 F# 에서의 함수 지향적 예외처리방법을 소개합니다. 
 
 송기수 이사님 소개멘트 
