@@ -35,7 +35,7 @@ Sqor Sports는 운동 선수와 이들을 응원하는 팬들을 연결시켜주
 * Deploying ASP.NET Core RC1 to Azure App Services : Shawn Wildermuth 가 ASP.NET Core RC1로 개발된 어플리케이션을 Azure App Services에 배포하는 방법을 공유했습니다.
 * GitHub authentication with ASP.NET Core (video) : ASP.NET Core에서 GitHub의 인증을 이용하는 방법을 the ASP.NET Monsters에서 공유해주었습니다.
 
-### F#
+### F# 소식
 * F# Survey 2016 results, by fsharpWorks. : fsharpWorks에서 실시한 F# 관련 설문조사 결과가 나왔습니다.
 * Nearly Everything You Ever Wanted to Know About F# Active Patterns but were Afraid to Ask, : Paulmichael Blasucci. 이 F# Active Patterns에 대한 몇 가지 궁금증에 대한 설명을 해주었습니다.
 * Unfrying Your Brain with F#, : Andrea Magnorsky이 F#에 대해서 전반적인 언어특징에 대해서 소개해 주었습니다.
