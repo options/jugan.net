@@ -1,10 +1,10 @@
-[Xamarin Evolve 행사](https://evolve.xamarin.com/)에 관한 관심이 여전히 뜨겁습니다. Visual Studio 2015 의 차기버전인 [Visual Studio "15"](https://www.visualstudio.com/news/vs15-preview-vs) 의 새로운 인스톨러 및 다양한 기능도 확인해보시기 바랍니다. 지난 호를 살펴보시려면 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 방문해 보시기 바랍니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)나 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
+[Xamarin Evolve 행사](https://evolve.xamarin.com/)에 관한 관심이 여전히 뜨겁습니다. Visual Studio 2015 의 차기 버전인 [Visual Studio "15"](https://www.visualstudio.com/news/vs15-preview-vs) 의 새로운 인스톨러 및 다양한 기능도 확인해보시기 바랍니다. 지난 호를 살펴보시려면 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 방문해 보시기 바랍니다. 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)나 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
 
 ### Xamarin Evolve
 세계 최대 규모의 크로스 플랫폼 모바일 이벤트인 Xamarin Evolve 콘퍼런스가 지난주 개최되었습니다. 저희 .NET 팀도 새 식구가 된  Xamarin 팀과 함께 참석했습니다. 애플의 공동 창업자인 Steve Wozniak 과 미국 Discovery 채널의 인기 쇼인 Mythbusters 의 진행자로 유명한 Grant Imahara 등 [유명한 스피커들](https://evolve.xamarin.com/#speakers)의 세션을 포함한 [행사의 전체 세션](https://www.youtube.com/watch?v=jgXCB51e4ak&list=PLM75ZaNQS_Fb7I6E9MDnMgwW1GGZIijf_)을 유튜브를 통해 다시 보실 수 있습니다.
 
 ### On.NET 소식
-[지난 번 On.NET 유튜브 동영상 인터뷰](https://www.youtube.com/watch?v=ZjN9kREzPMs)는 Benjamin Fistein, Jakub Míšek 와 함께 .NET 에서 동작하는 Roslyn 기반의 PHP 오픈소스 컴파일러인 [Peachpie](http://www.peachpie.io/) 에 대해서 이야기 나누었습니다.  
+[지난번 On.NET 유튜브 동영상 인터뷰](https://www.youtube.com/watch?v=ZjN9kREzPMs)는 Benjamin Fistein, Jakub Míšek 와 함께 .NET 에서 동작하는 Roslyn 기반의 PHP 오픈소스 컴파일러인 [Peachpie](http://www.peachpie.io/) 에 대해서 이야기 나누었습니다.  
 
 ### 금주의 패키지- Flurl
 [Flurl](http://tmenier.github.io/Flurl/fluent-http/) 은 원격 HTTP 리소스를 쉽게 호출할 수 있도록 도와주는 흥미로운 라이브러리 입니다. 아래 코드는 Oauth 인증을 이용하여 원격 API 를 호출하는 예제입니다.
@@ -12,7 +12,7 @@
 //코드
 
 ### 금주의 Xamarin 애플리케이션 - Sqor Sports
-[Sqor Sports](https://sqor.com/) 는 운동선수를 팬과 연결해 주며 운동선수 개인의 브랜드를 이용해 수익을 창출할 수 있도록 도와주는 소셜 네트워크 애플리케이션 입니다. Sqor 의 개발팀은 Xamarin 을 이용하여 개발함으로써 주요 고객인 유명 운동선수들에게 완성도 높은 애플리케이션을 빠르게 서비스할 수 있었습니다.
+[Sqor Sports](https://sqor.com/) 는 운동선수를 팬과 연결해 주며 운동선수 개인의 브랜드를 이용해 수익을 창출할 수 있도록 도와주는 소셜 네트워크 애플리케이션입니다. Sqor 의 개발팀은 Xamarin 을 이용하여 개발함으로써 주요 고객인 유명 운동선수들에게 완성도 높은 애플리케이션을 빠르게 서비스할 수 있었습니다.
 
 //이미지  
 
@@ -36,7 +36,7 @@
 * [Learn how to upgrade an ASP.NET Core application from RC1 to RC2 with Damien, Scott, and Jon during last week’s ASP.NET community standup (video) by Jeffrey T. Fritz.](https://blogs.msdn.microsoft.com/webdev/2016/04/28/notes-from-the-asp-net-community-standup-april-26-2016/) : Jeffrey T. Fritz는 지난주 있었던 ASP.NET community standup 모임의 녹화된 영상을 공유했습니다. ASP.NET Core RC2 에 대한 내용이 소개되었습니다. 
 * [A development workflow with Docker and .NET Core](https://www.jayway.com/2016/04/22/search-effective-workflow-docker-net-core/) : Christian Jacobsen 이 .NET Core 와 Docker 을 이용한 개발과정(Workflow)을 소개했습니다.
 * [Fritz’s 10 minute tips: DI in ASP.NET Core (video)](http://www.jeffreyfritz.com/2016/04/fritzs-10-minute-tips/) : Jeffrey T. Fritz. 가 ASP.NET Core 에서 DI(dependency injection, 의존성 주입) 방법을 설명했습니다.
-* [Deploying ASP.NET Core RC1 to Azure App Services](https://wildermuth.com/2016/04/29/Deploying-ASP-NET-Core-RC1-to-Azure-App-Services) : Shawn Wildermuth 가 ASP.NET Core RC1 으로 개발된 어플리케이션을 Azure App Services 에 배포하는 방법을 소개했습니다.
+* [Deploying ASP.NET Core RC1 to Azure App Services](https://wildermuth.com/2016/04/29/Deploying-ASP-NET-Core-RC1-to-Azure-App-Services) : Shawn Wildermuth 가 ASP.NET Core RC1 으로 개발된 애플리케이션을 Azure App Services 에 배포하는 방법을 소개했습니다.
 * [GitHub authentication with ASP.NET Core (video)](http://aspnetmonsters.com/2016/04/github-authentication-asp-net-core/) : ASP.NET Monsters 에서 GitHub 인증을 ASP.NET Core 에서 이용하는 방법을 공유했습니다.
 
 ### F# 소식
