@@ -1,9 +1,16 @@
+ 이번주에는 재미난 세미나 소식이 많습니다. Xamarin 세미나. 
+ 여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 [Gist](https://gist.github.com/options/e9fc443b8c882157fe4a)나 [주간닷넷 페이지](https://www.facebook.com/jugan.net/)를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
+   
  5/15일 ASP.NET Core RC2, .NET Core RC2, and the preview 1 of the associated SDK. We also released Entity Framework Core RC2 가 릴리즈 되었습니다.
 * .NET Core RC2 SDK Preview 1 download
 * .NET Core RC2 Announcement
 * ASP.NET Core RC2 Announcement 
 * Release notes
 새로운 닷넷 개발 정보 웹사이트가 오픈 되었습니다. 주소는 아주 단순하게 dot.net 이네요.
+
+###ASP.NET Core 강좌소식 
+Taeyo.NET에서 ASP.NET 강좌소식 
+Xamarin 행사 소식!
 
 ### On.NET 소식
 지난번 On.NET 인터뷰에는 5/15일 날짜로 저희가 릴리즈한 .net 기술들에 대해 얘기 했습니다. 
@@ -33,44 +40,44 @@ Dex는 Dreadlocks LTD에의해서 Unity와 C#으로 만들어졌습니다. 현�
 
 ### .NET 소식
 
-* .NET Core RC2 가 발표되었습니다
-* A billion is cool by Phil Haack, and Nuget’s post on the same topic with some cool stats : Phil Haack가 Nuget 패키지가 10억건 다운로드를 기록한 소식(링크)을 전해주었습니다. 또한 몇가지 부가적인 통계정보와 함께 동일 내용이  [링크]에도 게시되었습니다. 
-* Visual Studio “15” Preview 2 : John Montgomery가 Visual Studio “15” Preview 2의 정보를 공유해주었습니다.
-* All Together Now: .NET, RHEL, Hyper-V and VSCode : Don Schenck가 기업용 리눅스인 Red Hat Enterprise Linux(RHEL) 환경에서 .NET, Hyper-V 그리고  VSCode을 이용한 작업방법을 공유해주었습니다.
-* ServiceStack, a journey into the madness of microservices, part 3 : Scott Mackay 가 "ServiceStack"를 설명한 마이크로서비스 시리즈 3편을 공유해주었습니다.
-* Automated Testing of Message Based Systems, and How we do Semantic Logging : Jeremy Miller이 메시지 기반 시스템에서 테스트자동화에 대해서 공유[링크]해주었으며 의미있는 로그를 체계적 남기는 방법에 대해서 공유[링크]해주었습니다. 
-* Announcing MSBuild Structured Log: record and visualize your builds : Kirill Osenkov가 MSBuild 의 구조화된 로그정보 체계인 "MSBuild Structured Log"를 공유해주었습니다.
-* Welcoming Protobuild to the .NET Foundation by the .NET Foundation : Protobuild 가  .NET Foundation의 멤버가 되었습니다.
-* The Business Case for Actors and Akka.NET : Aaron Stannard이 Akka.NET 개발 환경에서 Actors 모델에 대해 설명해주었습니다.
-* Fun with Expressions : robmikh이 Expressions 에 대해서 소개해 주었습니다.
+* [.NET Core RC2](https://blogs.msdn.microsoft.com/dotnet/2016/05/16/announcing-net-core-rc2/) 가 발표되었습니다
+* [A billion is cool](http://haacked.com/archive/2016/05/11/billion-downloads/) by Phil Haack, and [Nuget’s post on the same topic with some cool stats](http://blog.nuget.org/20160510/The-1st-Billion.1.html) : Phil Haack가 Nuget 패키지가 10억건 다운로드를 기록한 소식(링크)을 전해주었습니다. 또한 몇가지 부가적인 통계정보와 함께 동일 내용이  [링크]에도 게시되었습니다. 
+* [Visual Studio “15” Preview 2](https://blogs.msdn.microsoft.com/visualstudio/2016/05/10/visual-studio-15-preview-2/) : John Montgomery가 Visual Studio “15” Preview 2의 정보를 공유해주었습니다.
+* [All Together Now: .NET, RHEL, Hyper-V and VSCode](http://developers.redhat.com/blog/2016/05/16/all-together-now-net-rhel-hyper-v-and-vscode/) : Don Schenck가 기업용 리눅스인 Red Hat Enterprise Linux(RHEL) 환경에서 .NET, Hyper-V 그리고  VSCode을 이용한 작업방법을 공유해주었습니다.
+* [ServiceStack, a journey into the madness of microservices, part 3](http://www.wwwlicious.com/2016/05/11/servicestack-microservices-discovery-routing-3/) : Scott Mackay 가 "ServiceStack"를 설명한 마이크로서비스 시리즈 3편을 공유해주었습니다.
+* [Automated Testing of Message Based Systems](https://jeremydmiller.com/2016/05/16/automated-testing-of-message-based-systems/), and [How we do Semantic Logging](https://jeremydmiller.com/2016/05/12/how-we-do-semantic-logging/) : Jeremy Miller이 메시지 기반 시스템에서 테스트자동화에 대해서 공유[링크]해주었으며 의미있는 로그를 체계적 남기는 방법에 대해서 공유[링크]해주었습니다. 
+* [Announcing MSBuild Structured Log: record and visualize your builds](https://blogs.msdn.microsoft.com/kirillosenkov/2016/05/13/announcing-msbuild-structured-log-record-and-visualize-your-builds/) : Kirill Osenkov가 MSBuild 의 구조화된 로그정보 체계인 "MSBuild Structured Log"를 공유해주었습니다.
+* [Welcoming Protobuild to the .NET Foundation by the .NET Foundation](http://www.dotnetfoundation.org/blog/protobuild-welcome) : Protobuild 가  .NET Foundation의 멤버가 되었습니다.
+* [The Business Case for Actors and Akka.NET](https://petabridge.com/blog/akkadotnet-business-case/) : Aaron Stannard이 Akka.NET 개발 환경에서 Actors 모델에 대해 설명해주었습니다.
+* [Fun with Expressions](http://blog.robmikh.com/xaml/uwp/composition/2016/04/28/fun-with-expressions.html) : robmikh이 Expressions 에 대해서 소개해 주었습니다.
 
 ### ASP.NET 소식
-* ASP.NET Core RC2 Announcement : ASP.NET Core RC2가 발표되었습니다.
-* Notes from the ASP.NET Community Standup – May 10, 2016 : Jeffrey T. Fritz 가 5/10 ASP.NET Community Standup 행사에서 있었던 내용을 정리했습니다.
-* Upgrading from ASPNET Core RC1 to RC2 Guide : Steve Smith가 ASPNET Core RC1에서 RC2 로 업그레이드 하는 방법을 가이드 해주었습니다.
-* Getting Ready for ASP.NET Core RC2, Converting an ASP.NET Core RC1 Project to RC2, and Writing API Controllers in ASP.NET MVC 6 : Shawn Wildermuth이  ASP.NET Core RC2, ASP.NET Core RC1 프로젝트를 RC2로 변환하는 방법[링크]과  ASP.NET MVC 6에서 API Controllers 를 구현하는 방법[링크]에 대해서 공유해주었습니다.
-* ASP.NET Core RC2, Docker and HipChat Connect add-on : Laurent Kempé이 ASP.NET Core RC2, Docker 그리고HipChat Connect 에드온에 대해서 설명해주었습니다.
-* 5 Factors to Consider When Converting a WebForms App to ASP.NET MVC Core : Jonathan Danylko이  WebForms App 을 ASP.NET MVC Core 프로젝트로 변환할 경우 주의해야 할 사항 5가지를 소개해주었습니다.
-* NDC Oslo Web API sample updated to ASP.NET Core RC2, and IP Filtering in ASP.NET Web API by Filip W. : Filip W가 과거에 자신이 진행한 기술 세미나 샘플을 ASP.NET Core RC2버전으로 업데이트했다는 소식[링크]과 ASP.NET Web API 프로젝트에서 IP 필터링하는 방법에 대해서 공유해주었습니다.
-* Modulus: Commercial Docker Containers for running ASP.NET Core Applications by Lohith. : Telerik에 근무하는 Lohith가 자사에서 개발되고있는 ASP.NET Core용 상용 Docker Containers인 "Modulus"에 대해서 소개해 주었습니다.
-* Microservice with ASP.NET Core & MVC 6 on Linux : Michał Ogłuszka이 ASP.NET Core & MVC 6 환경에서 리눅스에서 마이크로서비스를 사용하는 방법을 설명했습니다.
-* Using the C# 6.0 nameof Operator in ASP.NET MVC Razor Views : Jason Roberts이 ASP.NET MVC Razor Views 에서 C# 6.0의 nameof 연산자 사용법에 대해서 설명해주었습니다.
+* [ASP.NET Core RC2 Announcement](https://blogs.msdn.microsoft.com/webdev/2016/05/16/announcing-asp-net-core-rc2/) : ASP.NET Core RC2가 발표되었습니다.
+* [Notes from the ASP.NET Community Standup – May 10, 2016](https://blogs.msdn.microsoft.com/webdev/2016/05/11/notes-from-the-asp-net-community-standup-may-10-2016/) : Jeffrey T. Fritz 가 5/10 ASP.NET Community Standup 행사에서 있었던 내용을 정리했습니다.
+* [Upgrading from ASPNET Core RC1 to RC2 Guide](http://ardalis.com/upgrading-from-aspnet-core-rc1-to-rc2-guide) : Steve Smith가 ASPNET Core RC1에서 RC2 로 업그레이드 하는 방법을 가이드 해주었습니다.
+* [Getting Ready for ASP.NET Core RC2](https://wildermuth.com/2016/05/13/Getting-Ready-for-ASP-NET-Core-RC2), [Converting an ASP.NET Core RC1 Project to RC2](https://wildermuth.com/2016/05/17/Converting-an-ASP-NET-Core-RC1-Project-to-RC2), [and Writing API Controllers in ASP.NET MVC 6](https://wildermuth.com/2016/05/10/Writing-API-Controllers-in-ASP-NET-MVC-6) : Shawn Wildermuth이  ASP.NET Core RC2, ASP.NET Core RC1 프로젝트를 RC2로 변환하는 방법[링크]과  ASP.NET MVC 6에서 API Controllers 를 구현하는 방법[링크]에 대해서 공유해주었습니다.
+* [ASP.NET Core RC2, Docker and HipChat Connect add-on](http://laurentkempe.com/2016/05/16/ASP-NET-Core-RC2-Docker-and-HipChat-Connect-add-on/) : Laurent Kempé이 ASP.NET Core RC2, Docker 그리고HipChat Connect 에드온에 대해서 설명해주었습니다.
+* [5 Factors to Consider When Converting a WebForms App to ASP.NET MVC Core](http://www.danylkoweb.com//Blog/5-factors-to-consider-when-converting-a-webforms-app-to-aspnet-mvc-core-ED) : Jonathan Danylko이  WebForms App 을 ASP.NET MVC Core 프로젝트로 변환할 경우 주의해야 할 사항 5가지를 소개해주었습니다.
+* [NDC Oslo Web API sample updated to ASP.NET Core RC2, and IP Filtering in ASP.NET Web API](http://www.strathweb.com/2016/05/ndc-oslo-web-api-sample-updated-to-asp-net-core-rc2/) : Filip W가 과거에 자신이 진행한 기술 세미나 샘플을 ASP.NET Core RC2버전으로 업데이트했다는 소식[링크]과 ASP.NET Web API 프로젝트에서 IP 필터링하는 방법에 대해서 공유해주었습니다.
+* [Modulus: Commercial Docker Containers for running ASP.NET Core Applications](https://telerikhelper.net/2016/05/10/modulus-commercial-docker-containers-for-running-asp-net-core-applications/) : Telerik에 근무하는 Lohith가 자사에서 개발되고있는 ASP.NET Core용 상용 Docker Containers인 "Modulus"에 대해서 소개해 주었습니다.
+* [Microservice with ASP.NET Core & MVC 6 on Linux](http://michalogluszka.pl/daj-sie-poznac/microservice-with-asp-net-core-mvc-6/) : Michał Ogłuszka이 ASP.NET Core & MVC 6 환경에서 리눅스에서 마이크로서비스를 사용하는 방법을 설명했습니다.
+* [Using the C# 6.0 nameof Operator in ASP.NET MVC Razor Views](http://dontcodetired.com/blog/post/Using-the-C-60-nameof-Operator-in-ASPNET-MVC-Razor-Views.aspx) : Jason Roberts이 ASP.NET MVC Razor Views 에서 C# 6.0의 nameof 연산자 사용법에 대해서 설명해주었습니다.
 
 ### Xamarin 소식
-* Xamarin.iOS, the garbage collector and me : Krumelur가 Xamarin.iOS의 가비지 컬렉터의 정보를 공유해주었습니다??? 
-* Realm Xamarin, a reactive database for .NET developers. : Xamarin 환경에서 " SQLite"을 대체할 수 있는 새로운 모바일 데이터베이스 엔진 "Realm Xamarin"을 소개하였습니다.
-* The first ever pull request to Xamarin Forms by thebeekeeper : Xamarin Forms의 버그수정사항이 공유되었습니다.
-* Jason Smith’s Xamarin Forms Performance Tips : Kent Boogaart이 Xamarin Forms의 성능 향상을 위한 팁을 공유해주었습니다.
-* MvvmCross Hamburger menu for iOS : Marc Bruins이 iOS 에서 사용할 수 있는 MvvmCross의 헴버그메뉴를 소개해주었습니다.
-* Xamarin Dev Ops with VSTS – Getting Started : Richard Woollcott이 Xamarin 모바일 개발/운영환경에서 VSTS 의 활용방법을 가이드 해주었습니다.
+* [Xamarin.iOS, the garbage collector and me](https://krumelur.me/2015/04/27/xamarin-ios-the-garbage-collector-and-me/) : Krumelur가 Xamarin.iOS의 가비지 컬렉터의 정보를 공유해주었습니다??? 
+* [Realm Xamarin, a reactive database for .NET developers](https://realm.io/news/introducing-realm-xamarin/) : Xamarin 환경에서 " SQLite"을 대체할 수 있는 새로운 모바일 데이터베이스 엔진 "Realm Xamarin"을 소개하였습니다.
+* [The first ever pull request to Xamarin Forms by thebeekeeper](https://github.com/xamarin/Xamarin.Forms/pull/144) : Xamarin Forms의 버그수정사항이 공유되었습니다.
+* [Jason Smith’s Xamarin Forms Performance Tips](http://kent-boogaart.com/blog/jason-smith's-xamarin-forms-performance-tips) : Kent Boogaart이 Xamarin Forms의 성능 향상을 위한 팁을 공유해주었습니다.
+* [MvvmCross Hamburger menu for iOS](http://www.marcbruins.nl/xamarin-ios-hamburger-menu-mvvmcross/) : Marc Bruins이 iOS 에서 사용할 수 있는 MvvmCross의 헴버그메뉴를 소개해주었습니다.
+* [Xamarin Dev Ops with VSTS – Getting Started](http://www.thexamarinjournal.com/xamarin-dev-ops-with-vsts-getting-started/) : Richard Woollcott이 Xamarin 모바일 개발/운영환경에서 VSTS 의 활용방법을 가이드 해주었습니다.
 
 ### F# 소식
-* Releasing F# Language Documentation as Open-Source : Den Delimarsky F# 문서가 오픈소스 형태로 릴리즈 되었습니다.
-* New Visual F# Portal with Open Source content : 오픈소스 컨텐츠[링크]를 포함한 새로운 비주얼 F# 포털[링크]이 릴리즈 되었습니다.
-* Functional Web Applications using F# and Suave, : Tomas Jansson가 F#을 이용한 함수지향적 웹 어플리케이션 구현에 대해서 소개해주었습니다.
-* Functions Composition in F# and Scala, : Victor Michaïlovich이 F# 과 Scala를 이용한 함수의 구성에 대해서 설명하였습니다
-* Exploring Azure with F# Azure Storage Type Provider : Pierre-Luc Mahe이 Azure 에서 사용할 수 있는 F# Azure Storage Type Provider에 대해서 설명해주었습니다. 
+* [Releasing F# Language Documentation as Open-Source](https://blogs.msdn.microsoft.com/dotnet/2016/05/17/releasing-f-language-documentation-as-open-source/) : Den Delimarsky F# 문서가 오픈소스 형태로 릴리즈 되었습니다.
+* [New Visual F# Portal with Open Source content](https://msdn.microsoft.com/en-us/visualfsharpdocs/conceptual/visual-fsharp-development-portal) : 오픈소스 컨텐츠[링크]를 포함한 새로운 비주얼 F# 포털[링크]이 릴리즈 되었습니다.
+* [Functional Web Applications using F# and Suave](https://vimeo.com/166174201) : Tomas Jansson가 F#을 이용한 함수지향적 웹 어플리케이션 구현에 대해서 소개해주었습니다.
+* [Functions Composition in F# and Scala](https://vba.github.io/posts/20160503-functions-composition-in-fsharp-and-scala.html#functions-composition-in-f-and-scala) : Victor Michaïlovich이 F# 과 Scala를 이용한 함수의 구성에 대해서 설명하였습니다
+* [Exploring Azure with F# Azure Storage Type Provider](http://www.infoq.com/news/2016/05/fsharp-azure-storage) : Pierre-Luc Mahe이 Azure 에서 사용할 수 있는 F# Azure Storage Type Provider에 대해서 설명해주었습니다. 
 
 ### Games
-* [Build A Unity Game Part 2 (video)] : Stacey Haffnerrk 가 Unity 개발 환경에서 게임의 배경을 만들고, Visual Studio 의 스크립트를 작성하는 방법 파트2 을 소개했습니다. 
-* Unity and IPv6 Support, : Mantas Puida가 유니티에서 IPv6 를 활용하는 방법을 설명하였습니다.
+* [Build A Unity Game Part 2 (video)](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Build-A-Unity-Game-Part-2) : Stacey Haffnerrk 가 Unity 개발 환경에서 게임의 배경을 만들고, Visual Studio 의 스크립트를 작성하는 방법 파트2 을 소개했습니다. 
+* [Unity and IPv6 Support](http://blogs.unity3d.com/2016/05/10/unity-and-ipv6-support/) : Mantas Puida가 유니티에서 IPv6 를 활용하는 방법을 설명하였습니다.
