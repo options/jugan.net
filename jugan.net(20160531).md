@@ -5,7 +5,7 @@
 
 6월 7-9일까지 주요 .NET Community의 리더와 Microsoft product 팀의 스피커가 진행하는 가상 온라인 컨퍼런스 DotNetConf의 다양한 세션이 3일간 실시간 생방송으로 진행됩니다. 실시간 생방송 세션 참여하시고 궁금한 사항은 세션이 끝난 후 Q&A 시간에 직접 질문하실 수도 있습니다. 컨퍼런스 기간중 진행되는 모든 라이브 세션은 Channel9을 통해서 보실 수 있습니다.
 
-지금 시점이 닷넷 개발자로서 경험을 가지기 좋은 시기입니다. 웹, 모바일, 데스크톱, 게임, 서비스, 라이브러리, 다양한 플랫폼 그리고 닷넷을 지원하는 다양한 디바이스들의 개발방법을 학습해 보세요. .NET Core와 ASP.NET Core, C#, F#, Roslyn, Visual Studio, Xamarin등 유용하고 풍부한 세션들이 진행될 예정입니다. 예정된 세션일정과 스피커 정보를 확인[링크]해 보세요. DotNetConf의 키노츠는 Miguel de Icaza, Scott Hunter, 그리고 Scott Hanselman이 진행할 예정이며 여러 커뮤니티에서도 많은 컨텐트들을 준비하고 있습니다.
+지금 시점이 닷넷 개발자로서 경험을 가지기에 가장 좋은 시기인것 같습니다. 웹, 모바일, 데스크톱, 게임, 서비스, 라이브러리, 다양한 플랫폼 그리고 닷넷을 지원하는 다양한 디바이스들의 개발방법을 학습해 보세요. .NET Core와 ASP.NET Core, C#, F#, Roslyn, Visual Studio, Xamarin등 유용하고 풍부한 세션들이 진행될 예정입니다. 예정된 세션일정과 스피커 정보를 확인[링크]해 보세요. DotNetConf의 키노츠는 Miguel de Icaza, Scott Hunter, 그리고 Scott Hanselman이 진행할 예정이며 여러 커뮤니티에서도 많은 컨텐트들을 준비하고 있습니다.
 
 좀더 자세한 정보는 여기[링크] 웹사이트를 확인하시고 트위터의  #dotnetconf & @dotnet를 통해서 빠른 정보 업데이트를 받으세요
 
