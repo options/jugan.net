@@ -1,5 +1,5 @@
 ### DotNetConf 7-9 June
- .NET의 많은 기능을 다시 한번 학습 할 수 있는 DotNetConf 온라인 컨퍼런스가 곧 시작됩니다.
+  .NET의 많은 기능을 확실히 학습 할 수 좋은 기회인 DotNetConf 온라인 컨퍼런스가 곧 시작됩니다.
 
 //이미지
 
