@@ -6,9 +6,9 @@
 이번 주의 인터뷰 손님으로는 Pratap Lakshman님 이며 MS Test에 대해 얘기해볼 예정입니다.
 
 ### 금주의 패키지- ELMAH
-ELMAH (Error Logging Modules and Handlers) 은 별도의 개발자 구현 없이도 동적 추가/제거가 가능한 완벽한 플러그인 형태의 라이브러리로서 어플리케이션 수준에서 자동 로깅 기능을 수행할 수 있도록 도와줍니다.  ELMAH는 기존 코드의 추가적인 컴파일 작업이나 재 배포가 필요 없으며 이미 실행되고 있는 특정 ASP.NET 웹 어플리케이션이나 혹은 특정 머신내의 모든 ASP.NET 웹 어플리케이션에 기능을 적용할 수 있습니다.
+ELMAH (Error Logging Modules and Handlers) 은 별도의 개발자 구현 없이도 동적 추가/제거가 가능한 완벽한 플러그인 형태의 라이브러리로서 어플리케이션 수준에서 로깅 기능을 자동으로 수행할 수 있도록 도와줍니다.  ELMAH는 기존 코드의 추가적인 컴파일 작업이나 재 배포가 필요 없으며 이미 실행되고 있는 특정 ASP.NET 웹 어플리케이션이나 혹은 특정 머신내의 모든 ASP.NET 웹 어플리케이션에 기능을 적용할 수 있습니다.
 
-ELMAH의 적용은 설정을 통해서 이루어질 수 있으며 따라서 이미 실행되고 있는 웹 어플리케이션의 소스코드는 단 한 줄도 수정할 필요가 없습니다. 처리되지 않은 모든 예외에 대한 로깅, 외부에서 볼 수 있는 로그요약 정보 페이지와 기존 ASP.NET 어플리케이션 에러 페이지에서 볼 수 있던 호출정보가 좀더 시각화되어 포함된 로그상세 웹 페이지의 제공등의 기능이 포함되어 있습니다. 더불어 에러 발생시 이를 e-mail로  매번 알려주도록 알람을 설정할 수 있으며(web.config의 customErrors 값이 off 이더라도) RSS feed기능도 지원되어 최근 마지막 발생한 15개 예외 정보의 로그를 feed 통해서 확인할 수 있습니다.
+ELMAH의 적용은 설정을 통해서 이루어질 수 있으며 따라서 이미 실행되고 있는 웹 어플리케이션의 소스코드는 단 한 줄도 수정할 필요가 없습니다. 처리되지 않은 모든 예외에 대한 로깅, 외부에서 볼 수 있는 로그요약 정보 페이지와 기존 ASP.NET 어플리케이션 에러 페이지에서 볼 수 있던 호출정보가 좀더 시각화되어 포함된 로그상세 페이지 제공등의 기능이 포함되어 있습니다. 더불어 에러 발생시 이를 e-mail로  매번 알려주도록 알람을 설정할 수 있으며(web.config의 customErrors 값이 off 이더라도) RSS feed기능도 지원되어 최근 마지막 발생한 15개 예외 정보의 로그를 feed 통해서 확인할 수 있습니다.
 
 //그림
 
@@ -63,6 +63,5 @@ Endless Space는 [ Amplitude Studios]에서 Unity와 C#을 이용해서 개발�
 * How to Make a Game Like Bomberman : Eric Van de Kerckhove이 붐버맨 타입의 개임 제작 방법을 공유하였습니다.
 * Tutorial: Save And Load system – How to save unity stuff in one file part #1 (Video) : Gamad이 게임의 실행도중 게임의 정보를 파일로 저장/읽는 방법을 소개해주었습니다.
 * Introducing C# Developers to Building Games with Unity – For the Hobby Developer (Video) : Stacey Haffner이 C# 개발자를 위한 Unity 의 개임 개발 방법을 소개해 주었습니다.
-
 
 //이사님 소개
