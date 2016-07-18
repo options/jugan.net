@@ -14,7 +14,7 @@
 
 
 ### 금주의 게임 - Assault Android Cactus
-Assault Android Cactus는 빠르게 게임이 전개되는 트윈 스틱 슈터(twin stick shooter) 형태의 게임 입니다. Assault Android Cactus 에서 플레이어는 자이언트 로봇이  포함된 적들과 전투를 해야하며 플레이어의 안드로이드 베터리가 모두 소진되기전에 전투에서 승리해야 합니다. 안드로이드 역할을 하게될 플레이어는 총 9종류의 안드로이드중 하나를 선택할 수 있습니다.  각각의 안드로이드는 고유한 능력을 지니며 서로 다른 플레이 스타일을 필요로 합니다. Assault Android Cactus는 싱글 플레이어와 협동 플레이 모드( co-op 모드)를 지원합니다.
+Assault Android Cactus는 빠르게 게임이 전개되는 트윈 스틱 슈터(twin stick shooter) 형태의 게임 입니다. Assault Android Cactus 에서 플레이어는 자이언트 로봇이  포함된 적들과 전투를 해야하며 플레이어가 컨트롤하는 안드로이드의 베터리가 모두 소진되기전에 전투에서 승리해야 합니다. 안드로이드를 컨트롤하게될 플레이어는 총 9종류의 안드로이드중 하나를 선택할 수 있습니다.  각각의 안드로이드는 고유한 능력을 지니며 서로 다른 플레이 스타일을 필요로 합니다. Assault Android Cactus는 싱글 플레이어와 협동 플레이 모드( co-op 모드)를 지원합니다.
 
 //그림
 
