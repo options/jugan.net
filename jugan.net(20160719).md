@@ -2,7 +2,7 @@
 지난주  On.NET 인터뷰는 연기되었으며 다시 일정을 잡을 예정입니다. 이번주에는 Rowan Miller와 함께 EF Core에 대해서 이야기 나누어 볼 예정입니다. 
 
 ### 금주의 패키지- ImageResizer
-[ImageResizer]는  IIS/ASP.NET  안전하고 빠른 서버 사이드 이미지 처리를 위한 경량화 설계된 HTTPModule , REST API 그리고 managed API입니다.
+[ImageResizer]()는  IIS, ASP.NET 어플리케이션에서  안전하고 빠른 서버 사이드 이미지 처리를 위한 경량화 설계된 HTTPModule , REST API,  managed API입니다.
 
 아래코드는 서버에 업로드되는 이미지의 크기와 파일 포멧을 변경하는 예입니다.
 
