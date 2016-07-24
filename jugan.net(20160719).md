@@ -9,7 +9,7 @@
 //코드
 
 ### 금주의 게임 - Tumblestone
-[Tumblestone]() 는 빠르게 게임이 전개되는 액션 퍼즐 게임 입니다. 게임 플레이어는 멀티  모드에서 다른 플레이어와 경쟁 하거나 싱글 스토리모드와 아케이드 모드에서는 자신의 스킬을 좀더 연습하고 다듬을 수 있습니다. Tumblestone의 스토리 캠페인 모드는 약 40 시간 이상의 다양한 난이도의 스토리와  챌린징 퍼즐, 보스 배틀 그리고 10이상의 (좀더 어려운) 변형된 게임 플레이 기능이 준비되어 잇습니다. 아케이드 모드에서는 casual Marathon mode, solve challenging puzzles  with Infinipuzzle mode 혹은 fast-paced Heartbeat mode 등 좀더 다양한 게임을 즐기실 수 있습니다.
+[Tumblestone]() 는 빠르게 게임이 전개되는 액션 퍼즐 게임 입니다. 게임 플레이어는 멀티  모드에서 다른 플레이어와 경쟁 하거나 싱글 스토리모드와 아케이드 모드에서는 자신의 스킬을 좀더 연습하고 다듬을 수 있습니다. Tumblestone의 스토리 캠페인 모드는 약 40 시간 이상의 다양한 난이도 스토리와  챌린징 퍼즐, 보스 배틀 그리고 10이상의 (좀더 어려운) 변형된 게임 플레이 기능이 준비되어 있습니다. 아케이드 모드에서는 casual Marathon mode, solve challenging puzzles  with Infinipuzzle mode 혹은 fast-paced Heartbeat mode 등 좀더 다양한 게임을 즐기실 수 있습니다.
 
 //그림
 
