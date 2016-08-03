@@ -27,7 +27,7 @@ FRU는 [Unity](http://unity3d.com/)와 [C#](https://channel9.msdn.com/Series/C-S
 * Developer Productivity in VS 2015 and VS 15 – [Video] : Kasey Uhlenhuth가 VS 2015 와 VS 15 을 개발 생산성관련 중심으로 비교해주었습니다.
 * The Power of Global.json: Leveraging .NET Core Tooling Features : David Pine이  .NET Core 용 비주얼스튜디오 프로젝트에서 사용되는 Global.json 파일의 활용법을 소개하였습니다.
 * Using C# to Create PowerShell Cmdlets: Beyond the Basics : Michael Sorens이 C#을 이용한 PowerShell Cmdlets의 구현방법을 공유하였습니다(part5).
-* .NET backward compatibility – Part 4 :  Bastian Eicher가  비주얼스튜디오  NuGet packages의 다중 .NET 프레임워크 버전을 지원하는 방법에 대해 설명(part4)하였습니다.
+* .NET backward compatibility – Part 4 :  Bastian Eicher가  비주얼스튜디오  NuGet packages의 다중 .NET 프레임워크 버전 설정 방법에 대해 설명(part4)하였습니다.
 * TPL: Producer Consumer Pattern – Thread Safe Queue Collection, : Ameet Parse이 생산자소비자 패턴을 이용한 안전한 멀티 스래드 큐 구현  을 소개하였습니다.
 * Freezable Pattern : WPF에서 사용되는 Freezable Pattern이 소개되었습니다.
 * Reducing allocations and resource usages when using Task.Delay :  Ayende이 Task.Delay를 좀더 효과적으로 사용하는 방법을 가이드 해주었습니다.
