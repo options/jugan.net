@@ -10,7 +10,7 @@
 
 //코드
 
-### 금주의 Xamarin 애플리케이션 - Continuous .NET C# and F# IDE
+### 금주의 Xamarin 애플리케이션 - Continuous .NET 
 
 C#과 F# 어플리케이션을 iPad 용 개발 IDE인 Continuous .NET C# and F# IDE 를 이용해서 개발해보세요. 이 개발 툴은 우리가 이미 익숙한  코드 자동 완성 기능은 물론이고 여러 놀라운 기능을 포함하고 있습니다.  또한 완벽한 문법 첵크기능도 제공하며 개발자의 작업진행 확인이 기능한 output window 도 제공합니다.
 
