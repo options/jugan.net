@@ -1,7 +1,7 @@
 ### On.NET 소식
 지난주에는 Rowan Miller와 함께 EF Core(Entity Framework Core)에  대해서 이야기 나누어 보았습니다. 
 
-이번주 On.NET는 예정되어있지 않지만 다음주에는 진행될 계획입니다.
+이번주 On.NET는 예정되어있지 않습니다. 하지만 다음주에는 정상적으로 진행될 계획입니다.
 
 ### 금주의 패키지- OpenPop.NET
 [OpenPop.NET]()는  POP3 클라이언트기능과 강력한 MIME 파서를  포함한 C# 오픈소스 프로젝트입니다. POP3 서버의 이메일 에 접근하는 코드를 개발하는 경우 OpenPop.NET 라이브러리를 이용하면 단 몇분 안에 구현할 수 있습니다.
