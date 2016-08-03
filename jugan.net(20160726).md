@@ -62,7 +62,7 @@ FRU는 [Unity](http://unity3d.com/)와 [C#](https://channel9.msdn.com/Series/C-S
 * SadConsole – Version 3 Release : Andy De George 가 SadConsole 버전 3의 릴리스 소식을 공유했습니다.
 * Shaders Case Study – Stealth Games’ XRay Vision – [Video] : Makin’ Stuff Look Good이  Stealth Game에서 사용될 수 있는 랜더링 효과 기능을 공유했습니다.
 * Hex Map 1: Creating a Hexagonal Grid : Catlike Coding이 퍼즐형 게임에서 많이 활용되는 6각형 도형 맵의 구현및 활용과정을 소개했습니다.
-* 1.0 Unity Tower defense tutorial – Placing tiles – [Video] : inScope Studios가 유니티를 이용한 타워 방어형 게임에서 사용될 수 있는 기본 타일을 정렬및 구성하는 방법을 가이드 해주었습니다
+* 1.0 Unity Tower defense tutorial – Placing tiles – [Video] : inScope Studios가 유니티를 이용한 타워 방어형 게임에서 사용될 수 있는 기본 타일의 정렬및 구성 방법을 가이드 해주었습니다
 * Unity and C# Tutorial – Lesson Two – Statements – [Video] : Craig Hinrichs이 유니티  C# 프로그램 개발 방법을 가이드해 주었습니다. [레슨2 , 기본 문법]
 * C# Monogame RPG Made Easy Tutorial 1 – Introduction – [Video] : C#을 이용한 RPG 게임 구현 과정을 공유했습니다. [시리즈1]
 * Dynamically Resizing Colliders to Match Sprites in Unity : Improx Games가 Dynamically Resizing Colliders (Collider : 충돌 기능이 포함된 유니티 객체)의 설정방법을 공유했습니다.
