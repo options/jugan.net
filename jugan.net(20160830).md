@@ -24,18 +24,6 @@ Mervils: A VR Adventure는 VR을 지원하는 플랫포머(platformer) 게임요
 Mervils: A VR Adventure[링크]는 VitruviusVR[링크]에서 제작하였으며 [Unity](http://unity3d.com/)와 [C#](https://channel9.msdn.com/Series/C-Sharp-Fundamentals-Development-for-Absolute-Beginners)을 이용하여 개발하였습니다. 현재 Oculus Home[링크]를 통해서 
 Oculus Rift에서 즐길 수 있으며 Steam[링크]을 통해서 HTC Vive에서도 플레이 가능합니다. 또한 이번 가을부터는 PlaystationVR 에서도 즐기실 수 있습니다.
 
-
-
-
-
-
-
-
-
-
-
-
-
 ### .NET 소식
 * What’s New in C# 7.0 : Mads Torgersen이  C# 7.0의 새로운 기능 소개했습니다.
 * Changes to Expiring NuGet API Keys : Harikrishna Menon이 NuGet용 개발시 필요한 API Key를 갱신해야하는 필요성과 갱신 배경을 설명했습니다.
@@ -64,7 +52,7 @@ Oculus Rift에서 즐길 수 있으며 Steam[링크]을 통해서 HTC Vive에서
 * Getting Started with F# with Cross-Platform Tools : Phillip Carter가 Cross-Platform Tool인  Visual Studio Code를 이용한  F#을 소개했습니다.
 * Transpiling F# to JavaScript with Fable : Pierre-Luc Maheu가 F#을 JavaScript 으로 바꾸어주는 엔진인 Fable 에 대해서 소개했습니다.
 
-• ### Xamarin 소식
+### Xamarin 소식
 * Xamarin Podcast: Identity Management in Mobile Apps : Pierce Boggan이 Mobile Apps에서 ID 관리에 대해서 설명했습니다.
 * Creating a Serverless Backend for Mobile Apps & Continuous Integration for iOS Apps with Visual Studio Team Services : James Montemagno가 별도의 서버구성없이 Azure Function만을  이용한 Mobile Apps의 개발과(링크) iOS App개발시에 Visual Studio Team Services의 활용방법을 공유했습니다.
 * How Olo Powers 150+ Restaurant Ordering Apps with Mobile DevOps : Lacey Butler가 외식산업 모바일 어플케이션 olo의 Mobile DevOps 성공 사례를 소개했습니다.
