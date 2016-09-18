@@ -36,7 +36,7 @@ Oculus Rift에서 즐길 수 있으며 Steam[링크]을 통해서 HTC Vive에서
 
 ### ASP.NET 소식
 * A look behind the JWT bearer authentication middleware in ASP.NET Core and An introduction to Session storage in ASP.NET Core : Andrew Lock가  ASP.NET Core의 JWT(JSON Web Token) Bearer Authentication middleware(링크) 와 Session storage(링크)에 대해서 설명했습니다.
-* Adding Application Insights in ASP.Net core project : Janak가 ASP.Net core 프로젝트에 Application Insights 기능를 추가하는 방법을 공유했습니다.
+* Adding Application Insights in ASP.Net core project : Janak가 ASP.Net core 프로젝트에서 Application Insights 기능 추가 방법을 공유했습니다.
 * Getting Started with ASP.Net Performance Monitoring and Optimization : Pierre-Luc Maheu가 ASP.Net의 성능 모니터링과 최적화 방법에 대해서 설명했습니다.
 * Initial Port Of Restful Routing To ASP.NET Core : Khalid Abuhakmeh가 오픈소스 프로젝트 Restful Routing ASP.NET Core 를 소개했습니다.
 * Using NancyFx in ASP.NET Core : Anuraj가 ASP.NET Core에서 NancyFx 를 사용하는 방법을 설명했습니다.
