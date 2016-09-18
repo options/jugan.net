@@ -3,7 +3,7 @@
 
 // 동영상
 
-[다음 주 On .NET]()에서는  Hibernating Rhinos의 Ayende Rahien 과 함께  RavenDB 과 .NET에 대해서 이야기 나누어 볼 예정입니다.
+[다음 주 On .NET]()에서는  Hibernating Rhinos의 Ayende Rahien 과 함께 .NET과 관련하여 RavenDB에 대한 이야기 나누어 볼 예정입니다.
 
 ### 금주의 툴 - F# Data
  F# Data 라이브러리는 CSV , 또는 원격지의 JSON 형태의 데이터, 혹은 XML API와 같은 다양한 형태의 데이터를 읽고 해석하는데 도움을 주기위한 F# 타입 프로바이더의 모든 장점을 완벽하게 제공해줍니다
