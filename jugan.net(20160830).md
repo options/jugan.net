@@ -31,7 +31,7 @@ Oculus Rift에서 즐길 수 있으며 Steam[링크]을 통해서 HTC Vive에서
 * Writing Better Tests Than Humans Can Part 1: FsCheck Property Tests in C# : Aaron Stannard이 FsCheck 을 이용한 테스트 방법을 설명했습니다.
 * Create vCard QR Codes using Azure Functions : Carlos Mendible이 Azure Function을 이용한 QR 코드 생성 방법을 공유했습니다.
 * Building NuGet (.NET Core) using Atlassian Bitbucket Pipelines : Maarten Balliauw가 Atlassian Bitbucket Pipelines를 이용한 NuGet (.NET Core) 빌드 방법을 공유했습니다.
-* Using JSON Data and EF to Seed a Database : Julie Lerman이 JSON Data와 EF을 이용한 데이터베이스의 데이터 초기화 방법을 공유했습니다.
+* Using JSON Data and EF to Seed a Database : Julie Lerman이 JSON Data와 EF을 이용한 데이터베이스의 데이터 초기 설설설설정 방법을 공유했습니다.
 * Extending dotnet cli commands in dotnet core : Swaminathan Vetri가  dotnet core 명령프롬프트용 command 확장 방법을 공유했습니다.
 
 ### ASP.NET 소식
