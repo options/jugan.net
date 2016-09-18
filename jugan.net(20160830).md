@@ -67,8 +67,9 @@ Oculus Rift에서 즐길 수 있으며 Steam[링크]을 통해서 HTC Vive에서
 * Get the Unity 5.5 Beta Now : Alex Lian이 Unity 5.5 소식을 공유했습니다.
 * CRYENGINE 5.2 is now available for download!. : CRYENGINE 5.2가 릴리즈 되었습니다.
 * (CRYENGINE) Getting Started Running C# in Visual Studio, (CRYENGINE) Using Managed Entities (Tutorial Series), and (CRYENGINE) Using CE#’s UI System (Tutorial Series) : Benjamin Peters 와 Aaron Garcha가 C# 개발자를 위한 CRYENGINE의 소개(링크)와  Managed Entities의 활용(링크), CE#  프레임워크를 이용한 UI 개발(링크)에 대해서 설명했습니다.
-* Shaders Case Study – Overwatch: Winston’s Barrier Projector (video) : Makin’ Stuff Look Good 이 오버워치 게임에서 방어돔 효과를 구현하는 방법을 공유했습니다.
-* Use Linear Algebra to solve problems in Unity with C# by Erik Nordeus 가 선형대수학(Linear Algebra)을 이용한 Unity with C#개발 공유했습니다.
+* Shaders Case Study – Overwatch: Winston’s Barrier Projector (video) : Makin’ Stuff Look Good 이 오버워치 게임의 방어돔과 같은 효과를 구현하는 방법을 공유했습니다.
+* Use Linear Algebra to solve problems in Unity with C# : Erik Nordeus 가 Unity에서 선형대수학(Linear Algebra)이론의 활용방법 공유했습니다.
+
 
 
 // 전무님 소개
