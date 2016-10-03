@@ -68,9 +68,9 @@ Folk Tale는  Unity와 C을 이용하여Games Foundry 에서 제작 했으며 
 * XAML Power Toys for Visual Studio 2015 : Karl Shifflett이Visual Studio 2015 확장 툴인  XAML Power Toys를 소개했습니다.
 
 ### Games 소식
-* (Unity 5) Let’s Make Rust! [Episode 28 – Inventory 6] (video) : Gabemeister1201이 게임의  아이템 저장 공간( Inventory) 기능 구현을 설명했습니다.
+* (Unity 5) Let’s Make Rust! (Episode 28 – Inventory 6) (video) : Gabemeister1201이 게임의  아이템 저장 공간( Inventory) 기능 구현을 설명했습니다.
 * Monogame – Building multi-platform solutions (video) : Simon Jackson이 멀티 플랫폼 게임 개발 도구인 Monogame 을 소개했습니다
-* Shaders Case Study – Pixel Art Palette Swapping (video) :  Makin’ Stuff Look Good이 Shaders 개발에사 사용될수있는 Pixel Art Palette Swapping을 설명했습니다.
+* Shaders Case Study – Pixel Art Palette Swapping (video) :  Makin’ Stuff Look Good이 Shaders 개발에사 사용될수있는 Pixel Art Palette Swapping 기능을 설명했습니다.
 * Animated Metro UI Tutorial – Unity3D (video) : Supermassive가 Animated Metro UI의 구현방법을 공유했습니다.
 * How to Develop VR for 770 million Users : Hayim Pinson이 VR 게임의  개발 중요성과 의미를 설명했습니다.
 
