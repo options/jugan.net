@@ -10,16 +10,16 @@
 ### 금주의 패키지  -  NAudio
 Naudio는 오디오 파일의 읽기, 쓰기 ,디코딩,  인코딩, 컨버팅 작업등을 손쉽게 처리해 주는 라이브러리입니다.
 
-아래의 코드는 여러개의 오디오 파일의 정보를 화면에 표시하는 예입니다.
+아래의 코드는 여러 오디오 파일 정보를 화면에 표시하는 예입니다.
 
 // 코드
 
 ### 금주의 자마린 어플 - Speech Central
-iPhone 어플 Speech Central은 인터넷 웹 페이지의 화면을 직접 보고 있지 않아도 음성명령을 통해서 탐색하고 페이지의 내용을 읽어주는 어플입니다.
-화면을 보고있지않아도 되기 때문에  조깅, 대화등 일상생활 활동 중에도 웹페이지에 접속하여 항상 새로운 뉴스를 전달 받으실 수 있으며 화면이 꺼져있는 상태에서 동작가능하므로 베터리소모량도 적습니다.
+iPhone 어플 Speech Central은 인터넷 웹 페이지의 화면을 직접 보고 있지 않고도 음성명령을 통해서 탐색하고 페이지의 내용을  읽어주는 어플입니다.
+화면을 보고있지 않아도 되기 때문에  조깅, 대화등 일상생활 활동 중에도 웹을 통해서  항상 새로운 뉴스를 전달 받으실 수 있습니다. 또한 화면이 꺼져있는 상태에서 동작가능하므로 베터리소모량도 적습니다.
 
 ### 금주의 게임 - Hand of Fate
-게임 Hand of Fate은 액션, RPG , 덱빌딩 게임장르의 요소가 복합된 게임입니다.  플레이어는 게임에서 전략적인 결정을 하려 자신의 덱을 쌓아가며  실행된 덱에 의해 RPG 액션 스타일의  게임이 진행되기도 합니다. 게임 Hand of Fate은 독특한 덱 빌딩 구조과  다양한 적, 아이템, 무기, 장비 등이 포함되어있습니다.
+게임 Hand of Fate은 액션, RPG , 덱빌딩 게임장르의 요소가 복합되어 구성된 게임입니다.  게임에서 플레이어는 전략적인 결정을 통해 자신의 덱을 쌓아가야 하며  진행된 덱에 따라서  RPG 액션 스타일의  게임이 진행되기도 합니다. 게임 Hand of Fate은 독특한 덱 빌딩 구조과  다양한 적, 아이템, 무기, 장비 등이 포함되어있습니다.
 
 //그림
 
@@ -39,8 +39,8 @@ Hand of Fate(링크)은  Unity(링크)와 C#(링크)을 이용하여  Defiant 
 ### ASP.NET 소식
 * Sharing Authorization Cookies between ASP.NET 4.x and ASP.NET Core 1.0 : Scott Hanselman이  ASP.NET 4.x and ASP.NET Core 1.0 어플리케이션에서 서로 쿠키인증 정보를 공유하는 방법을 설명했습니다.
 * External Network Access to Kestrel and IIS Express in ASP.NET Core : Rick Strahl이 Kestrel 와 IIS Express 환경의  ASP.NET Core 어플리케이션에서 외부 네트위크에 접근하는 방법을 설명했습니다.
-* Localising the DisplayAttribute and avoiding magic strings in ASP.NET Core and Injecting services into ValidationAttributes in ASP.NET Core by Andrew Lock.
-* IdentityServer4, Web API and Angular2 in a single ASP.NET Core project : Damien Bod이  ASP.NET Core 에서 지역화 문자열 표시를 위한 DisplayAttribute의 사용방법(링크)과 유효성 검증을 위한 ValidationAttributes 의 사용방법(링크)을 설명했습니다.
+* Localising the DisplayAttribute and avoiding magic strings in ASP.NET Core and Injecting services into ValidationAttributes in ASP.NET Core by Andrew Lock이  ASP.NET Core 에서 지역화 문자열 표시를 위한 DisplayAttribute의 사용방법(링크)과 유효성 검증을 위한 ValidationAttributes 의 사용방법(링크)을 설명했습니다.
+* IdentityServer4, Web API and Angular2 in a single ASP.NET Core project : Damien Bod이 하나의 ASP.NET Core 에서 IdentityServer4, Web API, Angular2를 사용하여 구성한 프로젝트를 설명했습니다.
 * Introducing the ASP.Net Async SessionState Module : Matt FJH가 ASP.Net Async SessionState 모듈을 소개했습니다.
 * Strongly typed configuration in ASP.NET Core without IOptions<T> : Filip W이 ASP.NET Core에서 IOptions<T>를 이용한 명시적(강력한) 타입 설정 파일의 사용 방법을 설명했습니다.
 * ASP.NET Core MVC Attribute Routing : Derek Comartin이 ASP.NET Core MVC에서 Attribute Routing에 대해서 설명했습니다.
