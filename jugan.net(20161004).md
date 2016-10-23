@@ -1,4 +1,4 @@
-주간닷넷 2016년 9월 27일
+주간닷넷 2016년 10월 4일
 
 ### On .NET 소식
 [지난 주 On .NET]()에는  JB Evain와  Visual Studio 2015 Tools for Unity, 그리고 .NET 프로파일링 오픈소스 라이브러리 Cecil에 대해서 얘기 나누어보았습니다.
