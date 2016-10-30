@@ -6,16 +6,16 @@
 이번주에는 Rowan Miller와 함께 .NET과 Entity Framework Core 1.1 에 대해서 얘기를 나누어볼 계획입니다.
 
 ### 금주의 패키지  -  Bond
-Bond는  데이터를 직열화/역직열화 하기위한 검증된 바이너리 포멧 라이브러리로서 구글의 Google’s Protocol Buffer와 유사한 라이브러리입니다. 라이브러리 Bond 는 Linux, macOS, Windows에서 동작하며 C++, C#, Python 등의 언어를 지원합니다.
-개발자가 Bond 을 사용하기 위해서는  IDL과 비슷한 형식의로 스키마를 먼저 정의해야합니다.
+Bond는  데이터를 직열화/역직열화 하기위한 검증된 바이너리 포멧 라이브러리로서 구글의 Google’s Protocol Buffer와 유사한 라이브러리입니다. Bond 라이브러리는 Linux, macOS, Windows에서 동작하며 C++, C#, Python 등의 언어를 지원합니다.
+개발자가 Bond 을 사용하기 위해서는  IDL과 비슷한 형식으로 스키마를 먼저 정의해야합니다.
 
 // 코드
 
-그런후 툴을 통하여 이 스키마를 C#코드로 제네레이션합니다.
+그런후 이 스키마를 툴을 통하여 C#코드로 제네레이션합니다.
 
 // 코드
 
-이렇게 생성된 타입을 초기화하고 직열화, 역직열화 하기위해서 제너레이션된 라이브러리의 C# 코드를 사용할 수 있습니다.
+이렇게 생성된 타입을 초기화하고 직열화, 역직열화 하기위해서 개발자는 제너레이션된 라이브러리의 C# 코드를 사용할 수 있습니다.
 
 // 코드
 
@@ -27,7 +27,7 @@ Bond는  데이터를 직열화/역직열화 하기위한 검증된 바이너리
 The Gallery – Episode 1: Call of the Starseed(링크)은  Unity(링크)와 C#(링크)을 이용하여  Cloudhead Games(링크)에서 제작 했으며 Steam(링크)을 통해서 HTC Vive에서 플레이하실수 있으며 12월에는 Oculus Home을 통해서 Oculus Touch에서도 즐기실수있습니다.
 
 ### .NET 소식
-*  .NET Framework Monthly Rollups Explained and .NET Framework Monthly Rollup: October 2016 : Stacey Haffner가 앞으로 계속 발행예정인 NET Framework 월간 업데이트의 정보를 설명(링크)했으며 이번달(10월) NET Framework 월간 업데이트 내용(링크)을 공유했습니다 
+*  .NET Framework Monthly Rollups Explained and .NET Framework Monthly Rollup: October 2016 : Stacey Haffner가 앞으로 계속 발행예정인 NET Framework 월간 업데이트의 정보를 설명(링크)했으며 이번달(10월) NET Framework 월간 업데이트를(링크) 공유했습니다 
 *  Learning .NET Core by example : Jon Hilton이 .NET Core를 쉽게 이해할 수 있는 예제와 튜토리얼을 소개 했습니다.
 *  Parallel Test Execution : Pratap Lakshman이 Parallel Test Execution 에 대해서 설명했습니다.
 *  Porting Apache Avro into .NET Core : Welly Tambunan이 Apache 버전의 Avro를 .NET Core버전으로 전환한 경험을 공유했습니다.
