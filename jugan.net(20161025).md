@@ -1,7 +1,10 @@
+주간닷넷 2016년 10월 25일
+
+
 ### .NET Core 1.1, ASP.NET Core 1.1, EF Core 1.1 의 프리뷰 버전1이 릴리즈 되었습니다.
-* Announcing .NET Core 1.1 Preview 1 by Rich Lander.
-* Announcing ASP.NET Core 1.1 Preview 1 by Jeffrey T. Fritz.
-* Announcing Entity Framework Core 1.1 Preview 1 by Rowan Miller.
+* Announcing .NET Core 1.1 Preview 1 by Rich Lander.(링크)
+* Announcing ASP.NET Core 1.1 Preview 1 by Jeffrey T. Fritz.(링크)
+* Announcing Entity Framework Core 1.1 Preview 1 by Rowan Miller.(링크)
 
 ### On .NET 소식
 [지난 주 On .NET]()에는   Rowan Miller와 함께 .Entity Framework Core 1.1 에 대해서 이야기 나누었습니다. 
@@ -83,6 +86,5 @@ Reverse: Time Collapse(링크)는 현재  Meangrip(링크)에서 Unity(링크)�
 * Beginning C# Part 15: Do/While Loops : Brian Moakley가 C# 언어강좌 Do/While 반복문을 설명했습니다.
 * Tobi’s Unity Utilities : Tobias Wehrum이 Unity에서 사용할 수 있는 오픈 소스 프로젝트 Tobi's Unity Utilities을 공유했습니다
 * MVC Pattern : Alex Ouellet이 MVC 패턴을 설명했습니다.
-
 
 // 전무님 소개
