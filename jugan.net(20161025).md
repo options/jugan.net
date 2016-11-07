@@ -12,7 +12,7 @@
 이번주에는  Martin Woodward와함께   .NET Foundation에 대해서 얘기를 나누어볼 계획입니다.
 
 ### 금주의 패키지  -  FluentValidation
-FluentValidation는 아주 가벼운 유효성 검증 라이브러리입니다. Jeremy Skinner이 개발한 이 라이브러리는 다양한 사용자 인터페이스를 지원하며 람다식을 사용해서 유효성 검증 규칙 생성을 할 수 있으며 .NET Standard 1.0 에서도 동작합니다.
+FluentValidation는 아주 가벼운 유효성 검증 라이브러리입니다. Jeremy Skinner이 개발한 이 라이브러리는 다양한 사용자 인터페이스를 지원하며 람다식을 사용해서 유효성 검증 규칙 생성을 할 수도 있습니다. 또한 .NET Standard 1.0 에서도 동작합니다.
 
 // 코드
 
