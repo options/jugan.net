@@ -30,7 +30,7 @@ Super Dungeon Bros(링크)는 현재  React Games (링크)에서 Unity(링크)�
 * Using dotnet watch test for continuous testing with .NET Core and XUnit.net : Scott Hanselman이 .NET Core, XUnit.net 환경에서 dotnet watch 명령을 이용한  이용한 지속적인 테스트 방법을 설명했습니다.
 * What’s new in Serilog? : Nicholas Blumhardt가 로깅라이브러리인 Serilog의 새로운 기능을 소개했습니다.
 * Entity Framework Core – Table per Hierarchy : Christian Nagel이 Entity Framework Core - Table per Hierarchy를 설명했습니다.
-Entity Framework CorHow does the ‘fixed’ keyword work? : Matt Warren이 C#의 fixed 키워드에 대해 설명했습니다.
+* How does the ‘fixed’ keyword work? : Matt Warren이 C#의 fixed 키워드에 대해 설명했습니다.
 * A monthly compilation of community posts : MyGet이 한달간의 커뮤니시 소식을 정리해서 공유했습니다.
 * Using NDepend to Help Improve Architecture : Steve Desmond가 아키택쳐의 설계 향상을 위해 NDepend를 이용하는 방법을 소개했습니다.
 * RavenDB 3.5 RTM released : Ayende Rahien이 RavenDB 3.5 RTM 릴리즈 소식을 공유했습니다.
