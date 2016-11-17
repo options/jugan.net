@@ -39,7 +39,6 @@ Super Dungeon Bros(링크)는 현재  React Games (링크)에서 Unity(링크)�
 * Automating Installation Builds and Chocolatey Packaging : Rick Strahl이 빌드 자동화와 Chocolatey 를 이용한 패키징에 대해 설명했습니다. 
 * InfoQ eMag: A Preview of C# 7 (free eBook): 무료 eBook "A Preview of C# 7"이 공유 되었습니다.
 * Interception in .NET – Part 4: An Interception Framework : Ricardo Peres가 Interception Framework 구현방법 Part 4를  공유했습니다.
-* .NET Core Tooling in Visual Studio “15” : David Carmona와 Joe Morris가  Visual Studio “15” 버전의 .NET Core 지원 기능을 소개했습니다.
 
 ### ASP.NET 소식
 * Free ASP.NET Core 1.0 Training on Microsoft Virtual Academy : Scott Hanselman이  ASP.NET Core 1.0 무료 교육 과정을 소개했습니다.
