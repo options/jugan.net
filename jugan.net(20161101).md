@@ -73,5 +73,4 @@ Windows Azure Storage에서 Xamarin용 Azure Storage Client Library GA를 발표
 * Unite ’16 Keynote (video) : Unite 2016 행사 키노트가 공유되었습니다.
 * Introducing Holographic Emulation (video) : Peter Freese가 Holographic Emulation을 소개했습니다.
 * MonoGame Live #6 : XNA Sample Conversion, Localisation (video) : MonoGame에서 MonoGame Live #6을 진행했습니다.
-
 * Unity – 2D Movement (part 6a) – Animation : Wheels and Unity – 2D Movement (Part 6b) – Animation : Tread (video) : Pixel Make에서 Unity 2D Movement - Animation에 관련된 동영상 교육 2개(part 6a, part 6b)를 공유했습니다.
