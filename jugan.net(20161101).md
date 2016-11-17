@@ -42,22 +42,23 @@ Super Dungeon Bros(링크)는 현재  React Games (링크)에서 Unity(링크)�
 
 ### ASP.NET 소식
 * Free ASP.NET Core 1.0 Training on Microsoft Virtual Academy : Scott Hanselman이  ASP.NET Core 1.0 무료 교육 과정을 소개했습니다.
-* Bearer Token Authentication in ASP.NET Core : Jeffrey T. Fritz가 ASP.NET Core의 Bearer Token Authentication 방법을 설명했습니다.
+* Bearer Token Authentication in ASP.NET Core : Jeffrey T. Fritz가 ASP.NET Core의 Bearer Token Authentication을 이용한 인증방법을 설명했습니다.
 * Angular2 CLI with ASP.NET Core application – tutorial : Michał Dymel이 ASP.NET Core에서 Angular2 CLI 의 활용법을 설명했습니다.
-* Step by step: Scale ASP.NET Core with Docker Swarm : Carlos Mendible이 도커 컨테이너를 이용하여 ASP.NET Core 처리능력을 향상하는 방법을 공유했습니다.
+* Step by step: Scale ASP.NET Core with Docker Swarm : Carlos Mendible이 도커 컨테이너를 이용하여 ASP.NET Core의 처리능력을 향상하는 방법을 공유했습니다.
 * Resource-based authorisation in ASP.NET Core and Accessing services when configuring MvcOptions in ASP.NET Core : Andrew Lock이 ASP.NET Core의 리소스 기반 권한 관리(링크)와 MvcOptions을 이용한 서비스 접근(링크)을 설명했습니다.
 * Angular2 search with ASP.NET Core and Elasticsearch : Damien Bowden이 ASP.NET Core에서 Angular2 와 Elasticsearch를 이용한 웹사이트 검색기능의 구현방법을 설명했습니다.
 * Testing SSL in ASP.NET Core : Shawn Wildermuth가 ASP.NET Core의 SSL 구성과 이를 확인하는 방법을 설명했습니다.
 * ASP.NET Core and the Enterprise Part 2: Hosting : K. Scott Allen이 "ASP.NET Core과 기업 어플리케이션: 파트 2 : 호스팅"에 대해서 설명했습니다
 * Vertical Slice Test Fixtures for MediatR and ASP.NET Core : Jimmy Bogard가 MediatR 과 ASP.NET Core에서 주요 단계별 테스트 방법을 설명했습니다.
 * Run & Deploy ASP.NET Core Web Applications on Ubuntu behind Apache Server : Sumit Chauhan이 우분투의 아파치 서버에 ASP.NET Core 웹 어플리케이션을 배포하고 실행시키는 방법을 설명했습니다.
+
 ### F# 소식
 * F# Domain Modeling : Luke Merrett이 F# Domain Model을 설명했습니다.
 * Paket ‘why’ command, : Tomasz Heimowski가 Paket 새롭게 추가된 'why' 명령어를 설명했습니다.
 * F# Language Suggestions are now : GitHub에 F# 언어의 추가 기능제안이 공유되었습니다.
 * Yahtzee Scoring Kata in F# : Mark Heath가 주사위 게임 Yahtzee 의 점수계산을  F#으로 구현하여 설명했습니다
-* F# support on .NET Core SDK Preview 3:.NET Core SDK Preview 3 버전에서 F#의 지원 내용이 소개 되었습니다
 
+* F# support on .NET Core SDK Preview 3:.NET Core SDK Preview 3 버전에서 F#의 지원 내용이 소개 되었습니다
 ### Xamarin 소식
 * Last Xamarin Dev Days of 2016 : Jayme Singleton이 2016년 마지막  Xamarin Dev Days 개발 행사 일정을 공유했습니다.
 * The Xamarin Show Snack Pack 3: Xamarin Test Recorder for macOS : James Montemagno의  Xamarin Show Snack Pack 3( Xamarin Test Recorder for macOS)이 소개 되었습니다.
