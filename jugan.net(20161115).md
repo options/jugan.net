@@ -57,14 +57,14 @@ Version 3.0 of Stateless just came out, with support for .NET Core.
 * A Quick Guide For Designing Better Buttons : Nick Babich이 스마트기기 어플 디자인시 도움이 될 수 있는 버튼 디자인 가이드를 공유했습니다.
 * What Everyone Should Know About The Process Behind App Design : Michael Flarup이 어플 디자인 프로세스에 대해서 설명했습니다.
 * Face detection on iOS : Tomasz Cielecki iOS 의 안면인식 기능의 사용방법을 설명했습니다.
-* Banish Compiler Directives From Shared Projects! & Stopping the “ThisApp May Slow Down Your iPhone” Message : Matthew Soucoup이 iPhone의 “ThisApp May Slow Down Your iPhone” 경고 메시지 가 안 나타나도록 하는 효과적인 어플설계 방법을 설명했습니다..
+* Banish Compiler Directives From Shared Projects! & Stopping the “ThisApp May Slow Down Your iPhone” Message : Matthew Soucoup이 iPhone의 “ThisApp May Slow Down Your iPhone” 경고 메시지 가 안 나타나도록 어플을 효과적으로 설계할수있는 방법을 설명했습니다.
 * Native Views in XAML from a PCL, The Advanced Navigation of Exrin in Xamarin Forms, & Xamarin Forms Visual Previewer : Adam Pedley가 PCL 프로젝트의 XAML 에서 Native View를 활용하는 방법(링크), Xamarin Forms에서 Exrin을 이용한 Advanced Navigation 방법(링크), Xamarin Forms Visual Previewer(링크)를 설명했습니다.
 * Platform Specifics – Xamarin.Forms 2.3.3 Look Ahead : Matthew Soucoup이  Xamarin.Forms 2.3.3의 새로운 기능 Platform Specific을 설명했습니다.
 
 ### Azure 소식
 * Fluent API Libraries for Azure .NET SDK : Build Azure가 Azure .NET SDK에서 활용할 수 있는 Fluent API 라이브러리를 소개했습니다.
 * Automating deployment of ASP.NET Core to Azure App Service from Linux : Afzaal Ahmad Zeeshan이 ASP.NET Core 어플리케이션을 Linux 환경의 Azure App Service로 자동 배포하는 방법을 소개했습니다.
-• * erverless Computing and Workflows with Azure Functions and Microsoft Flow : Jason roberts가 Azure Functions 과  Microsoft Flow의 활용방법을 소개했습니다. 
+* erverless Computing and Workflows with Azure Functions and Microsoft Flow : Jason roberts가 Azure Functions 과  Microsoft Flow의 활용방법을 소개했습니다. 
 
 
 
