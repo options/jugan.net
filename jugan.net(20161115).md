@@ -3,8 +3,8 @@
 
 
 ### 금주의 패키지  -  Stateless
-모든 어플리케이션은 workflow를 표현하거나 state machines을 구성하는 프로세스를 구축합니다..
-Stateless(링크)는 .NET Code에서 사용 가능한 state machine-based workflow 라이브러리이다 입니다.
+모든 어플리케이션은 workflow를 표현하거나 state machines을 구성하는 프로세스를 구축합니다.
+Stateless(링크)는 .NET Code에서 사용 가능한 state machine-based workflow 라이브러리입니다.
 
 Version 3.0 of Stateless just came out, with support for .NET Core.
 
