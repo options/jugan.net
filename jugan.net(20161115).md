@@ -57,7 +57,7 @@ Version 3.0 of Stateless just came out, with support for .NET Core.
 * A Quick Guide For Designing Better Buttons : Nick Babich이 스마트기기 어플 디자인시 도움이 될 수 있는 버튼 디자인 가이드를 공유했습니다.
 * What Everyone Should Know About The Process Behind App Design : Michael Flarup이 어플 디자인 프로세스에 대해서 설명했습니다.
 * Face detection on iOS : Tomasz Cielecki iOS 의 안면인식 기능의 사용방법을 설명했습니다.
-* Banish Compiler Directives From Shared Projects! & Stopping the “ThisApp May Slow Down Your iPhone” Message : Matthew Soucoup이 iPhone의 “ThisApp May Slow Down Your iPhone” 경고 메시지 가 안 나타나도록 어플을 효과적으로 설계할수있는 방법을 설명했습니다.
+* Banish Compiler Directives From Shared Projects! & Stopping the “ThisApp May Slow Down Your iPhone” Message : Matthew Soucoup이 Shared Project에서 컴파일러 지시자 없이 문제를 해결하는 방법(링크)과  iPhone의 “ThisApp May Slow Down Your iPhone” 경고 메시지가 안 나타나도록 어플을 효과적으로 설계할수있는 방법(링크)을 설명했습니다.
 * Native Views in XAML from a PCL, The Advanced Navigation of Exrin in Xamarin Forms, & Xamarin Forms Visual Previewer : Adam Pedley가 PCL 프로젝트의 XAML 에서 Native View를 활용하는 방법(링크), Xamarin Forms에서 Exrin을 이용한 Advanced Navigation 방법(링크), Xamarin Forms Visual Previewer(링크)를 설명했습니다.
 * Platform Specifics – Xamarin.Forms 2.3.3 Look Ahead : Matthew Soucoup이  Xamarin.Forms 2.3.3의 새로운 기능 Platform Specific을 설명했습니다.
 
