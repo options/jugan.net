@@ -1,5 +1,6 @@
 ### On .NET 소식
-이번 주 On .NET 쇼에서는 전세계에서 11/월 MVP 서밋에 참여한 MVP들중 한분인 Mitch Muenster와  "being a developer with autism(자페를 가진 개발자로 살아가기)" 라는 주제로 진행된 인터뷰를 보내드리겠습니다.
+이번 주 On .NET 쇼에서는 11/월 MVP 서밋에 참여한 전세계 MVP들중 한분인 Mitch Muenster와  "being a developer with autism(자페를 가진 개발자로 살아가기)" 라는 주제로 진행된 인터뷰를 보내드리겠습니다.
+
 
 ### 금주의 패키지  -  Stateless
 모든 어플리케이션은 workflow를 표현하거나 state machines을 구성하는 프로세스를 구축합니다..
