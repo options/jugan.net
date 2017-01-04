@@ -8,7 +8,7 @@ Stephen Cleary talked about his AsyncEx library(링크)
 
 Luis Valencia showed his IoT work with sensor data aggregation using Azure(링크)
 
-[이번 주 On .NET](링크)에는 Immo Landwerth, Karel Zikmund, 그리고 Wes Haggard 와 함께 .NET team 이 .NET Core 오픈소스 프로젝트와 리포들을 어떻게 관리하는지 얘기 나누도록 하겠습니다
+[이번 주 On .NET](링크)에는 Immo Landwerth, Karel Zikmund, 그리고 Wes Haggard 와 함께 .NET team 이 .NET Core 오픈소스 프로젝트와 관련리포들을 어떻게 관리하는지 얘기 나누도록 하겠습니다
 
 
 ### 금주의 App  -  Ulterius
