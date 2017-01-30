@@ -79,7 +79,7 @@ Terraria(링크)는  Re-Logic(링크)에서 C#(링크)과  XNA를이용하여 
 
 ### UWP 소식
 * Join us on Feb 8th for Windows Developer Day – Creators Update livestream : Windows Apps Team에서 Windows Developer Day 라이브 행사 진행 소식을 공유했습니다.
-* Adafruit Class Library for Windows IoT Core : Rick Lesniak가 취미용 전자기기 업체 에이타프르트(Adafruit)의 여러 IoT 장비를 제어할 수 있는 Adafruit Class Library for Windows IoT Core를 소개했습니다.
+* Adafruit Class Library for Windows IoT Core : Rick Lesniak가 취미용 전자기기 업체 에이다프루트(Adafruit)의 여러 IoT 장비를 제어할 수 있는 Adafruit Class Library for Windows IoT Core를 소개했습니다.
 * Modern Apps – Exploring the UWP Community Toolkit : Frank La Vigne이 UWP 개발에 도움이되는 많은 샘플을 포함한 UWP Community Toolkit을 소개했습니다.
 * Using custom fonts in C# UWP apps : Martin Zikmund가 C# UWP용 어플에서 사용자 폰트를 적용하는 방법을 설명했습니다.
 * Hitchhiking the HoloToolkit-Unity, Leg 9–Holes in the Walls : Mike Taulty가 HoloToolkit을 이용한 샘플개발 9번째 "벽의 구멍 효과 활용하기"를 설명했습니다.
