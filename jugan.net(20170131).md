@@ -24,7 +24,7 @@ The Perils of Man은  롤 플레잉 스타일의 어드벤쳐 게임입니다. T
 The Perils of Man(링크)는 IF Games(링크)와 Vertigo Games(링크)의 합작으로 개발되었으며  C#(링크)과   Unity(링크)를 이용하여 개발되었습니다. 현재 Steam과 iTunes을 통해서 즐기실 수 있습니다. 
 
 ### .NET 소식
-* Virtual Panel: What’s Next for .NET? : Pierre-Luc Maheu가  .NET의 향후 비젼과 다음 버전에 대해서 토의한 내용을 공유했습니다.
+* [Virtual Panel: What’s Next for .NET?](https://www.infoq.com/articles/virtual-panel-dotnet-future) : Pierre-Luc Maheu가  .NET의 향후 비젼과 다음 버전에 대해서 토의한 내용을 공유했습니다.
 * Open sourcing the VS Test platform : Brian Harry가 "VS Test platform" 오픈 소스 프로젝트를 소개했습니다.
 * Publishing .NET Core NuGet packages : Ryan Stelly가 .NET Core의 NuGet package 배포 방법을 설명했습니다.
 * Announcing a new documentation experience: easy to customize API, content/wiki pages, and blog posts in the new Wyam Docs recipe : Dave Glick이 문서작성 오픈소스 라이브러리 프로젝트 Wyam Docs를 소개했습니다.
