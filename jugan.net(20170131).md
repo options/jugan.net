@@ -95,3 +95,4 @@ The Perils of Man(링크)는 IF Games(링크)와 Vertigo Games(링크)의 합작
 * [Unity 5] Tutorial: how to create an infinite background (2D) : Gamad에서 끝이 보이지않는 배경(2D)의 구현방법을 설명했습니다.
 
 // 전무님 소개
+//  닷넷
