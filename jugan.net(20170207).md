@@ -27,7 +27,7 @@ Magicka(링크)는 Arrowhead Game Studios(링크)에서 C#(링크)과   XNA(�
 ### .NET 소식
 * The .NET language strategy : Mads Torgersen이 닷넷 개발 언어의 특징과 전략을 설명했습니다.
 * Digging deeper into the Visual Basic language strategy : Anthony D. Green이 비주얼 베이직 언어의 특징과 전략을 소개했습니다.
-* Cross-platform drawing with SkiaSharp : Matthew Leibowitz이가 구글의 2D 그래픽 라이브러리인 SkiaSharp의 활용법을 설명했습니다.
+* Cross-platform drawing with SkiaSharp : Matthew Leibowitz가 구글의 2D 그래픽 라이브러리인 SkiaSharp의 활용법을 설명했습니다.
 * NuGet: introducing scoped API keys : Anand Gaurav이 NuGet의 scoped API key를 설명했습니다.
 * How do .NET delegates work? : Matt Warren이 .NET의 델리게이트 타입을 설명했습니다.
 * Application Insights telemetry processors : Maarten Balliauw가 Application Insight 원격진단 서비스를 설명했습니다.
