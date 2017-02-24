@@ -42,7 +42,7 @@ GitHub에 공유된 rawreadline.cs 파일의 코드 내용
 * Anti-Forgery Tokens and ASP.NET Core APIs : K. Scott Allen이 위조불가 인증 토근과 관련 ASP.NET Core API에 대해서 설명했습니다.
 
 
-### F#
+### F# 소식
 * F# is in the top 3 for most-loved technology on StackOverflow : StackOverflow에서 F#이 3번째로 가장많이 사랑받는 기술로 선정되었습니다.
 * Functional ASP.NET Core : Dustin Moris Gorski가 Suave.AspNetCore을 활용한 Functional ASP.NET Core 를 설명했습니다.
 * A brief peek about Universal F#, : Jonathan Banashek이 Universal F#을 소개했습니다.
