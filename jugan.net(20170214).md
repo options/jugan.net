@@ -1,19 +1,25 @@
-.NET 15주년과 Visual Studio 20주년을 함께 축하해주세요!
+여러분들의 적극적인 참여를 기다리고 있습니다. 혼자 알고 있기에는 너무나 아까운 글, 소스 코드, 라이브러리를 발견하셨거나 혹은 직접 작성하셨다면 Gist나 주간닷넷 페이지를 통해 알려주세요. .NET 관련 동호회 소식도 알려주시면 주간닷넷을 통해 많은 분과 공유하도록 하겠습니다.
+
+###금주의 커뮤니티 소식
+Taeyo.NET에서 [http://docs.asp.net](http://docs.asp.net)의 ASP.NET Core 문서를 한글화하여 연재하고 있습니다.
+ * [ASP.NET Core 보안(인증) : Identity 살펴보기](http://taeyo.net/Columns/View.aspx?SEQ=588&PSEQ=39)
+
+###.NET 15주년과 Visual Studio 20주년을 함께 축하해주세요!
 2002년 2월 13일 .NET은 Visual Studio.NET의 일부로 처음 출시되었으며, 올해는 .NET이 15주년을 맞이한 해입니다.
 .NET 15주년을 기념하여 .NET팀이 2000년도부터 C# 프로그래밍 언어 개발팀의 설계사로 일하고 있는 Hejlsberg와 인터뷰를 진행하였습니다.
 또한, 올해는 Visual Studio의 20주년 기념일이기도 합니다. Visual Studio 20주년을 기념하여 Microsoft에서 개발자들을 위한 새로운 선물을 준비하였는데요. Julia Liuson가 소개해드립니다.
 
 ### On .NET 소식
-[지난 주 On .NET]에서는 Phil Haack와 함께 이야기 나누어보았습니다. Phil은 이전에 ASP.NET MVC 프로그램 매니저였으며 현재는 GitHub에서 일하고 있습니다.
+[지난 주 On .NET](https://channel9.msdn.com/Shows/On-NET/Phil-Haack-GitHub)에서는 [Phil Haack](https://twitter.com/haacked)와 함께 이야기 나누어보았습니다. Phil은 이전에 ASP.NET MVC 프로그램 매니저였으며 현재는 [GitHub](https://github.com/)에서 일하고 있습니다.
 //그림
 
-[이번 주 On .NET]에서는 Beth Massi와 함께 .NET의 지난 15년을 정리해보겠습니다.
+[이번 주 On .NET](https://channel9.msdn.com/Shows/On-NET)에서는 [Beth Massi](https://twitter.com/BethMassi)와 함께 .NET의 지난 15년을 정리해보겠습니다.
 
 ### 금주의 패키지: Readline
-라이브러리 Readline은 딱 한 가지 작업만을 위한 개발 라이브러리입니다.
+라이브러리 [Readline](https://github.com/tsolarin/readline)은 딱 한 가지 작업만을 위한 개발 라이브러리입니다.
 한가지 작업만을 위한 라이브러리이지만 이 한 가지 기능을 매우 훌륭하게 지원을 하고 있습니다.
 Readline은 표준 키보드 단축키 지원, 명령 히스토리 지원, 사용자 설정으로 등록된 자동완성 명령 기능 등 콘솔 애플리케이션 환경에서 사용자 입력 프롬프트 처리와 관련된 모든 작업을 지원합니다.
-기존의 GNU Readline의 .NET 버전이라고 생각하시면 쉽게 이해가 가실 겁니다.
+기존의 [GNU Readline](https://en.wikipedia.org/wiki/GNU_Readline)의 .NET 버전이라고 생각하시면 쉽게 이해가 가실 겁니다.
 
 //코드
 
