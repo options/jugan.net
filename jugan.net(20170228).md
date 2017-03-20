@@ -40,7 +40,7 @@
 * C#7: Tools : Jeff Yates가 C# 7.0의 기능을 이해하는데 도움이 되는 몇가지 툴을 소개했습니다.
 
 ### F# 소식
-* Tour of F# : MS [문서 시스템](docs.microsoft.com)의  F# 페이지가 소개 되었습니다.
+* Tour of F# : [MS 문서 시스템](docs.microsoft.com)의  [F# 소개 페이지](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/tour)가 공유되었습니다.
 * F# 4.1 on Docker : 도커 허브 페이지에 F# 4.1 이 소개되었습니다.
 * Solving 5th Grade Math with F# and OCR : Martin Andersen이 F#과 OCR 기능을 이용하여 자신의 아들 초등학교 5학년 숙제를 해결한 과정을 공유했습니다.
 * You, Too, Can Build Xamarin Apps with F# : Greg Shackles이 Xamarin과 F#을 이용한 어플 개발 방법을 소개했습니다.
