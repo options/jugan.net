@@ -3,7 +3,7 @@
 ### Microsoft Tech Summit 서울
 이틀동안 진행되는 Microsoft Tech Summit 서울을 통해 최신 클라우드 및 IT 인프라 기술을 만나보세요!  자세한 정보 및 등록 안내는 링크를 통해 확인하실 수 있습니다.
 
-금주의 커뮤니티 소식
+### 금주의 커뮤니티 소식
 Taeyo.NET에서 [http://docs.asp.net]( http://docs.asp.net의/)의 ASP.NET Core 문서를 한글화하여 연재하고 있습니다.
 
 * [ASP.NET Core 보안(인증) : Microsoft 인증 구성하기]( http://taeyo.net/Columns/View.aspx?SEQ=593&PSEQ=39)
@@ -19,7 +19,7 @@ Taeyo.NET에서 [http://docs.asp.net]( http://docs.asp.net의/)의 ASP.NET Core 
 * [Visual Studio 2017에서 개선된 Xamarin 앱 개발]( https://blog.xamarin.com/better-apps-visual-studio-2017/)
 * [강력한 생산성을 가진 툴 Visual Studio 2017]( https://blogs.msdn.microsoft.com/visualstudio/2017/03/06/productivity-power-tools-for-visual-studio-2017/)
 
-지금 바로 다운로드하세요!
+## 지금 바로 다운로드하세요!
 
 * [.NET Core SDK 1.0]( https://www.microsoft.com/net/download/core)
 * [Visual Studio 2017]( https://www.visualstudio.com/vs/whatsnew)
