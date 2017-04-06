@@ -19,7 +19,7 @@ Taeyo.NET에서 [http://docs.asp.net]( http://docs.asp.net의/)의 ASP.NET Core 
 * [Visual Studio 2017에서 개선된 Xamarin 앱 개발]( https://blog.xamarin.com/better-apps-visual-studio-2017/)
 * [강력한 생산성을 가진 툴 Visual Studio 2017]( https://blogs.msdn.microsoft.com/visualstudio/2017/03/06/productivity-power-tools-for-visual-studio-2017/)
 
-## 지금 바로 다운로드하세요!
+### 지금 바로 다운로드하세요!
 
 * [.NET Core SDK 1.0]( https://www.microsoft.com/net/download/core)
 * [Visual Studio 2017]( https://www.visualstudio.com/vs/whatsnew)
