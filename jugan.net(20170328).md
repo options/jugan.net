@@ -9,7 +9,7 @@
 이번  주 On .NET 소식에서는Tamás Vajk과 함께  SonarLint(링크)에 대해서 얘기 나눌예정입니다.  
 
 ### Happy Birthday .NET!
-Bertrand Le Roy(링크)는 초기 베타 시절부터 .NET을 활용했으며 자신의 CMS 개발 프로젝트도 .NET 환경으로 구축했습니다. 그가 미국에 정착해서 ASP.NET 팀에 합류 할 시절은  ASP.NET 팀이 ASP.NET 2.0을 한창 개발하고있던 때였습니다. 그는  그 유명한 ASP.NET Ajax(UpdatePanel을 포함한)의 초기 개발자 이며 Orchard CMS의 공동 창업자이기도합니다.  지금 현재 Bertrand Le Roy는 .NET Core의 프로그램 매니저이며 가끔 자신을 말할때  3인칭 형식으로 말하기도합니다.
+개발 엔지니어 Bertrand Le Roy(링크)는 초기 베타 시절부터 .NET을 활용했으며 자신의 CMS 개발 프로젝트도 .NET 환경으로 구축했습니다. 그가 미국에 정착해서 ASP.NET 팀에 합류 할 시절은  ASP.NET 팀이 ASP.NET 2.0을 한창 개발하고있던 때였습니다. 그는  그 유명한 ASP.NET Ajax(UpdatePanel을 포함한)의 초기 개발자 이며 Orchard CMS의 공동 창업자이기도합니다.  지금 현재 Bertrand Le Roy는 .NET Core의 프로그램 매니저이며 가끔 자신을 말할때  3인칭 형식으로 말하기도합니다.
 
 //동영상
 
