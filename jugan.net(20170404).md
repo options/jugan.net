@@ -1,23 +1,23 @@
 ### On .NET 소식
 
-지난  주 On .NET 소식에서는Tamás Vajk, Olivier Gaudin과 함께  SonarLint(링크)와 SonarQube(링크)에 대해서 얘기 나누어 보았습니다.  .
+지난  주 On .NET 소식에서는Tamás Vajk, Olivier Gaudin과 함께  SonarLint(링크)와 SonarQube(링크)에 대해서 얘기 나누어 보았습니다. 
 
 //사진
 
 이번  주 On .NET 소식에서는 Sébastien Ros(링크)과 함께  Orchard Core(링크) 프로젝트 구현경험과 더불어  ASP.NET 어플리케이션의 모듈화를 주제로 얘기 나눌예정입니다.  
 
 ### Happy Birthday .NET! - Dan Fernandez
-지난 달 .NET birthday 파티에서 .NET 초기 멤버인 Dan Fernandez와 Visual Studio를 무료 배포등의 아이디어등 초기시절에 있었던 여러 애피소드에 대해 얘기 나누었습니다.  Dan 은 Channel9 의 원년 멤버이자 최고의 .NET 에반젤리스트 중 한명입니다.
+지난 달 .NET birthday 파티에서 .NET 초기 멤버인 Dan Fernandez와 Visual Studio를 무료 배포등의 아이디어등 초기시절에 있었던 여러 애피소드에 대해 얘기 나누었습니다. Dan 은 Channel9 의 원년 멤버이자 최고의 .NET 에반젤리스트 중 한명입니다.
 //동영상
 
 ### 금주의 프로젝트: nopCommerce
- nopCommerce(링크)는 가장 인기있는 오픈소스 전자상거래 시스템중 하나로 ASP.NET MVC, Autofac, Entity Framework을 기반으로 구축된 시스템입니다. 현재까지 180만 다운로드를 기록하고있으며 100개이상의 파트너를 보유하고있고  Volvo, BMW, Puma, Reebok, Lacoste와 같이 유명 브랜드들이 이 시스템을 직접 사용하고 있습니다.
+ nopCommerce(링크)는 가장 인기있는 오픈소스 전자상거래 시스템중 하나로 ASP.NET MVC, Autofac, Entity Framework을 기반으로 구축된 시스템입니다. 현재까지 180만 다운로드를 기록하고있으며 100개이상의 파트너를 보유하고있고  Volvo, BMW, Puma, Reebok, Lacoste와 같이 유명 브랜드들도 역시 이 시스템을 사용하고 있습니다.
 
 //사진
 
 ### .NET
 * No GCs for your allocations? : Maoni Stephens이 가비지컬렉터의 메모리 수집을 억제 기능 "NoGCRegion"을 소개했습니다.
-* .NET Core console app running on Raspberry Pi : Laurent Kempé이 라즈베리파이3 에서.NET Core 콘솔용 "Hello World" 어플 개발 방법을 설명했습니다.
+* .NET Core console app running on Raspberry Pi : Laurent Kempé이 라즈베리파이3 에서.NET Core 콘솔용 "Hello World" 어플 개발 방법을 설명했습니다.
 * The .NET IL Interpreter : Matt Warren이  .NET의 IL Interpreter에 대해서 설명했습니다.
 * Tracing Runtime Events in .NET Core on Linux and Tracing .NET Core on Linux with USDT and BCC : Sasha Goldshtein이 "리눅스  .NET Core 에서 이벤트 trace 활용 방법"(링크),  "리눅스  .NET Core 에서 USDT(User Statically Defined Tracing" 와 BCC(BPF Compiler Collection) 활용 방법"을  설명했습니다.
 * Externalizing the HttpClient internals for fun & profit : Ayende Rahien이 HttpClient의 캡슐화된 내부기능의 외부 활용 방법과 예를 설명했습니다. 
@@ -46,7 +46,7 @@
 
 ### C#
 * Christian Nagel is giving away a free chapter on C# 7 from his C# and .NET Core book : Christian Nagel이 자신의 C#7 저서 내용중 일부분(47장 - What’s New!)을 공유했습니다.
-* C# 7.0: Deconstruction demystified : Alexander Tsvetkov가 C# 7.0의 새로운 기능 Deconstruction 을 설명했습니다.
+* C# 7.0: Deconstruction demystified : Alexander Tsvetkov가 C# 7.0의 새로운 기능 Deconstruction 을 소개했습니다.
 * Sharing .NET generic code under the hood : Yi Zhang이 .NET의 제너릭 코드 기능을 설명했습니다.
 * Expression Trees in C# with an example : Sanskriti가 C#의 Expression Tree를 설명했습니다.
 * C# 7–The Good Parts–Pattern Matching (video) by Mark Heath.
