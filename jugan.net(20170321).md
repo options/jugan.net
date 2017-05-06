@@ -1,5 +1,4 @@
 ### On .NET 소식
-
 이번 주 On .NET 소식에서는 삼성에 근무하시는 Sidarth Gupta와 김홍석님이 자사의 타이젠 OS와 .NET Core 지원에 관해서 이야기 할 예정입니다.
 
 ### Happy Birthday .NET!
