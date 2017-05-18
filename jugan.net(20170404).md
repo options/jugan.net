@@ -1,3 +1,10 @@
+지난주 5/10 ~ 5/12 에는 마이크로소프트의 개발자행사인 [Microsoft Build 2017](https://build.microsoft.com/)이 개최되었습니다. Build에서 발표되었던 내용은 [Channel 9](https://channel9.msdn.com/)을 통해 전부 다시 시청하실 수 있습니다. 또한, 빌드의 열기를 직접 느껴볼 수 있는 Build Tour가 서울에서도 개최됩니다! 6/13 ~ 6/14 양일에 걸쳐서 진행되는 Build Tour Seoul에서는 빌드에서 발표된 주요 내용을 듣고 해커돈에도 직접 참가하실 수 있습니다. 자세한 내용은 아래의 링크를 참고하시기 바랍니다. 
+
+* [Build 2017 발표영상 다시보기](https://channel9.msdn.com/Events/Build/2017)
+* [Build Tour Seoul 참가 신청하기](https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x19997896a19) 
+* [Scott Guthrie가 작성한 Build 2017에서 발표된 주요 내용 확인하기](https://azure.microsoft.com/en-us/blog/new-innovations-at-microsoft-build-2017-helping-developers-achieve-more/)
+* [Build 2017의 주요 내용이 정리된 5월 16일자 주간닷넷 미리보기](https://blogs.msdn.microsoft.com/dotnet/2017/05/16/the-week-in-net-microsoft-build-2017-net-core-2-0-preview-1-for-the-king/)
+
 ### On .NET 소식
 
 지난 주 On .NET 소식에서는 Tamás Vajk, Olivier Gaudin과 함께 [SonarLint](http://www.sonarlint.org/visualstudio/index.html)와 [SonarQube](https://www.sonarqube.org/)에 대해서 이야기 나누어 보았습니다. 
@@ -34,6 +41,7 @@ Steve Gordon의 블로그에서는 ASP.NET에 대한 깊이있는 내용을 다�
 * [Cake and Fake on the ThoughtWorks technology radar](https://www.thoughtworks.com/radar/tools/cake-and-fake) :  빌드 자동화 툴인 [Cake](http://cakebuild.net/)와 [Fake] (http://fsharp.github.io/FAKE/)가 소개되었습니다.
 
 ### ASP.NET
+
 * [How to create your own templates for dotnet new](https://blogs.msdn.microsoft.com/dotnet/2017/04/02/how-to-create-your-own-templates-for-dotnet-new/) : Sayed Hashimi가 dotnet new 명령어를 이용한 사용자 정의 템플릿의 활용 방법을 설명했습니다.
 * [ASP.NET Core Anatomy (Part 3) – UseMvc – Dissecting and understanding the internals of ASP.NET Core](https://www.stevejgordon.co.uk/asp-net-core-anatomy-part-3-addmvc) : Steve Gordon이 ASP.NET Core MVC 분석(파트3)- "UseMvc" ASP.NET Core 내부 이해하기 편을 공유했습니다.
 * [Re-execute the middleware pipeline with the StatusCodePages Middleware to create custom error pages](https://andrewlock.net/re-execute-the-middleware-pipeline-with-the-statuscodepages-middleware-to-create-custom-error-pages/) : Andrew Lock이 StatusCodePages 값과 middleware 재실행을 통한 에러 페이지 구축 방법을 설명했습니다.
@@ -52,6 +60,7 @@ Steve Gordon의 블로그에서는 ASP.NET에 대한 깊이있는 내용을 다�
 * [Get Started with MultiRow Data Grid for ASP.NET MVC (video)](http://our.componentone.com/2017/03/30/get-started-with-multirow-data-grid-for-asp-net-mvc/) : Jody Handley가 ASP.NET MVC용 ComponentOne Data Grid의 MultiRow 기능을 소개했습니다.
 
 ### C#
+
 * [Christian Nagel is giving away a free chapter on C# 7 from his C# and .NET Core book](https://csharp.christiannagel.com/2017/04/03/csharp7/) : Christian Nagel이 자신의 저서인 C# and .NET Core book에서 C# 7.0에 대한 무료 챕터를 공유했습니다.
 * [C# 7.0: Deconstruction demystified](https://surfingthecode.com/2017/04/c-sharp7-deconstruction-demystified/) : Alexander Tsvetkov가 C# 7.0의 새로운 기능인 Deconstruction 을 소개했습니다.
 * [Sharing .NET generic code under the hood](http://yizhang82.me/dotnet-generics-sharing) : Yi Zhang이 .NET의 제네릭 기능을 설명했습니다.
@@ -60,6 +69,7 @@ Steve Gordon의 블로그에서는 ASP.NET에 대한 깊이있는 내용을 다�
 * [Understand monads with LINQ](http://codewithstyle.info/understand-monads-linq/) : Miłosz Piechocki가 LINQ 개념과 기능을 설명했습니다.
 
 ### F#
+
 * [Getting Started with .NET Core using F#](https://www.youtube.com/watch?v=2xG31sUsCdc&feature=youtu.be) : NET Core 환경에서 F# 활용방법을 소개했습니다.
 * [Building a security testing service with F#](https://www.youtube.com/watch?v=ZVvcWIjbbhk&feature=youtu.be) : William Blum이 F#을 이용한 보안 테스트 클라우드 서비스 프로젝트인 "Springfield"의 진행과정을 공유했습니다.
 * [Using F# to write serverless Azure functions](https://blogs.msdn.microsoft.com/uk_faculty_connection/2017/03/24/using-f-to-write-serverless-azure-functions) : Lee Stott이 F#을 이용한 Azure function구축 방법을 공유했습니다.
@@ -69,9 +79,11 @@ Steve Gordon의 블로그에서는 ASP.NET에 대한 깊이있는 내용을 다�
 * [Creating an Azure Functions solution diagram](http://brandewinder.com/2017/04/01/azure-function-app-diagram/) : Mathias Brandewinder가 F#과 GraphViz(http://www.graphviz.org/)를 이용하여 Azure Function의 구조를 다이어그램으로 표현하는 방법을 설명했습니다.
 
 ### VB
+
 * [What’s New in Visual Basic 2017](https://blogs.msdn.microsoft.com/vbteam/2017/03/30/whats-new-in-visual-basic-2017/) : Klaus Löffelmann이 Visual Basic 2017 의 새로운 기능을 정리했습니다.
 
 ### Xamarin
+
 * [Stable Release: Cycle 9 SR0 with Xcode 8.3 Support](https://releases.xamarin.com/stable-release-cycle-9-with-xcode-8-3-support/) : Bri Brothers가 Xcode 8.3을지원하는 Cycle 9 버전정보를 공유했습니다.
 * [Technical Bulletin: Xcode 8.3 Support for VS 2017](https://releases.xamarin.com/technical-bulletin-xcode-8-3-support-for-vs-2017/) : Adrian Murphy가 VS 2017에서 Xcode 8.3의 지원 소식을 공유했습니다.
 * [Beta Release: 15.1 Beta Preview 2](https://releases.xamarin.com/beta-release-15-1-rc2/) : Bri Brothers가 15.1 Beta Preview 2 버전 정보를 공유했습니다.
@@ -98,18 +110,22 @@ Steve Gordon의 블로그에서는 ASP.NET에 대한 깊이있는 내용을 다�
     * [Xamarin.University – Upcoming Guest Lecture on Cross-Platform WebRTC](https://alexdunn.org/2017/03/28/xamarin-university-upcoming-guest-lecture-on-cross-platform-webrtc/) : Xamarin University 과정 WebRTC (Web Real-Time Communication) 정보를 공유했습니다.
 
 ### Azure
+
 * [HTTP-triggered Azure Functions](http://gunnarpeipman.com/2017/04/azure-functions-http/) : Gunnar Peipman이 HTTP 요청에 응답하는 Azure Function에 대해서 설명했습니다.
 
 ### UWP
+
 * [Announcing UWP Community Toolkit 1.4](https://blogs.windows.com/buildingapps/2017/04/03/announcing-uwp-community-toolkit-1-4) : David Catuhe가 UWP Community Toolkit 1.4버전 릴리즈 정보를 공유했습니다.
 * [Desktop Bridge: Creators Update](https://blogs.windows.com/buildingapps/2017/03/31/desktop-bridge-creators-update/) : Arian Ghotbi가 윈도우10 크리에이터 업데이트(Creators Update)에 포함된 새로운 기능을 소개했습니다.
 * [New MapControl features in Windows 10 Creators Update](https://blogs.windows.com/buildingapps/2017/03/31/new-mapcontrol-features-windows-10-creators-update/) : Sandra Lori-Amin가 윈도우10 크리에이터 업데이트(Creators Update)에 포함된 새로운 지도 컨트롤을 소개했습니다.
 * [Simplify payments in UWP Apps with the Payment Request API from Microsoft](https://blogs.windows.com/buildingapps/2017/03/28/simplify-payments-uwp-apps-payment-request-api-microsoft/) : Stan Chang이 UWP 애플리케이션용 결재 API를 소개했습니다.
 
 ### Data
+
 * [Building Better Entity Framework Applications](https://www.simple-talk.com/dotnet/net-development/building-better-entity-framework-applications/) : Jon Smith가 Entity Framework을 효과적으로 사용하기 위한 방법을 설명했습니다.
 
 ### Game 개발
+
 * [[Unity] Social Sharing Tutorial (Unity, Android)](https://youtu.be/E4E4EfkGs0Y) : Reso Coder가 Unity, Android 환경에서 SNS 에 컨텐츠를 쉽게 공유할 수 있는 방법을 설명했습니다.
 * [Why F.E.A.R.’s AI is still the best in first-person shooters](https://www.rockpapershotgun.com/2017/04/03/why-fears-ai-is-still-the-best-in-first-person-shooters/) : Samuel Horti가 1인칭 슈팅케임 F.E.A.R.의 AI 기능을 설명했습니다.
 * [Designing Game Controls](http://www.gamasutra.com/blogs/AndrewDotsenko/20170329/294676/Designing_Game_Controls.php) : Andrew Dotsenko 가 다양한 방법으로 게임 조작(키,마우스등)시 구성 및 설계 방법을 설명했습니다.
