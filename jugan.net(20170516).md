@@ -45,7 +45,7 @@ For the King은  전통 RPG 어드벤쳐에 전략적 요소가 더해진 독특
 
 For the King은  IronOak Games에서  C# and Unity를 이용하여 개발되었으며, 아직 정식 버전이 발표 되지않았기 때문에 현재 시험판을 Windows and Mac의 Steam을 통해서 체험하실 수 있습니다.
 
-### .NET
+### .NET 소식
 * The .NET Core 2.0 Preview 1, version numbers and global.json : Andrew Lock이 The .NET Core 2.0 Preview 1의 버전 번호의 의미와 global.json을 설명했습니다.
 * What is .NET Standard anyway? : Jonathan Mezach이 .NET Standard의 의미를 설명했습니다.
 * .NET Core May 2017 Update : Lee Coward가 2017 5월 .NET Core 업데이트 정보를 공유했습니다.
@@ -56,7 +56,7 @@ For the King은  IronOak Games에서  C# and Unity를 이용하여 개발되�
 * Managing dotnet Core 2.0 and dotnet Core 1.x versioned SDKs on the same machine : Scott Hanselman이 한 시스템에 두개 이상의 dotnet Core SDK가(예 dotnet Core  2.0 과 1.x) 설치되었을 경우 버전 설정 방법을 설명했습니다.
 * Mixed producer-consumer scenario in .NET : Gérald Barré가 .NET 환경의 producer-consumer 시나리오를 설명했습니다.
 
-### ASP.NET
+### ASP.NET 소식
 * Self Descriptive HTTP API in ASP.NET Core: Hypermedia : Derek Comartin이 ASP.NET Core 환경에서 자기기술적(Self Descriptive)HTTP API 개발 방법을 소개했습니다.
 * Anti-Forgery Validation with ASP.NET Core MVC and Angular : Damien Bowden이 ASP.NET Core MVC와 Angular환경에서 데이터 위조방지 검증 방법을 설명했습니다.
 * Speed Up Your ASP.NET MVC Application with Doughnut Hole Caching : Peter Vogel이  ASP.NET MVC 어플리케이션의 성능과 확장성을 높일수있는 "OutputCache"활용 방법 설명했습니다.
@@ -68,11 +68,11 @@ For the King은  IronOak Games에서  C# and Unity를 이용하여 개발되�
 * Using ImageSharp to resize images in ASP.NET Core – Part 3: caching : Andrew Lock이 "ASP.NET Core에서 ImageSharp 을 이용한 이미지 resize 방법: caching -파트2"를 공유했습니다.
 * ASP.NET Core in Visual Studio for Mac : Amr El Sehemy이 Visual Studio for Mac 의 ASP.NET Core 프로젝트를 소개했습니다.
 
-### C#
+### C# 소식
 * Tuples in C# 7.0 : Ammar Shaukat이 C# 7.0의 튜플 기능을 소개했습니다.
 * Practical C# Videos – Week #2  : Andrea Angella가 C# 개발언어 학습 동영상 -2주차 리스트를 공유했습니다.
 
-### F#
+### F# 소식
 * F# support in Rider – what’s there and what’s coming : JetBrains 개발툴 IDE툴 Rider의 F# 지원 소식과 관련 정보를 공유했습니다.
 * Early Fable Adventures %96 Building A Memory Tiles Game : Tom Prior가 F#과 Fable 을 이용한 자작 게임  "A Memory Tiles Game" 개발 진행 상태를 공유했습니다.
 * Why you should use F# : Mads Torgerson과 Phillip Carter이 빌드 2017 행사에서 F#의 장점을 설명했습니다.
@@ -80,7 +80,7 @@ For the King은  IronOak Games에서  C# and Unity를 이용하여 개발되�
 * Intuitive distributed algorithms with F# : Natalia Dzenisenka 과 Alena Hall이 F#을 활용한 "Intuitive distributed algorithms"을 소개했습니다.
 * Implementing a C# interface with an F# type : Andras Nemes가 C#으로 정의된 인터페이스를 F#에서 상속(구현)하는 방법을 공유했습니다.
 
-### Xamarin
+### Xamarin 소식
 * All Things Mobile at Microsoft Build : Nat Friedman이 빌드 개발자 행사에서 있었던 모바일 개발 관련 정보를 정리했습니다.
 * Xamarin Stable Release: 15.2 by Bri Brothers가 Xamarin의 Stable Release: 15.2 릴리즈 소식을 공유 했습니다.
 * Xamarin Alpha Release: 15.3 Preview 1 by Bri Brothers가 Xamarin의 Alpha Release: 15.3 Preview 버전 정보를 공유 했습니다.
@@ -99,17 +99,17 @@ For the King은  IronOak Games에서  C# and Unity를 이용하여 개발되�
 * iOS UITableViewCellStyle in Xamarin.Forms : Gerald Versluis이 iOS의  "UITableViewCellStyle"을 Xamarin.Forms에서 활용하는 방법을 설명했습니다.
 * Basic Patterns of Mobile Navigation : Nick Babich가 모바일 기기의 "사용자 경험" 기본 패턴을 설명했습니다.
 
-### Azure
+### Azure 소식
 * Azure Functions Runtime overview : Andrew Westgarth가 "Azure Functions Runtime" 프리뷰 버전을 공유했습니다.
 * Use Azure Media Services to Find Filler Words : Carlos Mendible이 자신이 프리젠테이션 진행중 사용했던 Filler Word(음~과 같은 군더더기 표현)를 Azure Media Service를 활용하여 검색한 경험을 공유했습니다.
 * Visual Studio 2017 Tools for Azure Functions : Andrew B Hall이 "Visual Studio 2017 Tools for Azure Function"의 프리뷰 버전 정보를 공유했습니다.
 * Use results from a load/performance test and Application Insights to solve performance problems : Patrick van Kleef이 어플리케이션의 로드(성능)테스트 방법과 Application Insights를 이용한 테스트 결과를 분석 활용하는 방법 설명했습니다.
 
-### Data 
+### Data 소식
 * Data access via SqlDataReader in ASP.NET Core 1.1 and 2.0 : jhealy가 ASP.NET Core 의 SqlDataReader 클래스를 설명했습니다.
 * Exploring DataTable and SqlDBAdapter in ASP.NET Core 2.0 : jhealy가 ASP.NET Core 의 SqlDBAdapter 클래스를 설명했습니다.
 
-### UWP
+### UWP 소식
 * Announcing Windows Template Studio : Clint Rutkas 와 Michael Crump가 Telerik 팟케스트에서 "Windows Template Studio"를 소개했습니다.
 * Windows Template Studio Resource Roundup : Michael Crump이 "Windows Template Studio"관련 학습자료를 공유했습니다.
 * Introducing Microsoft’s new Ad Monetization Platform : Vijay Rajagopalan가 마이크로소프트의 새로운 광고 플랫폼인 "Ad Monetization Platform"를 소개했습니다.
@@ -119,7 +119,7 @@ For the King은  IronOak Games에서  C# and Unity를 이용하여 개발되�
 * Cortana Skills Kit empowers developers to build intelligent experiences for millions of users : Gurpreet Singh Pall가 "Cortana Skills Kit"을 소개했습니다.
 * Announcing Microsoft’s Ad Mediation Service : Parth Pandya가 "Ad Mediation Service"를 소개했습니다.
 
-### 게임개발
+### 게임개발 소식
 * Delivering world-class game experiences using Microsoft Azure: Lessons learned from titles like Halo, Hitman, and Walking Dead : Gowtham Prasad가 Build 2017 개발자 행사에서 "Azure 서비스를 활용한 게임 개발 방법" 세션을 진행했습니다.
 * Unity game development with Visual Studio for Mac : Jb Evain가 Visual Studio for Mac을 활용한 Unity 게임 개발 방법을 소개했습니다.
 * Introducing Standard Events : Marc Tanenbaum가 Unity 의 "Standard Events"를 설명했습니다.
