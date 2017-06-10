@@ -114,7 +114,7 @@ Skyworld(링크)은  Vertigo Games(링크)에서  C#(링크)과 Unity(링크)�
 
 ### Data 소식
 * Announcing EF 6.2 beta 1 : Diego B Vega가 EF 6.2 beta 1 릴리즈 소식을 공유했습니다.
-* Entity Framework Core – Custom Migrations by Ryan Southgate.
+* Entity Framework Core – Custom Migrations : Ryan Southgate이 Entity Framework Core의 "Custom Migrations"방법을 설명했습니다.
 
 
 // 전무님 소개
