@@ -1,10 +1,11 @@
+
 ### 금주의 패키지: Open XML SDK
 이번주 소개해 드릴 패키지는 엑셀, 워드, 파워포인트 문서 작업에 활용할 수 있는 'Open XML SDK' 오픈소스 라이브러리입니다. 워드 ,엑셀, 파워포인트 문서의 고성능 편집및 작성이 가능하며 워드 문서를 HTML로 변환혹은 XLSX 포멧으로 데이터를 추출할수있으며 다양한 형태의 문서 변경작업이 가능합니다. 
 
 //코드
  
-• Source code
-• MyGet feed
+* Source code
+* MyGet feed
 
 ### 금주의 게임 : Adventure Time: Magic Man’s Head Games
 Adventure Time: Magic Man’s Head Games은 가상현실 기반 게임입니다. 게임을 시작하게되면 게임속 자이언트 풍선 속으로 순간이동된되며 그후 가상현실속 친구인 Finn과 Jake의 도움을 받으며 모든것을 정상이였던 게임 시작전 상태로 되돌리는것이 미션입니다. 게임 진행중에 플레이어는 친구를 도와 Magic Man을 추적하면서 적들과 싸우고 친구들을 구출하는등 위험한 지역에서 모험을 이어가게됩니다.
