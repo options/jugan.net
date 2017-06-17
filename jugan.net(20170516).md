@@ -1,44 +1,45 @@
-주간닷넷 2017년 05월 16일
-
 ### Microsoft Build 2017 소식
 
-Microsoft Build(링크) 행사가 성황리에 끝났습니다. 주요 핵심내용을 정리해 보았습니다.
-* Keynote Day 1, day 2 세션 동영상과 행사의 주요사항을 정리한 Keynote Recap with Scott Guthrie 동영상이 공유되었습니다.
-* New innovations at Microsoft Build 2017: Helping developers achieve more : Scott Guthrie가 개발자의 개발 생산성 관련 자료를  정리했습니다.
-* A fresh update to Visual Studio 2017 and the next preview  : John Montgomery가 Visual Studio 2017와 Visual Studio의 차기 버전에 대한 정보를 업데이트했습니다.
-* Visual Studio for Mac: now generally available : Miguel de Icaza가 애플 매킨토시용 개발 툴 Visual Studio for Mac을 소개했습니다.
-* Languages with Mads, Dustin, Phillip and Anthony with Mads Torgersen, Dustin Campbell, Anthony D. Green, and Phillip Carter : Mads Torgersen, Dustin Campbell, Anthony D. Green, 그리고 Phillip Carter 패널들 진행한 개발언어에 대한 토론이 공유되었습니다.
-* The future of C# : Mads Torgersen와 Dustin Campbell가 C#의 미래에 대한 로드맵과 정보를 공유했습니다. 
-* Why you should use F# : Mads Torgersen와 Phillip Carter가 F#의 장점을 소개했습니다.
-* Three Runtimes, one standard… .NET Standard: All in Visual Studio 2017 : Scott Hunter, Scott Hanselman, Kasey Uhlenhuth가 .NET Standard와 Visual Studio 2017의 관련 기능을 설명했습니다.
-* .NET Standard 2.0 and .NET Core 2.0 : Damian Edwards, Scott Hunter, Immo Landwerth, 그리고 Richard Lander가 .NET Standard 2.0 과 .NET Core 2.0을 설명했습니다.
-* Introducing ASP.NET Core 2.0 : Daniel Roth, Scott Hanselman, Maria Naggaga Nakanwagi가 ASP.NET Core 2.0을 소개 했습니다.
-* Visual Studio for Mac : Miguel de Icaza 와 Joseph Hill가 애플 매킨토시용 개발 툴 Visual Studio for Mac을 소개했습니다.
-* Xamarin: The future of mobile app development : Miguel de Icaza 와James Montemagno가 모바일 개발 플랫폼 Xamarin을 소개했습니다.
-* Entity Framework Core 2.0: data, mobile, server, IoT, and more : Rowan Miller가 Entity Framework Core 2.0을 소개했습니다.
-* Microservice architecture with ASP.NET Core : Glenn Condron, Cesar De Ia Torre Llorente가 ASP.NET Core환경의 마이크로서비스 아키텍쳐를 소개했습니다.
-* Advanced cross-platform mobile apps with Azure Mobile Apps and Xamarin :  James Montemagno가 통합 모바일 어플리케이션 개발 환경으로 Azure Mobile Apps과 Xamarin을 소개했습니다..
-* .NET Core and Visual Studio for Mac : Kendra Havens가 .NET Core 와 Visual Studio for Mac을 소개했습니다.
-* Visual Studio for Mac and Xamarin Live Player : Miguel de Icaza, Joseph Hill, 그리고 Mikayla Hutchinson가 Visual Studio for Mac 와 Xamarin Live Player를 설명했습니다.
-* Containerizing your Microsoft ASP.NET 4.x apps and Get my ASP.NET 4 app running in containers in Azure by Mikkel Mork Hegnhoj.
-* Unity game development with Visual Studio :Jb Evain이 "Visual Studio 유니티 게임 개발" 세션을 진행했습니다.
-* Snapshot debugging and profiling in Microsoft Azure: Next generation diagnostics for your in-production cloud apps : Dan Taylor와 Nikhil Joglekar가 Azure 기반 어플리케이션의 디버깅과 프로파일링 방법에 대한 세션을 진행했습니다.
-* How to really share code with Xamarin : Peter Bryntesson이 Xamarin 개발 환경에서의 코드 공유에 대해서 설명했습니다.
-* Virtual and mixed reality apps with C# :Mikayla Hutchinson가 C# 혼합 현실 어플리케이션 개발 방법을 설명했습니다.
-* Getting started with Aurelia and ASP.NET Core : Rob Eisenberg가 Aurelia와 ASP.NET Core를 소개했습니다.
-* ASP.NET Web Forms updates : Jeffrey T. Fritz가 ASP.NET Web Forms 의 업데이트 사항을 공유했습니다.
-* What’s new in Xamarin.Forms : Jason Smith가 Xamarin.Forms의 업데이트 사항을 공유했습니다.
-* SignalR .NET Core: Realtime cross-platform open : Damian Edwards 와 David Fowler가 실시간 웹 통신 크로스 플랫폼 라이브러리인 SignalR .NET Core를 소개했습니다.
+[Microsoft Build](https://build.microsoft.com/) 행사의 주요 핵심내용을 정리해 보았습니다. 또한 이번 주 6/13~14일에는 양재동 엘타워에서 Build Tour Seoul이 개최되었습니다. 관련 실습자료는 [http://bthack.azurewebsites.net/](http://bthack.azurewebsites.net/)에서 확인하실 수 있습니다.
 
-또한 여기에 미처 소개되지못한 세션을 포함한 모든 세션은 채널 9(링크)사이트를 통해서 다시보기가 가능합니다.
+* [Keynote Day 1](https://channel9.msdn.com/Events/Build/2017/KEY01), [day 2](https://channel9.msdn.com/Events/Build/2017/KEY02) 세션 동영상과 행사의 주요사항을 정리한 [Keynote Recap with Scott Guthrie](https://channel9.msdn.com/Events/Build/2017/C9L01) 동영상이 공유되었습니다.
+* [New innovations at Microsoft Build 2017: Helping developers achieve more](https://azure.microsoft.com/en-us/blog/new-innovations-at-microsoft-build-2017-helping-developers-achieve-more/) : Scott Guthrie가 개발자의 개발 생산성과 관련된 자료를 정리했습니다.
+* [A fresh update to Visual Studio 2017 and the next preview](https://blogs.msdn.microsoft.com/visualstudio/2017/05/10/update-to-visual-studio-2017-and-next-preview/) : John Montgomery가 Visual Studio 2017와 Visual Studio의 차기 버전에 대한 정보를 업데이트했습니다.
+* [Visual Studio for Mac: now generally available](https://blogs.msdn.microsoft.com/visualstudio/2017/05/10/visual-studio-for-mac-now-generally-available/) : Miguel de Icaza가 매킨토시용 개발 툴 Visual Studio for Mac을 소개했습니다.
+* [Languages with Mads, Dustin, Phillip and Anthony with Mads Torgersen, Dustin Campbell, Anthony D. Green, and Phillip Carter](https://channel9.msdn.com/Events/Build/2017/C9L21) : Mads Torgersen, Dustin Campbell, Anthony D. Green, 그리고 Phillip Carter이 모여서 개발 언어에 대한 토론을 진행했습니다.
+* [The future of C#](https://channel9.msdn.com/Events/Build/2017/B8104) : Mads Torgersen와 Dustin Campbell가 C#의 미래에 대한 로드맵과 정보를 공유했습니다. 
+* [Why you should use F#](https://channel9.msdn.com/Events/Build/2017/T6064) : Mads Torgersen와 Phillip Carter가 F#의 장점을 소개했습니다.
+* [Three Runtimes, one standard… .NET Standard: All in Visual Studio 2017](https://channel9.msdn.com/Events/Build/2017/B8001) : Scott Hunter, Scott Hanselman, Kasey Uhlenhuth가 .NET Standard와 Visual Studio 2017의 관련 기능을 설명했습니다.
+* [.NET Standard 2.0 and .NET Core 2.0](https://channel9.msdn.com/Events/Build/2017/C9L18) : Damian Edwards, Scott Hunter, Immo Landwerth, 그리고 Richard Lander가 .NET Standard 2.0과 .NET Core 2.0을 설명했습니다.
+* [Introducing ASP.NET Core 2.0](https://channel9.msdn.com/Events/Build/2017/B8048) : Daniel Roth, Scott Hanselman, Maria Naggaga Nakanwagi가 ASP.NET Core 2.0을 소개 했습니다.
+* [Visual Studio for Mac](https://channel9.msdn.com/Events/Build/2017/B8095) : Miguel de Icaza 와 Joseph Hill가 매킨토시용 개발 툴 Visual Studio for Mac을 소개했습니다.
+* [Xamarin: The future of mobile app development](https://channel9.msdn.com/Events/Build/2017/B8103) : Miguel de Icaza 와 James Montemagno가 모바일 개발 플랫폼 Xamarin을 소개했습니다.
+* [Entity Framework Core 2.0: data, mobile, server, IoT, and more](https://channel9.msdn.com/Events/Build/2017/B8050) : Rowan Miller가 Entity Framework Core 2.0을 소개했습니다.
+* [Microservice architecture with ASP.NET Core](https://channel9.msdn.com/Events/Build/2017/T6051) : Glenn Condron, Cesar De Ia Torre Llorente 가 ASP.NET Core 환경의 마이크로서비스 아키텍쳐를 소개했습니다.
+* [Advanced cross-platform mobile apps with Azure Mobile Apps and Xamarin](https://channel9.msdn.com/Events/Build/2017/P4121) : James Montemagno가 통합 모바일 어플리케이션 개발 환경으로 Azure Mobile Apps과 Xamarin을 소개했습니다.
+* [.NET Core and Visual Studio for Mac](https://channel9.msdn.com/Events/Build/2017/P4187) : Kendra Havens가 .NET Core 와 Visual Studio for Mac을 소개했습니다.
+* [Visual Studio for Mac and Xamarin Live Player](https://channel9.msdn.com/Events/Build/2017/C9L24) : Miguel de Icaza, Joseph Hill, 그리고 Mikayla Hutchinson가 Visual Studio for Mac 와 Xamarin Live Player를 설명했습니다.
+* [Containerizing your Microsoft ASP.NET 4.x apps](https://channel9.msdn.com/Events/Build/2017/T6001) and [Get my ASP.NET 4 app running in containers in Azure](https://channel9.msdn.com/Events/Build/2017/P4107) : Mikkel Mork Hegnhoj가 ASP.NET과 Azure Container에서 동작하는 ASP.NET과 관련된 소식을 공유했습니다.
+* [Unity game development with Visual Studio](https://channel9.msdn.com/Events/Build/2017/T6083) : Jb Evain이 "Visual Studio 유니티 게임 개발" 세션을 진행했습니다.
+* [Snapshot debugging and profiling in Microsoft Azure: Next generation diagnostics for your in-production cloud apps](https://channel9.msdn.com/Events/Build/2017/B8027) : Dan Taylor와 Nikhil Joglekar가 Azure 기반 애플리케이션의 디버깅과 프로파일링 방법에 대한 세션을 진행했습니다.
+* [How to really share code with Xamarin](https://channel9.msdn.com/Events/Build/2017/T6998) : Peter Bryntesson이 Xamarin에서 MVVM 패턴을 적용한 코드 공유 방법에 대해서 설명했습니다.
+* [Virtual and mixed reality apps with C#](https://channel9.msdn.com/Events/Build/2017/T6052) : Mikayla Hutchinson가 C#으로 가상현실 및 증강현실 애플리케이션을 개발하는 방법을 설명했습니다.
+* [Getting started with Aurelia and ASP.NET Core](https://channel9.msdn.com/Events/Build/2017/T6032) : Rob Eisenberg가 Aurelia와 ASP.NET Core를 소개했습니다.
+* [ASP.NET Web Forms updates](https://channel9.msdn.com/Events/Build/2017/T6009) : Jeffrey T. Fritz가 ASP.NET Web Forms 의 업데이트 사항을 공유했습니다.
+* [What’s new in Xamarin.Forms](https://channel9.msdn.com/Events/Build/2017/B8099) : Jason Smith가 Xamarin.Forms의 업데이트 사항을 공유했습니다.
+* [SignalR .NET Core: Realtime cross-platform open](https://channel9.msdn.com/Events/Build/2017/B8078) : Damian Edwards 와 David Fowler가 실시간 웹 통신 크로스 플랫폼 라이브러리인 SignalR .NET Core를 소개했습니다.
+
+또한 여기에 미처 소개되지 못한 세션을 포함한 모든 세션은 [Channel 9](https://channel9.msdn.com/Events/Build/2017?wt.mc_id=build_hp)을 통해서 다시 보실 수 있습니다.
 
 
 ### .NET Core 2.0 preview 1 이 릴리즈 되었습니다.
-* .NET Core 2.0 preview 1 릴리즈 정보(링크)
-*  ASP.NET Core 2.0.0-Preview1 릴리즈 정보와 웹 개발자를 위한 업데이트(링크)
-* EF Core 2.0 Preview 1 릴리즈 정보(링크)
+
+* [.NET Core 2.0 preview 1 릴리즈 정보](https://blogs.msdn.microsoft.com/dotnet/2017/05/10/announcing-net-core-2-0-preview-1/)
+* [ASP.NET Core 2.0.0-Preview1 릴리즈 정보와 웹 개발자를 위한 업데이트](https://blogs.msdn.microsoft.com/webdev/2017/05/10/aspnet-2-preview-1/)
+* [EF Core 2.0 Preview 1 릴리즈 정보](https://blogs.msdn.microsoft.com/dotnet/2017/05/12/announcing-ef-core-2-0-preview-1/)
 
 ### 금주의 게임 : For the King
+
 For the King은  전통 RPG 어드벤쳐에 전략적 요소가 더해진 독특하면서 재미있는 게임입니다. 플레이어는 For the King에서 3명의 모험가들을 컨트롤하며 왕(King)의 죽음으로 인해 세상이 혼란에 빠지지 않도록 하기위한 여정을 떠나게 됩니다. 플레이어는 게임 진행에 필요한 전략을 결정할수있으며 많은 시행착오를 바탕으로 문제를 해결해야 합니다.
 
 //그림
