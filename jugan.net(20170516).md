@@ -106,34 +106,35 @@
 * [Basic Patterns of Mobile Navigation](https://blogs.adobe.com/creativecloud/basic-patterns-of-mobile-navigation/) : Nick Babich가 모바일 기기의 "사용자 경험" 기본 패턴을 설명했습니다.
 
 ### Azure 소식
-* Azure Functions Runtime overview : Andrew Westgarth가 "Azure Functions Runtime" 프리뷰 버전을 공유했습니다.
-* Use Azure Media Services to Find Filler Words : Carlos Mendible이 자신이 프리젠테이션 진행중 사용했던 Filler Word(음~과 같은 군더더기 표현)를 Azure Media Service를 활용하여 검색한 경험을 공유했습니다.
-* Visual Studio 2017 Tools for Azure Functions : Andrew B Hall이 "Visual Studio 2017 Tools for Azure Function"의 프리뷰 버전 정보를 공유했습니다.
-* Use results from a load/performance test and Application Insights to solve performance problems : Patrick van Kleef이 어플리케이션의 로드(성능)테스트 방법과 Application Insights를 이용한 테스트 결과를 분석 활용하는 방법 설명했습니다.
+
+* [Azure Functions Runtime overview](https://azure.microsoft.com/en-us/blog/introducing-azure-functions-runtime-preview/) : Andrew Westgarth가 "Azure Functions Runtime" 프리뷰 버전을 공유했습니다.
+* [Use Azure Media Services to Find Filler Words](https://carlos.mendible.com/2017/05/15/use-azure-media-services-to-find-filler-words/) : Carlos Mendible이 자신이 프리젠테이션 진행중 사용했던 Filler Word(군더더기 표현)를 Azure Media Service를 활용하여 검색한 경험을 공유했습니다.
+* [Visual Studio 2017 Tools for Azure Functions](https://blogs.msdn.microsoft.com/webdev/2017/05/10/azure-function-tools-for-visual-studio-2017/) : Andrew B Hall이 "Visual Studio 2017 Tools for Azure Function"의 프리뷰 버전 정보를 공유했습니다.
+* [Use results from a load/performance test and Application Insights to solve performance problems](https://www.patrickvankleef.com/2017/05/15/use-results-from-a-load-performance-test-and-application-insights-to-solve-performance-problems/) : Patrick van Kleef이 애플리케이션의 로드(성능)테스트 방법과 Application Insights를 이용한 테스트 결과를 분석하는 방법을 설명했습니다.
 
 ### Data 소식
-* Data access via SqlDataReader in ASP.NET Core 1.1 and 2.0 : jhealy가 ASP.NET Core 의 SqlDataReader 클래스를 설명했습니다.
-* Exploring DataTable and SqlDBAdapter in ASP.NET Core 2.0 : jhealy가 ASP.NET Core 의 SqlDBAdapter 클래스를 설명했습니다.
+
+* [Data access via SqlDataReader in ASP.NET Core 1.1 and 2.0](https://blogs.msdn.microsoft.com/devfish/2017/05/15/data-access-via-sqldatareader-in-asp-net-core-1-1-and-2-0/) : jhealy가 ASP.NET Core 의 SqlDataReader 클래스를 설명했습니다.
+* [Exploring DataTable and SqlDBAdapter in ASP.NET Core 2.0](https://blogs.msdn.microsoft.com/devfish/2017/05/15/exploring-datatable-and-sqldbadapter-in-asp-net-core-2-0/) : jhealy가 ASP.NET Core 의 SqlDBAdapter 클래스를 설명했습니다.
 
 ### UWP 소식
-* Announcing Windows Template Studio : Clint Rutkas 와 Michael Crump가 Telerik 팟케스트에서 "Windows Template Studio"를 소개했습니다.
-* Windows Template Studio Resource Roundup : Michael Crump이 "Windows Template Studio"관련 학습자료를 공유했습니다.
-* Introducing Microsoft’s new Ad Monetization Platform : Vijay Rajagopalan가 마이크로소프트의 새로운 광고 플랫폼인 "Ad Monetization Platform"를 소개했습니다.
-* Windows is home for developers with Windows 10 Fall Creators Update : Kevin Gallo가 "Windows 10 Fall Creators Update" 관련 정보를 공유했습니다.
-* Windows 10 SDK Preview Build 16190 Released : Clint Rutkas 가 Windows 10 SDK Preview 릴리즈 소식을 공유했습니다.
-* Windows Mixed Reality Dev Kits available for pre-order : Windows Apps Team에서 혼합 현실용 디바이스킷 구매 정보를 공유했습니다.
-* Cortana Skills Kit empowers developers to build intelligent experiences for millions of users : Gurpreet Singh Pall가 "Cortana Skills Kit"을 소개했습니다.
-* Announcing Microsoft’s Ad Mediation Service : Parth Pandya가 "Ad Mediation Service"를 소개했습니다.
+* [Announcing Windows Template Studio](http://developer.telerik.com/topics/net/announcing-windows-template-studio/) : Clint Rutkas 와 Michael Crump가 Telerik 팟케스트에서 "Windows Template Studio"를 소개했습니다.
+* [Windows Template Studio Resource Roundup](http://michaelcrump.net/essential-windows-template-studio-resources/) : Michael Crump이 "Windows Template Studio" 관련 학습자료를 공유했습니다.
+* [Introducing Microsoft’s new Ad Monetization Platform](https://blogs.windows.com/buildingapps/2017/05/12/introducing-microsofts-new-ad-monetization-platform/) : Vijay Rajagopalan가 마이크로소프트의 새로운 광고 플랫폼인 "Ad Monetization Platform"를 소개했습니다.
+* [Windows is home for developers with Windows 10 Fall Creators Update](https://blogs.windows.com/buildingapps/2017/05/11/windows-home-developers-windows-10-fall-creators-update/) : Kevin Gallo가 "Windows 10 Fall Creators Update" 관련 정보를 공유했습니다.
+* [Windows 10 SDK Preview Build 16190 Released](https://blogs.windows.com/buildingapps/2017/05/11/windows-10-sdk-preview-build-16190-released/) : Clint Rutkas 가 Windows 10 SDK Preview 릴리즈 소식을 공유했습니다.
+* [Windows Mixed Reality Dev Kits available for pre-order](https://blogs.windows.com/buildingapps/2017/05/11/windows-mixed-reality-dev-kits-available-pre-order/) : Windows Apps Team에서 혼합 현실용 디바이스킷 구매 정보를 공유했습니다.
+* [Cortana Skills Kit empowers developers to build intelligent experiences for millions of users](https://blogs.windows.com/buildingapps/2017/05/10/cortana-skills-kit-empowers-developers-build-intelligent-experiences-millions-users/) : Gurpreet Singh Pall가 "Cortana Skills Kit"을 소개했습니다.
+* [Announcing Microsoft’s Ad Mediation Service](https://blogs.windows.com/buildingapps/2017/05/08/announcing-microsofts-ad-mediation-service/) : Parth Pandya가 "Ad Mediation Service"를 소개했습니다.
 
-### 게임개발 소식
-* Delivering world-class game experiences using Microsoft Azure: Lessons learned from titles like Halo, Hitman, and Walking Dead : Gowtham Prasad가 Build 2017 개발자 행사에서 "Azure 서비스를 활용한 게임 개발 방법" 세션을 진행했습니다.
-* Unity game development with Visual Studio for Mac : Jb Evain가 Visual Studio for Mac을 활용한 Unity 게임 개발 방법을 소개했습니다.
-* Introducing Standard Events : Marc Tanenbaum가 Unity 의 "Standard Events"를 설명했습니다.
-* Unity Editor Scripting (A kick-starter guide) – Part 2 : Unity툴의 EditorWindow 클래스 확장 기능이 설명되었습니다.
-* Game Design Deep Dive: Creating a one-touch platformer in ZIP ZAP : Philipp Stollenmayer가 유명 원터치 퍼즐 게임 "ZIP ZAP"의 게임 디자인을 분석했습니다.
-* ColorGradingFilter for Monogame and XNA : Monogame, XNA환경에서 활용할수있는 색상 분석, 교정방법이 공유되었습니다.
-* Unity 5: Loading Screen/Bar : Dual Core Studio에서 "로딩 상태 화면"의 구현 방법을 설명했습니다.
+### 게임 개발 소식
 
-
+* [Delivering world-class game experiences using Microsoft Azure: Lessons learned from titles like Halo, Hitman, and Walking Dead](https://channel9.msdn.com/events/Build/2017/P4062) : Gowtham Prasad가 Build 2017 개발자 행사에서 "Azure 서비스를 활용한 게임 개발 방법" 세션을 진행했습니다.
+* [Unity game development with Visual Studio for Mac](https://blogs.msdn.microsoft.com/visualstudio/2017/05/10/unity-game-development-with-visual-studio-for-mac/) : Jb Evain가 Visual Studio for Mac을 활용한 Unity 게임 개발 방법을 소개했습니다.
+* [Introducing Standard Events](https://blogs.unity3d.com/2017/05/12/introducing-standard-events/) : Marc Tanenbaum가 Unity 의 "Standard Events"를 설명했습니다.
+* [Unity Editor Scripting (A kick-starter guide) – Part 2](http://www.gamasutra.com/blogs/AsadSohail/20170510/297738/Unity_Editor_Scripting_A_kickstarter_guide__Part_2.php) : Unity툴의 EditorWindow 클래스 확장 기능이 설명되었습니다.
+* [Game Design Deep Dive: Creating a one-touch platformer in ZIP ZAP](http://www.gamasutra.com/view/news/296982/Game_Design_Deep_Dive_Creating_a_onetouch_platformer_in_ZIP_ZAP.php) : Philipp Stollenmayer가 유명 원터치 퍼즐 게임 "ZIP ZAP"의 게임 디자인을 분석했습니다.
+* [ColorGradingFilter for Monogame and XNA](https://github.com/Kosmonaut3d/ColorGradingFilter-Sample) : Monogame, XNA환경에서 활용할수있는 색상 분석, 교정방법이 공유되었습니다.
+* [Unity 5: Loading Screen/Bar](https://www.youtube.com/watch?v=rXnZE8MwK-E&feature=youtu.be) : Dual Core Studio에서 "로딩 상태 화면"의 구현 방법을 설명했습니다.
 
 // 전무님 소개
