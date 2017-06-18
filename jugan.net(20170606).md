@@ -12,12 +12,14 @@
 //예제코드
 DateTimeCultureInfo pt_ci = new DateTimeCultureInfo("pt-PT");
 DateTime startDate = new DateTime(2011, 4, 21);
+
 //21-04-2011 - start
 //22-04-2011 - holiday
-//23-04-2011 - saturday
-//24-04-2011 - sunday
+//23-04-2011 - Saturday
+//24-04-2011 - Sunday
 //25-04-2011 - holiday
 //26-04-2011 - end
+
 DateTime endDate = startDate.AddWorkingDays( 1, pt_ci);
 Assert.IsTrue(endDate == startDate.AddDays(5));
 
