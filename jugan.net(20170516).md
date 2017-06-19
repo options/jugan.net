@@ -48,6 +48,12 @@
 
 [For the King](http://www.ironoakgames.com/)은 IronOak Games에서 [C#](https://channel9.msdn.com/Series/C-Sharp-Fundamentals-Development-for-Absolute-Beginners) and [Unity](https://blogs.msdn.microsoft.com/dotnet/2017/05/16/the-week-in-net-microsoft-build-2017-net-core-2-0-preview-1-for-the-king/unity3d.com)를 이용하여 개발되었으며, 아직 정식 버전이 발표 되지 않았고, 현재 시험판을 Windows와 Mac의 [Steam](http://store.steampowered.com/app/527230/)을 통해서 체험하실 수 있습니다.
 
+### 금주의 페이스북 페이지 
+
+TypeScript에 대해 관심을 가지는 분들이 요즘 점점 늘어나고 있는데요, TypeScript와 관련한 소식이 꾸준히 올라오고 있는 페이스북 페이지를 소개합니다. 관심있으신 분들은 한번 접속해 보시기 바랍니다!
+
+* [Let's TypeScript 페이스북 페이지](https://www.facebook.com/LetsTypeScript/)
+
 ### .NET 소식
 
 * [The .NET Core 2.0 Preview 1, version numbers and global.json](https://andrewlock.net/the-net-core-2-0-preview-1-version-numbers-and-global-json/) : Andrew Lock이 The .NET Core 2.0 Preview 1의 버전 번호의 의미와 global.json을 설명했습니다.
