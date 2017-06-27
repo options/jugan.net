@@ -116,6 +116,7 @@
 * [Windows Store: more options to manage, monetize and promote apps](https://blogs.windows.com/buildingapps/2017/05/15/windows-store-options-manage-monetize-promote-apps/) : Bernardo Zamora가 Build 2017에서 소개된 Windows Store의 새로운 기능과 정보를 정리했습니다.
 
 ### Data 소식
+
 * [Announcing EF 6.2 beta 1](https://blogs.msdn.microsoft.com/dotnet/2017/05/23/announcing-ef-6-2-beta-1/) : Diego B Vega가 EF 6.2 beta 1 릴리즈 소식을 공유했습니다.
 * [Entity Framework Core – Custom Migrations](http://www.ryansouthgate.com/2017/05/22/entity-framework-core-custom-migrations/) : Ryan Southgate이 Entity Framework Core의 Custom Migrations 방법을 설명했습니다.
 
