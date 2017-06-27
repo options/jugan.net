@@ -1,4 +1,4 @@
-### On .NET 소식 :  Mattias Karlsson – Cake
+### On .NET 소식 :  Mattias Karlsson – Cake 개발자
 
 MS 빌드 컨퍼런스 기간중 여러 참가자와 인터뷰(링크)를 진행했었습니다. 그중 이번에는 Mattias Karlsson(링크)과의 인터뷰를 공유해드리고자 합니다. Mattias Karlsson(링크)는 C#과 DSL 기술을 기반으로 한 자동 빌드 시스템 Cake(링크)의 오픈소스 프로젝트 핵심 참여자 이기도 합니다
 
